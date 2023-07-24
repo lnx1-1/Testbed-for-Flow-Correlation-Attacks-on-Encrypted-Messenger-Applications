@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywJeop7B9i2FpQy0/9CBiSKfOJH/El4Bd7CyLXi8JC3PpOkgTdG51IVmWI5RcB40L8cdTQAYPKtH77qmJhOQ0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linus\\git\\cryptCorr\\CD_Content\\Anhang\\TestbedCode\\Modules\\networkScanner\\networkScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linus\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.1\\microsoft.netcore.platforms.7.0.1.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\opentap\\9.21.0\\opentap.9.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

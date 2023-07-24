@@ -1,0 +1,13 @@
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\networkScanner.deps.json
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\networkScanner.dll
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\networkScanner.pdb
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\OpenTap.dll
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.csproj.AssemblyReference.cache
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.csproj.CoreCompileInputs.cache
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.csproj.CopyComplete
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.dll
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\networkScanner.pdb
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\networkScanner.deps.json
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\networkScanner.dll
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\networkScanner.pdb

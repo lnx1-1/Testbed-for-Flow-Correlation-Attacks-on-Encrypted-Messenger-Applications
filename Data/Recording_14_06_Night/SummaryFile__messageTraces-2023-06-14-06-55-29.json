@@ -1,0 +1,63 @@
+{
+  "NumberOfTraces": 150,
+  "NumberOfEmptySizes": 0,
+  "ProzentualEmptySizes": 0,
+  "MissingFiles": 0,
+  "Path": "messageTraces-2023-06-14-06-55-29",
+  "TypeAnalysis": {
+    "audio": {
+      "_type": "audio",
+      "count": 0,
+      "totalCount": 150,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "video": {
+      "_type": "video",
+      "count": 0,
+      "totalCount": 150,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "photo": {
+      "_type": "photo",
+      "count": 3,
+      "totalCount": 150,
+      "countProzent": 0.02,
+      "volumeProzent": 0.8973614350800817,
+      "volumeInByte": 172734,
+      "smallestMsg": 38026,
+      "largestMsg": 85355,
+      "avgSize": 57578
+    },
+    "text": {
+      "_type": "text",
+      "count": 147,
+      "totalCount": 150,
+      "countProzent": 0.98,
+      "volumeProzent": 0.10263856491991834,
+      "volumeInByte": 19757,
+      "smallestMsg": 2,
+      "largestMsg": 3117,
+      "avgSize": 134.40136054421768
+    }
+  },
+  "startTimestamp": 1686713129.4,
+  "stopTimestamp": 1686718529.4,
+  "recoredFromGroups": [
+    "Xshab_sinama",
+    "SEPAHCYBERY",
+    "Bazneshast_Tehran",
+    "dokhtarone_profail",
+    "qadrat_a1",
+    "ZZ_SO"
+  ]
+}

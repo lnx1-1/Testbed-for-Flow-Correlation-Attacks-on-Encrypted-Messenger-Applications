@@ -1,0 +1,6 @@
+{
+  "IPAddress": "192.168.4.1",
+  "CaptureUsername": "captureUsr",
+  "CaptureUsrPassword": "qwertz",
+  "RemoteFilePath": "capture"
+}

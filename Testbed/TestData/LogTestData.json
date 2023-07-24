@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "size": 51,
+      "timeDelay": 2,
+      "timestamp": 1679507278,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "Heelellororofosfgseolrgsakfjbnsafasfewrgergysdfgsad",
+      "path": ""
+    },
+    {
+      "size": 106840,
+      "timeDelay": 8,
+      "timestamp": 1679507292.005,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "../../TestData/img/5249404218987628454_121.jpg"
+    },
+    {
+      "size": 202386,
+      "timeDelay": 13,
+      "timestamp": 1679507304.323,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "../../TestData/img/LED Idea.jpg"
+    },
+    {
+      "size": 607,
+      "timeDelay": 15.5,
+      "timestamp": 1679507309,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "new MessageReceivedEventArgs(-1, -1.551365636, \u0022\u0022, false),\n        new MessageReceivedEventArgs(-1, -155136.5636, \u0022Hello\\nduDa\u0022, false){_Path = \u0022\u0022}\n      };\n\n      var msgEvents = msgEventsArgs.Select(ev =\u003E ev.AsMsgEvent()).ToList();\n      \n      string filePath = \u0022./jsonTestFile.json\u0022;\n      var jsonEvFile = new JsonMessageEventFile(msgEvents);\n      jsonEvFile.WriteToDisk(filePath, true);\n\n      var loadedEvFile = JsonMessageEventFile.ReadMessageEventFile(filePath).GetAwaiter().GetResult();\n      var loadedEvs = loadedEvFile._MsgEvents;\n      Assert.That(msgEvents,Is.EquivalentTo(loadedEvs));\n    }",
+      "path": ""
+    },
+    {
+      "size": 56882,
+      "timeDelay": 17,
+      "timestamp": 1679507331.138,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "../../TestData/img/raum.png"
+    }
+  ]
+}

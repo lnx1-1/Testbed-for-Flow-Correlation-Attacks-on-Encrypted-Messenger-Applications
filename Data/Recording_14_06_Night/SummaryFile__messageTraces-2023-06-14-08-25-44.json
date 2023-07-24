@@ -1,0 +1,63 @@
+{
+  "NumberOfTraces": 275,
+  "NumberOfEmptySizes": 0,
+  "ProzentualEmptySizes": 0,
+  "MissingFiles": 1,
+  "Path": "messageTraces-2023-06-14-08-25-44",
+  "TypeAnalysis": {
+    "audio": {
+      "_type": "audio",
+      "count": 0,
+      "totalCount": 275,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "video": {
+      "_type": "video",
+      "count": 1,
+      "totalCount": 275,
+      "countProzent": 0.0036363636363636364,
+      "volumeProzent": 0.9996544493500409,
+      "volumeInByte": 726224231,
+      "smallestMsg": 726224231,
+      "largestMsg": 726224231,
+      "avgSize": 726224231
+    },
+    "photo": {
+      "_type": "photo",
+      "count": 4,
+      "totalCount": 275,
+      "countProzent": 0.014545454545454545,
+      "volumeProzent": 0.00030763469971685823,
+      "volumeInByte": 223489,
+      "smallestMsg": 25616,
+      "largestMsg": 81892,
+      "avgSize": 55872.25
+    },
+    "text": {
+      "_type": "text",
+      "count": 270,
+      "totalCount": 275,
+      "countProzent": 0.9818181818181818,
+      "volumeProzent": 3.791595024229765E-05,
+      "volumeInByte": 27545,
+      "smallestMsg": 1,
+      "largestMsg": 1317,
+      "avgSize": 102.01851851851852
+    }
+  },
+  "startTimestamp": 1686718544.224,
+  "stopTimestamp": 1686723944.225,
+  "recoredFromGroups": [
+    "Xshab_sinama",
+    "SEPAHCYBERY",
+    "Bazneshast_Tehran",
+    "dokhtarone_profail",
+    "qadrat_a1",
+    "ZZ_SO"
+  ]
+}

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramAPIPlugin", "TelegramAPIPlugin\TelegramAPIPlugin.csproj", "{BE17C3CA-169B-4790-9901-7F459C6C490C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramAPI_Tests", "TelegramAPI_Tests\TelegramAPI_Tests.csproj", "{FCB0DAB6-4757-43D1-9942-136D76B24762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCommons", "..\..\ProjectCommons\ProjectCommons.csproj", "{1C11B63E-7523-4219-B41B-3A89555486E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgAPIRunner", "TgAPIRunner\TgAPIRunner.csproj", "{D42FFF1C-5F27-4C37-B25A-E7CC2D26314C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageInjector", "..\..\MessageInjector\MessageInjector.csproj", "{B88B95BA-9558-45E6-ABB5-89CDEF8076D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE17C3CA-169B-4790-9901-7F459C6C490C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE17C3CA-169B-4790-9901-7F459C6C490C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE17C3CA-169B-4790-9901-7F459C6C490C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE17C3CA-169B-4790-9901-7F459C6C490C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB0DAB6-4757-43D1-9942-136D76B24762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB0DAB6-4757-43D1-9942-136D76B24762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB0DAB6-4757-43D1-9942-136D76B24762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB0DAB6-4757-43D1-9942-136D76B24762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C11B63E-7523-4219-B41B-3A89555486E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C11B63E-7523-4219-B41B-3A89555486E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C11B63E-7523-4219-B41B-3A89555486E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C11B63E-7523-4219-B41B-3A89555486E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42FFF1C-5F27-4C37-B25A-E7CC2D26314C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42FFF1C-5F27-4C37-B25A-E7CC2D26314C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42FFF1C-5F27-4C37-B25A-E7CC2D26314C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42FFF1C-5F27-4C37-B25A-E7CC2D26314C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B88B95BA-9558-45E6-ABB5-89CDEF8076D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88B95BA-9558-45E6-ABB5-89CDEF8076D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88B95BA-9558-45E6-ABB5-89CDEF8076D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88B95BA-9558-45E6-ABB5-89CDEF8076D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "size": 51,
+      "timeDelay": 0,
+      "timestamp": 1679507278,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "Heelellororofosfgseolrgsakfjbnsafasfewrgergysdfgsad",
+      "path": null
+    },
+    {
+      "size": 11368,
+      "timeDelay": 20,
+      "timestamp": 1679507292.005,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "B:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug\\tg_profiles\\db_Lycamobile\\photos\\5249404218987628451_109.jpg"
+    },
+    {
+      "size": 14677,
+      "timeDelay": 25,
+      "timestamp": 1679507304.323,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "B:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug\\tg_profiles\\db_Lycamobile\\photos\\5249404218987628452_121.jpg"
+    },
+    {
+      "size": 607,
+      "timeDelay": 25.5,
+      "timestamp": 1679507309,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "new MessageReceivedEventArgs(-1, -1.551365636, \u0022\u0022, false),\n        new MessageReceivedEventArgs(-1, -155136.5636, \u0022Hello\\nduDa\u0022, false){_Path = \u0022\u0022}\n      };\n\n      var msgEvents = msgEventsArgs.Select(ev =\u003E ev.AsMsgEvent()).ToList();\n      \n      string filePath = \u0022./jsonTestFile.json\u0022;\n      var jsonEvFile = new JsonMessageEventFile(msgEvents);\n      jsonEvFile.WriteToDisk(filePath, true);\n\n      var loadedEvFile = JsonMessageEventFile.ReadMessageEventFile(filePath).GetAwaiter().GetResult();\n      var loadedEvs = loadedEvFile._MsgEvents;\n      Assert.That(msgEvents,Is.EquivalentTo(loadedEvs));\n    }",
+      "path": null
+    },
+    {
+      "size": 106840,
+      "timeDelay": 30,
+      "timestamp": 1679507331.138,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "B:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug\\tg_profiles\\db_Lycamobile\\photos\\5249404218987628454_121.jpg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="AlgorithmAdapter.Event_Based.Detection.RunExternalPythonDetectionScript" Id="07cb374b-bf3a-45c9-a1ad-dc479bd7a920">
+      <_scriptPath>C:\Users\Linus\git\cryptCorr\attack algorithms/testCode/Event-Based-IM-V2/DetectionIM_v_2.py</_scriptPath>
+      <_PcapINPath>"C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Recording_15_06_Evening\ExtractedTraces\WithoutRelTimestamps\channel"</_PcapINPath>
+      <_TracesINpath>"C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Recording_15_06_Evening\ExtractedTraces\WithoutRelTimestamps\traces"</_TracesINpath>
+      <_resultsPath>"C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Recording_15_06_Evening"</_resultsPath>
+      <appendTimeSuffix>true</appendTimeSuffix>
+      <Name Metadata="Step Name">RunExternalPythonDetectionScript</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

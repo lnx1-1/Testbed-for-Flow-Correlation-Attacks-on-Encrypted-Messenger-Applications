@@ -1,0 +1,62 @@
+{
+  "NumberOfTraces": 19,
+  "NumberOfEmptySizes": 0,
+  "ProzentualEmptySizes": 0,
+  "MissingFiles": 0,
+  "Path": "messageTraces-2023-07-01-06-24-07",
+  "TypeAnalysis": {
+    "audio": {
+      "_type": "audio",
+      "count": 0,
+      "totalCount": 19,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "video": {
+      "_type": "video",
+      "count": 6,
+      "totalCount": 19,
+      "countProzent": 0.3157894736842105,
+      "volumeProzent": 0.9522638758885894,
+      "volumeInByte": 23426576,
+      "smallestMsg": 752522,
+      "largestMsg": 9671977,
+      "avgSize": 3904429.3333333335
+    },
+    "photo": {
+      "_type": "photo",
+      "count": 9,
+      "totalCount": 19,
+      "countProzent": 0.47368421052631576,
+      "volumeProzent": 0.04762555918111873,
+      "volumeInByte": 1171633,
+      "smallestMsg": 36400,
+      "largestMsg": 300791,
+      "avgSize": 130181.44444444444
+    },
+    "text": {
+      "_type": "text",
+      "count": 4,
+      "totalCount": 19,
+      "countProzent": 0.21052631578947367,
+      "volumeProzent": 0.00011056493029186011,
+      "volumeInByte": 2720,
+      "smallestMsg": 8,
+      "largestMsg": 2548,
+      "avgSize": 680
+    }
+  },
+  "startTimestamp": 1688171041.992,
+  "stopTimestamp": 1688185447.628,
+  "recoredFromGroups": [
+    "akhbarefori",
+    "linkyab",
+    "Gilin_Gilin",
+    "farsna",
+    "dasriam"
+  ]
+}

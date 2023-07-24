@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="OpenTap.Plugins.BasicSteps.RepeatStep" Id="4fc018b9-f1f3-41d8-bb90-eabe441c73ac">
+      <Action>Fixed_Count</Action>
+      <TargetStep />
+      <TargetVerdict>Fail</TargetVerdict>
+      <Count>1</Count>
+      <Retry>false</Retry>
+      <ClearVerdict>false</ClearVerdict>
+      <MaxCount>
+        <Value>3</Value>
+        <IsEnabled>false</IsEnabled>
+      </MaxCount>
+      <Name Metadata="Step Name">Repeat</Name>
+      <ChildTestSteps>
+        <TestStep type="IMAppConnection.SetupMessageChannels" Id="07bf233a-ff3c-43c9-ab29-c0e40407a834">
+          <UseChannelNameFile>true</UseChannelNameFile>
+          <leaveAllOtherChannels>true</leaveAllOtherChannels>
+          <MessageChannels>
+            <String>IMTestGroup</String>
+          </MessageChannels>
+          <ChannelNameFilePath>..\..\TestData\TestGroupName.csv</ChannelNameFilePath>
+          <IMApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</IMApp>
+          <Name Metadata="Step Name">SetupMessageChannels</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.StartIMMessageLogging_Step" Id="b13cc1c8-c13b-4991-802e-8810ee0faea9">
+          <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+          <Name Metadata="Step Name">Start LoggingIM-App-Messages</Name>
+        </TestStep>
+        <TestStep type="packageSniffer.StartPacketCapture" Id="393694e9-5ccd-4dbf-abd2-bcf4c007c40c">
+          <_iface>br0</_iface>
+          <_CaptureFilter>net 91.105.192.0/23 or net 91.108.4.0/22 or net 91.108.8.0/22 or net 91.108.12.0/22 or net 91.108.16.0/22 or net 91.108.20.0/22 or net 91.108.56.0/22 or net 149.154.160.0/20 or net 185.76.151.0/24</_CaptureFilter>
+          <_RemoteSniffer type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_RemoteSniffer>
+          <Name Metadata="Step Name">Start PacketCapture</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.SendMessages_Step" Id="146de934-57eb-4779-ae31-b755cebe50af">
+          <messageScriptJSONPath>Results\Recording_15_06_Evening\messageTraces-2023-06-14-12-26-00_cleaned_short.json</messageScriptJSONPath>
+          <ImApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: private449</ImApp>
+          <MessageChannelName>IMTestGroup</MessageChannelName>
+          <Name Metadata="Step Name">MessageSender</Name>
+        </TestStep>
+        <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="a02e42e8-b73c-4072-908a-9257abd470c6">
+          <DelaySecs>7</DelaySecs>
+          <Name Metadata="Step Name">Delay (1)</Name>
+        </TestStep>
+        <TestStep type="packageSniffer.StopPacketCapture" Id="5064ee21-198a-42d7-a6ea-1cd472351688">
+          <_RemoteSniffer type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_RemoteSniffer>
+          <Name Metadata="Step Name">Stop PacketCapture</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.TestSteps.StopIMMessageLogging_Step" Id="69d5f293-f1ce-4de3-a33c-daf0b7c014f2">
+          <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+          <_outputToMessageTraceFile>false</_outputToMessageTraceFile>
+          <_outputToMessageScriptJSON>true</_outputToMessageScriptJSON>
+          <_outputFolderPath>Results\Test_PhoneOpenClose</_outputFolderPath>
+          <_msgTraces>
+            <MsgEvent>
+              <size>20</size>
+              <timeDelay>7.51800012588501</timeDelay>
+              <timestamp>1687450247</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2obYtNmFIC4uLvCfmIHinaTvuI8=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>71</size>
+              <timeDelay>11.825999975204468</timeDelay>
+              <timestamp>1687450251</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>اینا اگه اینو درک میکردن که مملکت گل و...</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>103</size>
+              <timeDelay>14.313000202178955</timeDelay>
+              <timestamp>1687450253</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>به نظرتون انصراف بدیم یا بعد از دو سال ماشین تحویل بگیریم</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>158</size>
+              <timeDelay>17.41700005531311</timeDelay>
+              <timestamp>1687450257</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>یه دونه سلام فرمانده روهم بخونید،یه کارت صدآفرین به همراه میلیونهادلار،شاباش میگیرید.</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>59</size>
+              <timeDelay>20.065999984741211</timeDelay>
+              <timestamp>1687450259</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2KfZhiDYtNin2KfZhNmE2Ycg2KjZhyDYqtmI2LHYtNmI2YYg2KjYrtmI2LHbjCDwn5ic8J+YgvCfmII=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>4</size>
+              <timeDelay>23.501000165939331</timeDelay>
+              <timestamp>1687450263</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>نه</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>24</size>
+              <timeDelay>26.745000123977661</timeDelay>
+              <timestamp>1687450266</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>دخترای خلو چل</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>155</size>
+              <timeDelay>30.039000034332275</timeDelay>
+              <timestamp>1687450269</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2LPZhNin2YUgOikg2LnYstuM2LIK2KjZhyDar9ix2YjZhyDar9uM2YTbjNmGINqv2LHZiNm+IPCfkqwg2K7ZiNi0INin2YXYr9uM2K8g8J+YjQoK2LPYp9i52Kog4oC64oC6INuw27k627XbtiAoINqG2YfYp9ix2LTZhtio2Ycg27LbtCDYrtix2K/Yp9ivINux27TbsNuyICk=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>67</size>
+              <timeDelay>31.139000177383423</timeDelay>
+              <timestamp>1687450270</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>به ولله اگه اینا نباشن دزدی زیاد میشه</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>116</size>
+              <timeDelay>32.511000156402588</timeDelay>
+              <timestamp>1687450272</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>همراهان  زاکانی درکنگره متروپلیس چیکارمیکردن؟چه ربطی داره آخه؟</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>22</size>
+              <timeDelay>35.917999982833862</timeDelay>
+              <timestamp>1687450275</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>احرای زنده؟!</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>69</size>
+              <timeDelay>37.615000009536743</timeDelay>
+              <timestamp>1687450277</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>خوب نتیجه میگیریم کل لیگ دارندمیسوزند</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>8</size>
+              <timeDelay>38.16100001335144</timeDelay>
+              <timestamp>1687450277</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>سلام</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>64</size>
+              <timeDelay>39.073000192642212</timeDelay>
+              <timestamp>1687450278</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2obZhiDYqtinINm+2LPYsSDYqtmIINqv2YTbjNmGINiu2YjYryDaqdi024wg2YXbjCDaqdmG2Ybwn5iC8J+Ygg==</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>8</size>
+              <timeDelay>40.4060001373291</timeDelay>
+              <timestamp>1687450280</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>سلام</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>38</size>
+              <timeDelay>41.186000108718872</timeDelay>
+              <timestamp>1687450280</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>خودتم ازاون متفکرایی</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>8</size>
+              <timeDelay>50.18500018119812</timeDelay>
+              <timestamp>1687450289</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>اوکی</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>118</size>
+              <timeDelay>57.460000038146973</timeDelay>
+              <timestamp>1687450297</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>دستگیری بنام مردم به کام خودشون. یک ریالش به بیت المال بر نمی گرده</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>15</size>
+              <timeDelay>57.483000040054321</timeDelay>
+              <timestamp>1687450297</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>آماده ام</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>128</size>
+              <timeDelay>60.592000007629395</timeDelay>
+              <timestamp>1687450300</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2KjYsdmIINio2KfZhtmHINmH2LHZgtiv2LEg2K/ZhNiqINio2K7ZiNin2K8g2KjYrtixIPCfmIIK2YjZhNuMINio2LnYryDbjNqp2YXYp9mHINin2YjbjNmGINii2Kgg2K7ZhtqpINmF2YjYrNmI2K/ZhyDwn5iC8J+YgvCfkY8=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>78</size>
+              <timeDelay>74.0329999923706</timeDelay>
+              <timestamp>1687450313</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>دیروزم بهت گفتم دختر اصفهانی ها چی هستن خخخ</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>51</size>
+              <timeDelay>76.33899998664856</timeDelay>
+              <timestamp>1687450315</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>8J+YgfCfmILwn5iCCgrar9mI2LTYqiDZhdix2K/ZhyDZhduM2K7ZiNix24zZhiDwn6W5</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>122</size>
+              <timeDelay>76.368000030517578</timeDelay>
+              <timestamp>1687450316</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2LnZhNuMINii2YLYpyDYr9ix2LPYqiDZhtmI2LTYqtinINio2LnYttuM2Kcg2YbZhduM2KrZiNmG2YYg2KfYstiv2YjYsSDYtNmE24zaqSDaqdmG2Ybwn6St8J+krfCfpK0g2YHYp9i12YTZhyDYqNqv24zYsfCfpK0=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>115</size>
+              <timeDelay>84.055999994277954</timeDelay>
+              <timestamp>1687450323</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2YXYrdiz2YYg2YbaqdmGINiq2Ygg2qnZhyDZhduM2K/ZiNmG24wg2YXZhiDYqNmHINiu2KfYt9ixINqv2YTYstin2LEg2KfZgdiz2LHYr9qv24zigIwg2LTYr9uM2K8g2q/YsdmB2KrZhSDwn5iC8J+Ygg==</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>292</size>
+              <timeDelay>88.5789999961853</timeDelay>
+              <timestamp>1687450328</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2KjZhNmHINio2Ycg2K3YsdmBINmH2YXZhyDYudmE2KfZhdmHINiv2YfYsSDYrtiz2KrZhiDZh9mF2Ycg2KfZhtiz2KfZhiDYqNinINiu2K/Yp9inCtin2YXYpyDYqtmIINi52YXZhCDZh9mF2Ycg8J+YkPCfmJAK2KjYudivINmF24zYp9mGINio2YTYqNmEINiy2KjZiNmG24wg2YXbjNqp2YbZhiDYp9qv2Ycg2YXYsdiv2YUuLi4uCgrYrtioINmF2YbZiCDYqtmIINin24zZhiDZhdix2K/ZhSDYsdmIINiq2LTaqduM2YQg2YXbjNiv24zZhSDYr9uM2q/ZhwrYp9iyINmF2LHbjNiuINmG24zZiNmF2K/ZhiDaqdmH8J+YkA==</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>303</size>
+              <timeDelay>96.444000005722046</timeDelay>
+              <timestamp>1687450336</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>اونجایی که پاتریک میگفت باب اسفنجی من هی میخورم میخوابم، هی میخورم میخوابم، هی میخورم و باز میخوابم بدون اینکه استراحت کنم ولی خسته ام؛ الان تازه درکش میکنم که چی میگه</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>355</size>
+              <timeDelay>96.634999990463257</timeDelay>
+              <timestamp>1687450336</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>ببین چه بلایی جمهوری اسلامی سر ایران آورده که اونا : عربستان در ۲۰۳۰ بزرگترین صندوق ثروت ملی جهان را خواهد داشت! بعد ما: صف دریافت آب آشامیدنی در پی قطع شدن آب در مناطق مختلف تهران
+سه‌شنبه، ۲۳ خرداد</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>27</size>
+              <timeDelay>97.085000038146973</timeDelay>
+              <timestamp>1687450336</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2LLZhtiv2Ycg2KjYp9i024zimLrvuI/wn4y6</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>25</size>
+              <timeDelay>105.75</timeDelay>
+              <timestamp>1687450345</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2YXYrdiz2YYg8J+YkPCfmJDwn5iC8J+Ygg==</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>41</size>
+              <timeDelay>116.07000017166138</timeDelay>
+              <timestamp>1687450355</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>واویلااا دوسال کی زندس</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>100</size>
+              <timeDelay>116.08500003814697</timeDelay>
+              <timestamp>1687450355</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>فردا ماشین های سایپاهم دوبرابرمیشه بعلت آپشن های اضافی</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>83</size>
+              <timeDelay>116.10900020599365</timeDelay>
+              <timestamp>1687450355</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2LPYp9iy2YbYr9mHINmF2YjYtNqpINmH2KfbjNm+2LHYs9mI2YbbjNqpINio2Ycg2obZhyDZgdmE2Kfaqdiq24wg2KfZgdiq2KfYr9mHIPCfmII=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>17</size>
+              <timeDelay>116.53200006484985</timeDelay>
+              <timestamp>1687450356</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>سلام خوبی</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>2329111</size>
+              <timeDelay>134.92600011825562</timeDelay>
+              <timestamp>1687450375.049</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\46128352_213744944344190_8864651854563277989_n.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>205978</size>
+              <timeDelay>285.90200018882751</timeDelay>
+              <timestamp>1687450526.025</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273500981_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>35968</size>
+              <timeDelay>783.34500002861023</timeDelay>
+              <timestamp>1687451023.468</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273500995_120.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>45641</size>
+              <timeDelay>813.15300011634827</timeDelay>
+              <timestamp>1687451053.275</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273500996_120.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>27656397</size>
+              <timeDelay>1207.4190001487732</timeDelay>
+              <timestamp>1687451447.542</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\IMG_3255.MP4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>2357782</size>
+              <timeDelay>1240.0410001277924</timeDelay>
+              <timestamp>1687451480.164</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\5235_(0).mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>2898569</size>
+              <timeDelay>1519.6190001964569</timeDelay>
+              <timestamp>1687451759.742</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\video_2023-06-14_00-49-29.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>10887013</size>
+              <timeDelay>1773.3990001678467</timeDelay>
+              <timestamp>1687452013.522</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\5785260311363719739.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>543</size>
+              <timeDelay>2135.7640001773834</timeDelay>
+              <timestamp>1687452375</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>2KrYudi324zZhNuMINix2YjYsiDYtNmG2KjZhyDZgti32LnbjCDZhtuM2LPYqgoK8J+UuyDYrdiz24zZhtuM2Iwg2LnYttmIINqp2YXbjNiz24zZiNmGINin2KzYqtmF2KfYuduMINmF2KzZhNizOiDZvtuM2LTZhtmH2KfYryDZhdi02K7YtSDaqdmF24zYs9uM2YjZhiDYp9is2KrZhdin2LnbjCDYp9uM2YYg2KfYs9iqINqp2Ycg2b7ZhtisINix2YjYsiDZh9mB2KrZhyDaqdin2LHbjCDYqNin2LTYryDZiCDYs9in2LnYqiDaqdin2LHbjCDaqdin2LHZhdmG2K/Yp9mGINmG24zYsiDYsdmI2LLbjCDZh9i02Kog2LPYp9i52Kog2KfYs9iqLgoK8J+UuyDYp9uM2YbaqdmHINio24zZhiDZvtmG2KzYtNmG2KjZhyDZiCDYtNmG2KjZhyDaqdiv2KfZhSDYsdmI2LIg2KrYudi324zZhCDYqNin2LTYryDZh9mG2YjYsiDYrNin24wg2KjYrdirINiv2KfYsdivLiDZhdmF2qnZhiDYp9iz2Kog2K/YsSDYtdit2YYg2YXYrNmE2LMg2KfbjNmGINiq2LnYt9uM2YTbjCDYqNmHINm+2YbYrNi02YbYqNmHINiq2LrbjNuM2LEg2qnZhtivLgoKSm9pbiDihpIgQEdpbGluX0dpbGlu</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>813</size>
+              <timeDelay>2378.8949999809265</timeDelay>
+              <timestamp>1687452618</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>8J+Uu9io2Kcg2K7YqNix2YfYp9uMINis2YbYrNin2YTbjCDZh9ixINix2YjYsiDZh9mF2LHYp9mHINi02YjbjNiv8J+UuwoK8J+Uudis2LLYptuM2KfYqiDYqtin2LLZhyDYr9ix2KjYp9ix2Ycg2KfYudmE2KfZhSDZhtiq2KfbjNisINmG2YjYqNiqINiv2YfbjCDYudix2LbZhyDbjNqp2b7Yp9ix2obZhyDYrtmI2K/YsdmI8J+RhwpraGFiYXJmb29yaS5jb20vZmEvdGlueS9uZXdzLTMwMTA1MjUKCvCflLnYsdiv2b7Yp9uMINiv2Ygg2K/Yrtiq2LEg2K/YsSDYrNmG2KfbjNiqINi52KfYtNmC2KfZhtmH8J+RhwpraGFiYXJmb29yaS5jb20vZmEvdGlueS9uZXdzLTMwMTAzMDEKCvCflLnYs9ix2q/YsdmF4oCM2qnZhtmG2K/Zh+KAjNiq2LHbjNmGINqp2KfYsdmH2Kcg2K/YsSDbtduw27DbsCDYs9in2YQg2b7bjNi0INqG2Ycg2KjZiNiv2Ycg2KfZhtiv2J/wn5GHCmtoYWJhcmZvb3JpLmNvbS9mYS90aW55L25ld3MtMzAxMDM2NAoK8J+UudmB2KfZhCDYp9mF2LHZiNiyINix2Kcg2YHYsdin2YXZiNi0INmG2qnZhtuM2K/wn5GHCmtoYWJhcmZvb3JpLmNvbS9mYS90aW55L25ld3MtMzAxMDUxMgoK8J+Uudin24zZhiDbsiDYrtmI2LHYp9qp24wg2LHYpyDYr9ixINmI2LnYr9mHINi12KjYrdin2YbZhyDYqNiu2YjYsduM2K8g2KrYpyDZhNin2LrYsSDYtNmI24zYr/CfkYcKa2hhYmFyZm9vcmkuY29tL2ZhL3RpbnkvbmV3cy0zMDEwNTQ2CgrYrtio2LHZh9in24wg2KjbjNi02KrYsSDYsdinINiv2LEg2YjYqNiz2KfbjNiqINiu2KjYsdmB2YjYsduMINiv2YbYqNin2YQg2qnZhtuM2K/wn5S7Cmh0dHA6Ly93d3cua2hhYmFyZm9vcmkuY29t</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>1128943</size>
+              <timeDelay>2381.5440001487732</timeDelay>
+              <timestamp>1687452621.667</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\2424.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>7115845</size>
+              <timeDelay>2450.2290000915527</timeDelay>
+              <timestamp>1687452690.351</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\video_2023-06-14_10-18-46.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>58688</size>
+              <timeDelay>2660.3860001564026</timeDelay>
+              <timestamp>1687452900.509</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501019_120.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>52045</size>
+              <timeDelay>2813.5500001907349</timeDelay>
+              <timestamp>1687453053.673</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501021_120.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>616426</size>
+              <timeDelay>2814.3050000667572</timeDelay>
+              <timestamp>1687453054.428</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\1402.03.24 هیات دولت.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>77969</size>
+              <timeDelay>3002.5780000686646</timeDelay>
+              <timestamp>1687453242.701</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501024_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>48992</size>
+              <timeDelay>3032.5780000686646</timeDelay>
+              <timestamp>1687453272.701</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501026_120.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>1727097</size>
+              <timeDelay>3506.1630001068115</timeDelay>
+              <timestamp>1687453746.286</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\5785260311363719742.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>182844</size>
+              <timeDelay>3506.25400018692</timeDelay>
+              <timestamp>1687453746.377</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501042_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>190940</size>
+              <timeDelay>3506.5770001411438</timeDelay>
+              <timestamp>1687453746.7</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501043_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>2046128</size>
+              <timeDelay>3531.5230000019073</timeDelay>
+              <timestamp>1687453771.646</timestamp>
+              <type>video</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\346.mp4</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>430</size>
+              <timeDelay>3939.7580001354218</timeDelay>
+              <timestamp>1687454179</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>4pq977iPINm+24zYtNmG2YfYp9ivINio2KfZiNix2Ybaqdix2K/ZhtuMINiq24zZhSDaqdix24zYsyDYsdmI2YbYp9mE2K/ZiCDYqNmHINio24zYsdin2YbZiNmG2K8KCvCflLsg2KjYp9i02q/Yp9mHINin2YTZhti12LEg2KjYsdin24wg2KjYrtiv2YXYqiDar9uM2LHbjCDYudmE24wg2KjbjNix2Ygg2LnYr9iv24wg2YbYstiv24zaqSDYqNmHINu227Ag2YXbjNmE24zYp9ix2K8g2KrZiNmF2KfZhiDaqdmG2KfYsSDar9iw2KfYtNiq2Ycg2KfYs9iqINqp2Ycg2KfYsiDYp9uM2YYg2YXZhNio2Log27LbtduwINmH2LLYp9ixINiv2YTYp9ixINio2KfYqtmI2KzZhyDYqNmHINio2YbYryDZgdiz2K4g2KfbjNmGINiv2LHZiNin2LLZhyDYqNin2YYg2KjZhyDYqtuM2YUg2b7Ysdiz2b7ZiNmE24zYsyDZhduMINix2LPYry4KCkpvaW4g4oaSIEBHaWxpbl9HaWxpbg==</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>1184</size>
+              <timeDelay>3939.8480000495911</timeDelay>
+              <timestamp>1687454179</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>
+                <Base64>8J+UpSDZvtin24zbjNmGINiq2LHbjNmGINmG2LHYriAj2KrZiNix2YfYp9uMX9iv2KfYrtmE24wg2Ygg2K7Yp9ix2KzbjAoK4pyI77iP2qnZhNuM2Ycg2YbYsdiuINmH2KcgI9iq2YjYsV/Zh9mI2KfbjNuMIAoK8J+TniDYqNix2q/Ystin2LHbjCDYqtmI2LEg2KfYsiDYqtmF2KfZhSDYtNmH2LHZh9in24wg2KfbjNix2KfZhgrimI7vuI8gMDIxNDQyNTkxMDAKCvCflKXaqduM2LQzKigz2LHZiNiy2Ycp8J+RiDMuMzkwLjAwMArwn5Sl2qnbjNi0NSooM9ix2YjYstmHKfCfkYgzLjY5MC4wMDAK8J+UpdmF2LTZh9ivMiooM9ix2YjYstmHKfCfkYgzLjk5MC4wMDAK8J+UpdmC2LTZhTMqKDPYsdmI2LLZhynwn5GIMy45OTAuMDAwCvCflKXYp9iz2KrYp9mG2KjZiNmEKDTYsdmI2LLZhynwn5GIMTUuMzUwLjAwMArwn5Sl2KfYs9iq2KfZhtio2YjZhCg22LHZiNiy2Ycp8J+RiDE3LjM1MC4wMDAK8J+Updiq2YHZhNuM2LMoNNix2YjYstmHKfCfkYg5LjQ5MC4wMDAK8J+Updiq2YHZhNuM2LMoONix2YjYstmHKfCfkYgxMS4xODAuMDAwCvCflKXYqNin2KrZiNmF24woNNix2YjYstmHKfCfkYg5LjY5MC4wMDAK8J+Updiv2KjbjCg02LHZiNiy2Ycp8J+RiDEzLjA5MC4wMDAK8J+Updiv2KjbjCg22LHZiNiy2Ycp8J+RiDE1LjI5MC4wMDAK8J+Updii2Ybaqdin2LHYpyg02LHZiNiy2Ycp8J+RiDEyLjU5MC4wMDAK8J+Updii2YbYqtin2YTbjNinKDfYsdmI2LLZhynwn5GIMTYuOTkwLjAwMArwn5Sl2qnZiNi0INii2K/Yp9iz24woN9ix2YjYstmHKfCfkYgxOS44OTAuMDAwCvCflKXYp9ix2YXZhtiz2KrYp9mGKDTYsdmI2LLZhynwn5GIMTQuNzkwLjAwMArwn5Sl2KfYsdmF2YbYs9iq2KfZhig12LHZiNiy2Ycp8J+RiDE2Ljk5MC4wMDAK8J+Updi52YXYp9mGKDTYsdmI2LLZhynwn5GIMTIuNTkwLjAwMArwn5Sl2LnZhdin2YYoONix2YjYstmHKfCfkYgxNy4xOTAuMDAwCvCflKXZhdiz2qnZiCvYs9mGINm+2KrYsdiy2KjZiNix2q/wn5GIMzEuNDkwLjAwMCsxMjDYr9mE2KfYsQoK4pyF2KfbjNmG2LPYqtin2q/Ysdin2YUg2Ybar9in2LHYs9iq2KfZhvCflLsKaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9uZWdhcmVzdGFucGFydmF6LwoK8J+UuiDaqdin2YbYp9mEINiq2YjYsdmH2KfbjCDZhNit2LjZhyDYotiu2LHbjCDwn5S7CvCfhpRAbmVnYXJlc3RhbnBhcnZhegrimI7vuI8gMDIxNDQyNTkxMDA=</Base64>
+              </messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>82442</size>
+              <timeDelay>4348.2110002040863</timeDelay>
+              <timestamp>1687454588.334</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5235764326273501055_121.jpg</path>
+            </MsgEvent>
+          </_msgTraces>
+          <recordedGroups>
+            <PropertyName>IMAppConnection.SetupMessageChannels|MessageChannels</PropertyName>
+            <Step>07bf233a-ff3c-43c9-ab29-c0e40407a834</Step>
+          </recordedGroups>
+          <Name Metadata="Step Name">Stop LoggingIM-App-Messages</Name>
+        </TestStep>
+        <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="15a24dde-08ba-4e09-9bbb-88fcf7589874">
+          <DelaySecs>5</DelaySecs>
+          <Name Metadata="Step Name">Delay</Name>
+        </TestStep>
+        <TestStep type="packageSniffer.Teststeps.StorePacketCapture" Id="26c2944f-c45b-4287-95eb-e97473ec7f2e">
+          <_captureFolderPath>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Test_PhoneOpenClose</_captureFolderPath>
+          <_overwriteExistingFile>false</_overwriteExistingFile>
+          <_captureFileName>capture-22_06_openClose.pcap</_captureFileName>
+          <_captureDevice type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_captureDevice>
+          <Name Metadata="Step Name">Store PacketCapture</Name>
+        </TestStep>
+        <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="906da747-8787-4831-9861-b8aa55405de8">
+          <DelaySecs>5</DelaySecs>
+          <Name Metadata="Step Name">Delay (2)</Name>
+        </TestStep>
+      </ChildTestSteps>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

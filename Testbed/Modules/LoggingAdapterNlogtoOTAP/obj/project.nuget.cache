@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDVd8Q4KB2sFAtGo79HS4guNt+iTfRd4bMxPB7SPHb7RdQylqsBZNMw+Owi1ezmDtlpWgdj+7MDbihR/SdsM5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linus\\git\\cryptCorr\\CD_Content\\Anhang\\TestbedCode\\Modules\\LoggingAdapterNlogtoOTAP\\LoggingAdapterNlogtoOTAP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linus\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\opentap\\9.21.0\\opentap.9.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

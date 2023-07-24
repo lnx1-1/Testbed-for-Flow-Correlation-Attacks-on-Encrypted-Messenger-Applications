@@ -1,0 +1,2765 @@
+{
+  "messages": [
+    {
+      "size": 71,
+      "timeDelay": 38.496999979019165,
+      "timestamp": 1686718565,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0645\u062F\u064A\u0646\u064A \u0623\u062D\u0648\u0644 \u0645\u0646 \u062A\u0645\u0631\u064A\u0636 \u0644\u0637\u0628 \u0627\u0648 \u0627\u0644\u0639\u0643\u0633 \u0645\u062B\u0644\u0627\u061F",
+      "path": ""
+    },
+    {
+      "size": 129,
+      "timeDelay": 164.39499998092651,
+      "timestamp": 1686718657,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0648\u064A\u0633\u0647 \u0628\u0633 \u0645\u0648 \u0644\u062A\u0645\u0631\u064A\u0636 \u0641\u064A \u062F\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u062A\u062D\u062A\u0627\u062C \u062A\u0631\u0641\u0639\u0647\u0627 \u0627\u0643\u062A\u0631 \u0644\u0648 \u062A\u0642\u062F\u0631 \u0627\u062E\u062A\u0628\u0631 \u0642\u062F\u0631\u0627\u062A",
+      "path": ""
+    },
+    {
+      "size": 89,
+      "timeDelay": 164.39599990844727,
+      "timestamp": 1686718684,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0643\u062A\u0628 \u0627\u0633\u0645 \u0643\u0644 \u062C\u0627\u0645\u0639\u0647 \u0648\u064A\u0637\u0644\u0639\u0644\u0643 \u0643\u0645 \u0627\u0642\u0644 \u0646\u0633\u0628\u0629 \u0645\u0642\u0628\u0648\u0644\u0647 \u0641\u064A\u0647\u0627",
+      "path": ""
+    },
+    {
+      "size": 153,
+      "timeDelay": 164.39599990844727,
+      "timestamp": 1686718686,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0644\u064A \u062D\u0633\u0628 \u0627\u0644\u0645\u0639\u062F\u0644 \u0627\u0644\u062A\u0631\u0627\u0643\u0645\u064A \u0627\u0644\u0645\u0637\u0644\u0648\u0628 \u0644\u0627\u0643\u0646 \u0627\u0644\u062A\u062D\u0648\u064A\u0644 \u0645\u0646 \u062A\u0645\u0631\u064A\u0636 \u0644\u0637\u0628 \u0634\u0648\u064A \u0635\u0639\u0628 \u0648 \u0627\u0644\u0639\u0643\u0633 \u0628\u064A\u0643\u0648\u0646 \u0627\u0633\u0647\u0644",
+      "path": ""
+    },
+    {
+      "size": 33,
+      "timeDelay": 164.39599990844727,
+      "timestamp": 1686718695,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0634 \u064A\u0639\u0646\u064A \u0642\u0628\u0648\u0644 \u0645\u0648\u062D\u062F",
+      "path": ""
+    },
+    {
+      "size": 25,
+      "timeDelay": 290.29299998283386,
+      "timestamp": 1686718818,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 320.40799999237061,
+      "timestamp": 1686718862,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 513,
+      "timeDelay": 320.40899991989136,
+      "timestamp": 1686718862,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0642\u0628\u0648\u0644 \u0627\u0644\u062F\u0628\u0644\u0648\u0645 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 94,
+      "timeDelay": 350.4760000705719,
+      "timestamp": 1686718881,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0630\u0627 \u0628\u062F\u0623 \u0627\u0644\u062A\u0633\u062C\u064A\u0644 \u0628\u0627\u0644\u062C\u0627\u0645\u0639\u0647 \u060C \u0643\u0645 \u064A\u0648\u0645 \u0639\u0634\u0627\u0646 \u064A\u0642\u0628\u0644\u0648\u0646 \u0627\u0648 \u0644\u0627\u061F",
+      "path": ""
+    },
+    {
+      "size": 112,
+      "timeDelay": 350.47699999809265,
+      "timestamp": 1686718888,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u064A\u0641 \u0627\u0639\u0631\u0641 \u0637\u064A\u0628 \u0627\u0630\u0627 \u0627\u0642\u062F\u0631 \u0627\u062D\u0648\u0644 \u064A\u0639\u0646\u064A \u0641\u064A\u0647 \u0646\u0633\u0628\u0647 \u0645\u0639\u064A\u0646\u0647 \u0639\u0634\u0627\u0646 \u0627\u0642\u062F\u0631 \u0627\u062D\u0648\u0644\u061F",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 380.6010000705719,
+      "timestamp": 1686718920,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A",
+      "path": ""
+    },
+    {
+      "size": 73,
+      "timeDelay": 380.6010000705719,
+      "timestamp": 1686718924,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062D\u0631\u0633 \u0645\u0627\u0641\u064A\u0647\u0627 \u062A\u0645\u0631\u064A\u0636 \u0644\u0644\u0639\u064A\u0627\u0644 \u0628\u0633 \u0628\u0646\u0627\u062A \u0641\u064A \u062C\u062F\u0629",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 440.72200012207031,
+      "timestamp": 1686718982,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u0631\u064A\u0627\u0636 \u062A\u0641\u062A\u062D",
+      "path": ""
+    },
+    {
+      "size": 123,
+      "timeDelay": 440.72399997711182,
+      "timestamp": 1686718982,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDD12 \u0642\u064A\u0651\u0650\u062F (\u303D\uFE0F | LOUVRE |) \u0644\u062A\u062D\u062F\u062B\u0647 \u0623\u062B\u0646\u0627\u0621 \u062C\u0644\u0633\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0632 \uD83C\uDF31.\n\u23F0 \u062A\u0646\u062A\u0647\u064A \u0639\u0646\u062F\u064E 10:50 \u0635.",
+      "path": ""
+    },
+    {
+      "size": 470,
+      "timeDelay": 470.84599995613098,
+      "timestamp": 1686718999,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062D\u064A\u0646 \u0628\u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u0631\u063A\u0628\u0627\u062A \n\u0645\u062B\u0644\u0627 \u0627\u0648\u0644 \u062C\u0627\u0645\u0639\u0647 \u0646\u0648\u0631\u0647 \n\u0661-\u062A\u0642\u0646\u064A\u0647 \u0645\u0639\u0644\u0648\u0645\u0627\u062A \n\u0662-\u0646\u0638\u0645 \u0645\u0639\u0644\u0648\u0645\u0627\u062A\n\u0663-\u0639\u0644\u0648\u0645 \u062D\u0627\u0633\u0628\n\u062B\u0627\u0646\u064A \u062C\u0627\u0645\u0639\u0647 \u0627\u0644\u0627\u0645\u0627\u0645 (\u0645\u062B\u0644\u0627 \u0627\u0648\u0644 \u062B\u0644\u0627\u062B \u0631\u063A\u0628\u0627\u062A \u062A\u0642\u0646\u064A\u0647 \u0648\u0643\u0647\u0630\u0627)\n\u0661-\u062A\u0642\u0646\u064A\u0647 \u0645\u0639\u0644\u0648\u0645\u0627\u062A \n\u0662-\u062A\u0642\u0646\u064A\u0647 \u0645\u0639\u0644\u0648\u0645\u0627\u062A \n\u0663-\u062A\u0642\u0646\u064A\u0647 \u0645\u0639\u0644\u0648\u0645\u0627\u062A \n\n\u0627\u0644\u062D\u064A\u0646 \u0627\u0644\u0631\u063A\u0628\u0627\u062A \u062A\u0646\u062D\u0633\u0628 \u0662 \u0627\u0644\u0644\u064A \u0647\u064A \u0639\u0644\u0649 \u0627\u0644\u062C\u0627\u0645\u0639\u0647 \u0648\u0644\u0627 \u0639\u0644\u0649 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u064A \u0647\u064A \u0666\u0631\u063A\u0628\u0627\u062A\u061F",
+      "path": ""
+    },
+    {
+      "size": 392,
+      "timeDelay": 596.69199991226196,
+      "timestamp": 1686719085,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0641\u064A\u0647 \u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0630\u0627 \u0642\u0628\u0644\u0648\u0643 \u0645\u0633\u0627\u0631 \u062A\u0645\u0631\u064A\u0636 \u0639\u0644\u0649 \u0637\u0648\u0644 \u0628\u062F\u0648\u0646 \u062A\u062D\u0636\u064A\u0631\u064A \u0635\u062D\u064A \u0639\u0627\u0645 \u0645\u0627\u062A\u0642\u062F\u0631\u064A\u0646 \u062A\u062D\u0648\u0644\u064A\u0646 \u0632\u064A \u0627\u0644\u062D\u0631\u0633 \u0645\u0627\u0641\u064A\u0647\u0627 \u062A\u062D\u0648\u064A\u0644 \u0644\u0627\u0646 \u0645\u0633\u0627\u0631 \u0627\u0644\u062A\u0645\u0631\u064A\u0636 \u0644\u0648\u062D\u062F\u0647\u060C \u0627\u0645\u0627 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632 \u0641\u064A\u0647\u0627 \u0639\u0627\u062F\u064A \u0644\u0627\u0646\u0643 \u062F\u0631\u0633\u062A\u064A \u062A\u062D\u0636\u064A\u0631\u064A \u0627\u0648\u0644 \u0628\u0639\u062F\u064A\u0646 \u062A\u062E\u0635\u0635\u062A\u064A\u060C \u0641 \u062D\u0633\u0628 \u0627\u0644\u062C\u0627\u0645\u0639\u0647 \u0627\u0628\u062D\u062B\u064A \u0639\u0646 \u062C\u0627\u0645\u0639\u062A\u0643 \u0627\u0648\u0644",
+      "path": ""
+    },
+    {
+      "size": 120,
+      "timeDelay": 596.69300007820129,
+      "timestamp": 1686719133,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0644\u0647 \u064A\u0639\u0637\u064A\u0643 \u0627\u0644\u0639\u0627\u0641\u064A\u0647 \n\u0647\u0644 \u0641\u064A\u0647 \u0642\u0646\u0648\u0627\u062A \u064A\u0648\u062A\u064A\u0648\u0628 \u0644\u0644\u0627\u0646\u062C\u0644\u064A\u0632\u064A \u0634\u0631\u062D\u0647\u0645 \u0633\u0647\u0644 \u0648\u0633\u0644\u0633 \u061F",
+      "path": ""
+    },
+    {
+      "size": 54,
+      "timeDelay": 626.72300004959106,
+      "timestamp": 1686719152,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646\u0627 \u0644\u0642\u064A\u062A \u0648\u0644\u0643\u0646 \u0644\u0633\u0649 \u0641\u064A \u0645\u0631\u062D\u0644\u0629 \u0628\u062D\u062B",
+      "path": ""
+    },
+    {
+      "size": 117,
+      "timeDelay": 656.79500007629395,
+      "timestamp": 1686719187,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0627\u0639\u0631\u0628 \u0627\u0644\u064A \u064A\u0639\u0631\u0641 \u062D\u0633\u0627\u0628 \u062A\u0648\u064A\u062A\u0631 \u062C\u0627\u0645\u0639\u0647 \u0627\u0644\u0645\u0644\u0643 \u062E\u0627\u0644\u062F \u0641\u0631\u0639 \u0642\u0631\u064A\u0642\u0631 \u064A\u0639\u0637\u064A\u0646\u064A \uD83D\uDED1\uD83D\uDED1",
+      "path": ""
+    },
+    {
+      "size": 48,
+      "timeDelay": 719.77500009536743,
+      "timestamp": 1686719252,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u062D\u062F \u064A\u0639\u0631\u0641 \u0643\u064A\u0641 \u0627\u062D\u0633\u0628 \u0627\u0644\u0645\u0648\u0632\u0648\u0646\u0647",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 749.84299993515015,
+      "timestamp": 1686719278,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0636\u0648\u0621 \u062E\u0631\u064A\u062C",
+      "path": ""
+    },
+    {
+      "size": 671,
+      "timeDelay": 749.84400010108948,
+      "timestamp": 1686719278,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDD05\uD83C\uDF93 \u062A\u0637\u0628\u064A\u0642 \u0636\u0648\u0621 \u0627\u0644\u062E\u0631\u064A\u062C \uD83C\uDF93\uD83D\uDD05\n\n\u062A\u0637\u0628\u064A\u0642 \u064A\u0636\u0645 \u0639\u062F\u062F \u0643\u0628\u064A\u0631 \u0645\u0646 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u0633\u0639\u0648\u062F\u064A\u0629\u060C \u064A\u0645\u0643\u0646\u0643 \u0645\u0646 \u062E\u0644\u0627\u0644\u0647 \u0627\u0644\u0625\u0637\u0644\u0627\u0639 \u0639\u0644\u0649 \u0634\u0631\u0648\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0643\u0644 \u062C\u0627\u0645\u0639\u0629\u060C \u0648\u0646\u0628\u0630\u0629 \u0639\u0646 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A\u060C \u0648\u0627\u0644\u0645\u062C\u0627\u0644 \u0627\u0644\u0648\u0638\u064A\u0641\u064A \u0644\u0647\u0627\u060C \u0648\u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u062A\u064A \u062A\u0642\u0648\u0645 \u0628\u062A\u062F\u0631\u064A\u0633\u0647\u0627\u060C \u0648\u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0643\u0644 \u062A\u062E\u0635\u0635\u060C \u0648\u064A\u0645\u0643\u0646\u0643 \u0623\u064A\u0636\u064B\u0627 \u062D\u0633\u0627\u0628 \u0646\u0633\u0628\u062A\u0643 \u0627\u0644\u0645\u0648\u0632\u0648\u0646\u0629 \u0648\u0639\u062F\u0629 \u0623\u0645\u0648\u0631 \u0623\u062E\u0631\u0649 \u062A\u0647\u0645 \u0643\u0644 \u062E\u0631\u064A\u062C \u0645\u0646 \u0627\u0644\u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u062B\u0627\u0646\u0648\u064A\u0629\n\n\uD83D\uDD17| \u0627\u0644\u062A\u0637\u0628\u064A\u0642 \u0644\u0644\u0622\u064A\u0641\u0648\u0646:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD17| \u0627\u0644\u062A\u0637\u0628\u064A\u0642 \u0644\u0644\u0622\u0646\u062F\u0631\u0648\u064A\u062F:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 24,
+      "timeDelay": 749.8529999256134,
+      "timestamp": 1686719283,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u0644\u0627\u0645 \u0635\u0628\u062D \u0628\u062E\u06CC\u0631",
+      "path": ""
+    },
+    {
+      "size": 117,
+      "timeDelay": 813.24300003051758,
+      "timestamp": 1686719329,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062D\u0631\u0641\u0647\u0627\u06CC \u0627\u06CC\u0646 \u0628\u0646\u062F\u0647 \u062E\u062F\u0627 \u0631\u0627 \u062C\u062F\u06CC \u0646\u06AF\u06CC\u0631\u06CC\u062F \u0686\u0648\u0646 \u062F\u0631 \u062D\u062F \u0641\u0647\u0645 \u0648\u0633\u0648\u0627\u062F\u0634 \u0635\u062D\u0628\u062A \u0645\u06CC\u06A9\u0646\u0647",
+      "path": ""
+    },
+    {
+      "size": 48,
+      "timeDelay": 875.58599996566772,
+      "timestamp": 1686719418,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0633\u062A\u064A\u0628 \u0634\u0631\u0637 \u0627\u0633\u0627\u0633\u064A \u0644\u0644\u0628\u062A\u0631\u0648\u0644 \u061F",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 905.7020001411438,
+      "timestamp": 1686719439,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0637\u064A\u0628\u0647",
+      "path": ""
+    },
+    {
+      "size": 453,
+      "timeDelay": 905.7020001411438,
+      "timestamp": 1686719439,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0637\u064A\u0628\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u062F\u0641\u0639\u0629 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\u2753\u0627\u0644\u0623\u0633\u0626\u0644\u0629 \u0627\u0644\u0634\u0627\u0626\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 39,
+      "timeDelay": 905.70799994468689,
+      "timestamp": 1686719439,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u06CC\u0646 \u062E\u0648\u062F\u0634 \u0645\u06CC\u06A9\u0631\u0648\u0628 \u0633\u06CC\u0627\u0631\u0647",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 998.72699999809265,
+      "timestamp": 1686719499,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 513,
+      "timeDelay": 998.7279999256134,
+      "timestamp": 1686719500,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0642\u0628\u0648\u0644 \u0627\u0644\u062F\u0628\u0644\u0648\u0645 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 1187.5840001106262,
+      "timestamp": 1686719718,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629",
+      "path": ""
+    },
+    {
+      "size": 464,
+      "timeDelay": 1187.585000038147,
+      "timestamp": 1686719719,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u0634\u0631\u0648\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83C\uDFE2 \u062F\u0644\u064A\u0644 \u0627\u0644\u0633\u0643\u0646:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 49,
+      "timeDelay": 1250.5009999275208,
+      "timestamp": 1686719778,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u062D\u062F \u064A\u062D\u0644 \u0644\u064A \u0627\u0644\u0627\u062E\u062A\u0628\u0627\u0631 \u064A\u062C\u064A \u062E\u0627\u0635",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 1280.6240000724792,
+      "timestamp": 1686719806,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 513,
+      "timeDelay": 1280.6240000724792,
+      "timestamp": 1686719806,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0642\u0628\u0648\u0644 \u0627\u0644\u062F\u0628\u0644\u0648\u0645 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 72,
+      "timeDelay": 1373.643000125885,
+      "timestamp": 1686719855,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0642\u062F\u0631 \u0627\u0642\u062F\u0645 \u0639\u0644\u0649 \u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0628\u0639\u062F\u064A\u0646 \u0627\u062E\u062A\u0628\u0631 \u0633\u062A\u064A\u0628\u061F",
+      "path": ""
+    },
+    {
+      "size": 12,
+      "timeDelay": 1373.6440000534058,
+      "timestamp": 1686719860,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u064A\u062C\u0648\u0632",
+      "path": ""
+    },
+    {
+      "size": 42,
+      "timeDelay": 1373.6449999809265,
+      "timestamp": 1686719878,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0642\u062F\u0645 \u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0664 \u0627\u0644\u062D\u062C \u0635\u062D\u061F",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 1373.6449999809265,
+      "timestamp": 1686719916,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0628",
+      "path": ""
+    },
+    {
+      "size": 37,
+      "timeDelay": 1403.6719999313354,
+      "timestamp": 1686719947,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0630\u0627 \u0627\u0644\u0633\u0648\u0627\u0644 \u0645\u062D\u062F \u064A\u0639\u0631\u0641\u061F",
+      "path": ""
+    },
+    {
+      "size": 65,
+      "timeDelay": 1496.7239999771118,
+      "timestamp": 1686719984,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0633\u0645\u062D\u0648\u0646 \u0644\u0643 \u0628\u0641\u062A\u0631\u0647 \u0627\u0644\u062A\u0642\u062F\u064A\u0645 \u062A\u0631\u0641\u0639 \u0627\u0644\u062F\u0631\u062C\u0647",
+      "path": ""
+    },
+    {
+      "size": 71,
+      "timeDelay": 1496.7249999046326,
+      "timestamp": 1686720003,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0630\u0627 \u0641\u062A\u062D \u0627\u0644\u0642\u0628\u0648\u0644 \u0627\u0644\u0645\u0648\u062D\u062F \u0645\u0646 \u0648\u064A\u0646 \u0627\u062F\u062E\u0644 \u0627\u0633\u062C\u0644\u061F",
+      "path": ""
+    },
+    {
+      "size": 39,
+      "timeDelay": 1496.7249999046326,
+      "timestamp": 1686720021,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0646 \u0631\u0627\u0628\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0627\u0644\u0645\u0648\u062D\u062F",
+      "path": ""
+    },
+    {
+      "size": 18,
+      "timeDelay": 1526.819000005722,
+      "timestamp": 1686720055,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0647\u064A\u0644\u0628\u0628\u0628\u0628\u0628\u0628",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 1526.8199999332428,
+      "timestamp": 1686720060,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0627 \u0623\u062E\u0648\u0627\u0646\u0646\u0646",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 1526.8199999332428,
+      "timestamp": 1686720069,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0641\u0636\u0644\u064A",
+      "path": ""
+    },
+    {
+      "size": 62,
+      "timeDelay": 1556.9479999542236,
+      "timestamp": 1686720077,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0634\u0646\u0648 \u064A\u0628\u064A \u0644\u0647\u0627 \u062D\u0642 \u062A\u0633\u062C\u064A\u0644",
+      "path": ""
+    },
+    {
+      "size": 47,
+      "timeDelay": 1556.949000120163,
+      "timestamp": 1686720084,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u062F\u0639\u0648 \u0644\u064A \u0639\u0646\u062F\u064A \u0627\u062E\u062A\u0628\u0627\u0631\uD83C\uDFC3\uD83C\uDFFB\uD83D\uDC94",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 1556.949000120163,
+      "timestamp": 1686720100,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0628\u0634\u0631",
+      "path": ""
+    },
+    {
+      "size": 12,
+      "timeDelay": 1587.0659999847412,
+      "timestamp": 1686720109,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0641\u0648\u0648\u0648\u0648",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 1587.0680000782013,
+      "timestamp": 1686720127,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0641\u0648\u0643 \u0627\u0644\u0637\u064A\u0628",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 1587.069000005722,
+      "timestamp": 1686720130,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDC94\uD83D\uDC94\uD83D\uDC94\uD83D\uDC94",
+      "path": ""
+    },
+    {
+      "size": 67669,
+      "timeDelay": 1587.2330000400543,
+      "timestamp": 1686720131.457,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5785352185465389050_121.jpg"
+    },
+    {
+      "size": 14,
+      "timeDelay": 1617.1119999885559,
+      "timestamp": 1686720133,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0627\u0633\u0627\u062A\u0631\u0631",
+      "path": ""
+    },
+    {
+      "size": 21,
+      "timeDelay": 1617.1119999885559,
+      "timestamp": 1686720143,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u062C\u062A\u064A\u0627\u0632 \u0633\u062A\u064A\u0628",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 1617.1129999160767,
+      "timestamp": 1686720150,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u062D\u0633 \u062C\u0627\u0646\u064A \u0635\u062F\u0627\u0639\u0639",
+      "path": ""
+    },
+    {
+      "size": 46,
+      "timeDelay": 1617.1129999160767,
+      "timestamp": 1686720161,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0644\u0647 \u064A\u0648\u0641\u0642\u0643 \u0648\u0641\u0627\u0644\u0643 \u0669\u0660 \u0641\u0633\u062A\u064A\u0628",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 1647.1419999599457,
+      "timestamp": 1686720164,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0648\u0661\u0660\u0660",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 1647.183000087738,
+      "timestamp": 1686720180,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0646\u0648\u0631\u0647",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 1647.183000087738,
+      "timestamp": 1686720188,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0646\u0648\u0631\u0647",
+      "path": ""
+    },
+    {
+      "size": 23,
+      "timeDelay": 1677.2690000534058,
+      "timestamp": 1686720195,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u064A\u0641 \u0627\u0633\u0648\u064A\u0647\u0627\uD83D\uDE2D",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 1677.2699999809265,
+      "timestamp": 1686720208,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629",
+      "path": ""
+    },
+    {
+      "size": 464,
+      "timeDelay": 1677.2699999809265,
+      "timestamp": 1686720208,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u0634\u0631\u0648\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83C\uDFE2 \u062F\u0644\u064A\u0644 \u0627\u0644\u0633\u0643\u0646:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 1677.2709999084473,
+      "timestamp": 1686720210,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629",
+      "path": ""
+    },
+    {
+      "size": 464,
+      "timeDelay": 1677.2709999084473,
+      "timestamp": 1686720210,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u0634\u0631\u0648\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83C\uDFE2 \u062F\u0644\u064A\u0644 \u0627\u0644\u0633\u0643\u0646:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 14,
+      "timeDelay": 1677.2720000743866,
+      "timestamp": 1686720220,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0634\u0643\u0631\u0627\u2764\uFE0F",
+      "path": ""
+    },
+    {
+      "size": 14,
+      "timeDelay": 1707.430999994278,
+      "timestamp": 1686720224,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0634\u0643\u0631\u0627\u2764\uFE0F",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 1707.4319999217987,
+      "timestamp": 1686720226,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0641\u0648\u0627",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 1707.4319999217987,
+      "timestamp": 1686720230,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0639\u0641\u0648",
+      "path": ""
+    },
+    {
+      "size": 265,
+      "timeDelay": 1707.4319999217987,
+      "timestamp": 1686720241,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u064A\u0641 \u062A\u0648\u0632\u064A\u0639 \u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0629\u061F \u0647\u0644 \u0645\u0627 \u0632\u0627\u0644 \u064A\u0627\u062E\u0630\u0648\u0646 \u0646\u0633\u0628\u0629 \u0645\u0646 \u0627\u0644\u0642\u062F\u0631\u0627\u062A \u0648\u0627\u0644\u062A\u062D\u0635\u064A\u0644\u064A \u0639\u0646\u062F \u0627\u0644\u0642\u0628\u0648\u0644 \u0628\u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A \u0628\u0639\u062F \u0627\u0644\u062A\u062D\u0636\u064A\u0631\u064A\u061F \u0628\u0627\u0644\u0631\u063A\u0645 \u0627\u0646\u0647 \u0635\u0627\u0631 \u0641\u064A\u0647 \u0645\u0633\u0627\u0631 \u0639\u0644\u0645\u064A \u0648\u0635\u062D\u064A \u0648\u0627\u062F\u0628\u064A \u062D\u0627\u0644\u064A\u064B\u0627",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 1964.4670000076294,
+      "timestamp": 1686720446,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0644\u064A\u0629 \u0628\u0642\u064A\u0642",
+      "path": ""
+    },
+    {
+      "size": 24,
+      "timeDelay": 1964.4679999351501,
+      "timestamp": 1686720456,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u064A\u0641 \u0627\u0633\u062C\u0644 \u0641\u064A\u0647\u0627",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 1964.4690001010895,
+      "timestamp": 1686720463,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0645\u062A\u0649",
+      "path": ""
+    },
+    {
+      "size": 80,
+      "timeDelay": 1964.4690001010895,
+      "timestamp": 1686720483,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0634 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u064A \u0627\u0639\u0644\u0646\u0648\u0627 \u0627\u0646\u0647\u0645 \u0641\u0635\u0644\u064A\u064A\u0646 \u062F\u0631\u0627\u0633\u064A\u0646\u061F",
+      "path": ""
+    },
+    {
+      "size": 129,
+      "timeDelay": 2027.4060001373291,
+      "timestamp": 1686720541,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0646\u0627\u062A \u0641\u064A\u0647 \u0627\u062D\u062F \u0632\u064A\u064A \u0627\u0630\u0627 \u0648\u0627\u062C\u0647\u062A \u0627\u0644\u0634\u064A \u0627\u0644\u0644\u064A \u0627\u062E\u0627\u0641 \u0645\u0646\u0647 \u0627\u0648 \u0645\u0627 \u0627\u062D\u0628\u0647 \u0627\u062D\u0633 \u0628\u063A\u062B\u064A\u0627\u0646 \u061F\u061F\uD83D\uDE2D",
+      "path": ""
+    },
+    {
+      "size": 32,
+      "timeDelay": 2153.3050000667572,
+      "timestamp": 1686720635,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632",
+      "path": ""
+    },
+    {
+      "size": 413,
+      "timeDelay": 2153.305999994278,
+      "timestamp": 1686720635,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0645\u0648\u0632\u0648\u0646\u0627\u062A \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 1442:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 2279.1979999542236,
+      "timestamp": 1686720765,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0632\u064A\u0643 \u0627\u0646\u0627",
+      "path": ""
+    },
+    {
+      "size": 107,
+      "timeDelay": 2279.1979999542236,
+      "timestamp": 1686720821,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064A\u0643\u0645 \u0648\u0631\u062D\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062A\u0647\n\u0627\u0645 \u0627\u0644\u0642\u0631\u0649 \u0627\u0639\u0644\u0646\u062A \u0648\u0644\u0627 \u0645\u0627\u0627\u0639\u0644\u0646\u062A",
+      "path": ""
+    },
+    {
+      "size": 118,
+      "timeDelay": 2405.0870001316071,
+      "timestamp": 1686720914,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064A\u0643\u0645 . \u0627\u0644\u0627\u062A\u0631\u0627\u0643 \u0627\u0644\u0635\u064A\u0641\u064A\u0647 \u062A\u062E\u062A\u0635\u0631 \u0643\u0645 \u0634\u0647\u0631 \u062F\u0631\u0627\u0633\u0647 \u061F \u0641\u064A \u0627\u0644\u0628\u0643\u0627\u0644\u0648\u0631\u064A\u0633",
+      "path": ""
+    },
+    {
+      "size": 6,
+      "timeDelay": 2405.0880000591278,
+      "timestamp": 1686720932,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0633\u0627",
+      "path": ""
+    },
+    {
+      "size": 87,
+      "timeDelay": 2405.0910000801086,
+      "timestamp": 1686720942,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646\u0627 \u0639\u0645\u0631\u064A 21 \u0648\u0645\u062A\u0631\u062F\u062F \u0627\u062F\u062E\u0644 \u0627\u0644\u062C\u0627\u0645\u0639\u0647 \u0644\u0627\u0646\u064A \u0628\u062E\u0644\u0635 \u0648\u0639\u0645\u0631\u064A 26",
+      "path": ""
+    },
+    {
+      "size": 30,
+      "timeDelay": 2435.1689999103546,
+      "timestamp": 1686720962,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0639\u0646\u064A \u0639\u0645\u0631\u0643 \u0628\u064A\u0636\u064A\u0639\u061F",
+      "path": ""
+    },
+    {
+      "size": 104,
+      "timeDelay": 2435.1710000038147,
+      "timestamp": 1686720973,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0642\u062F \u062A\u062C\u062F \u0627\u0644\u064A \u0639\u0646\u062F\u0647 \u062E\u0628\u0631\u0647 \u0627\u0643\u062B\u0631 \u0645\u0646\u064A \u0644\u0643\u0646 \u0644\u0648 \u0645\u0627 \u0643\u0645\u0644\u062A \u0648\u064A\u0646 \u062A\u0628\u064A \u062A\u0631\u0648\u062D \u061F",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 2465.3050000667572,
+      "timestamp": 1686720985,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0647\u0630\u064A \u0648\u0647\u064A \u0627\u0645\uD83D\uDE14",
+      "path": ""
+    },
+    {
+      "size": 12,
+      "timeDelay": 2465.3050000667572,
+      "timestamp": 1686720987,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0633\u0643\u0631\u064A\u0647",
+      "path": ""
+    },
+    {
+      "size": 64,
+      "timeDelay": 2495.3780000209808,
+      "timestamp": 1686721009,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0641\u064A \u062A\u0633\u062C\u064A\u0644 \u064A\u062F\u0648\u064A \u062A\u0631\u0645 \u062B\u0627\u0646\u064A \u0644\u062C\u0627\u0645\u0639\u0629 \u0646\u0648\u0631\u0647\u061F",
+      "path": ""
+    },
+    {
+      "size": 124,
+      "timeDelay": 2495.3789999485016,
+      "timestamp": 1686721011,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0648 \u0643\u0645\u0644\u062A \u062C\u0627\u0645\u0639\u0629 \u0647\u0644 \u0627\u0646\u062A \u0631\u0627\u0639\u064A \u062F\u0631\u0627\u0633\u0629 \u0627\u0648 \u062A\u0637\u0645\u062D \u0644\u062A\u062E\u0635\u0635 \u0645\u0639\u064A\u0646 \u0648\u062A\u0642\u062F\u0631 \u062A\u062F\u062E\u0644\u0647 \u0645\u062B\u0644\u0627 \u061F",
+      "path": ""
+    },
+    {
+      "size": 37,
+      "timeDelay": 2495.3789999485016,
+      "timestamp": 1686721033,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0645\u064A\u0644 \u0644 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0627\u0639\u0645\u0627\u0644",
+      "path": ""
+    },
+    {
+      "size": 47,
+      "timeDelay": 2525.4549999237061,
+      "timestamp": 1686721042,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0641\u064A\u0647 \u0631\u064A\u0627\u0636\u064A\u0627\u062A \u0648\u0645\u0648\u0627\u062F \u0639\u0644\u0645\u064A\u0647",
+      "path": ""
+    },
+    {
+      "size": 24,
+      "timeDelay": 2525.4549999237061,
+      "timestamp": 1686721051,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0648 \u0641\u064A\u0647 \u062F\u0628\u0644\u0648\u0645\u061F",
+      "path": ""
+    },
+    {
+      "size": 20,
+      "timeDelay": 2525.4560000896454,
+      "timestamp": 1686721059,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627 \u0645\u0627 \u0627\u0639\u062A\u0642\u062F",
+      "path": ""
+    },
+    {
+      "size": 27,
+      "timeDelay": 2525.4560000896454,
+      "timestamp": 1686721062,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0645\u062C\u0645\u0639\u0647 \u0645\u0627\u0641\u064A\u0647\u0627",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 2525.4570000171661,
+      "timestamp": 1686721063,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0643\u0641\u0648\u0646 \u0627\u0628\u064A \u0627\u0633\u062C\u0644",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 2555.5420000553131,
+      "timestamp": 1686721078,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643.\u0628\u0642\u064A\u0642",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 2555.5439999103546,
+      "timestamp": 1686721081,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0628\u0642\u064A\u0642",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 2555.5460000038147,
+      "timestamp": 1686721086,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u064A\u0646 \u0630\u064A \u0628\u0642\u064A\u0642\u061F",
+      "path": ""
+    },
+    {
+      "size": 28,
+      "timeDelay": 2555.5460000038147,
+      "timestamp": 1686721096,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0642\u0631\u064A\u0628\u0629 \u0645\u0646 \u0627\u0644\u062F\u0645\u0627\u0645",
+      "path": ""
+    },
+    {
+      "size": 32,
+      "timeDelay": 2585.6280000209808,
+      "timestamp": 1686721112,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0627\u0645\u0627\u0645 \u062A\u0637\u0644\u0628 \u0633\u062A\u064A\u0628\u061F",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 2585.6300001144409,
+      "timestamp": 1686721114,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0641\u064A\u0635\u0644",
+      "path": ""
+    },
+    {
+      "size": 447,
+      "timeDelay": 2585.6310000419617,
+      "timestamp": 1686721114,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0641\u064A\u0635\u0644 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 ( 1444 ):\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\u0627\u0644\u062F\u0628\u0644\u0648\u0645\u0627\u062A :\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 ( 1443 ):\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDD\u0645\u0644\u0627\u062D\u0638\u0627\u062A \u0645\u0647\u0645\u0629 :\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\u267B\uFE0F \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 36,
+      "timeDelay": 2585.6310000419617,
+      "timestamp": 1686721124,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u064A\u0646 \u0627\u0644\u062F\u0645\u0627\u0645 \u0648\u0627\u0644\u0627\u062D\u0633\u0627\u0621",
+      "path": ""
+    },
+    {
+      "size": 347,
+      "timeDelay": 2585.6319999694824,
+      "timestamp": 1686721125,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0645\u0644 \u062C\u0627\u0645\u0639\u0647 \u0643\u0630\u0627 \u0648\u0644\u0627 \u0643\u0630\u0627 \u0628\u0639\u062F \u062E\u0645\u0633 \u0633\u0646\u064A\u0646 \u0628\u064A\u0635\u064A\u0631 \u0639\u0645\u0631\u0643\u0662\u0666 \u0628\u0639\u062F\u064A\u0646 \u0648\u0627\u0641\u0636\u0644 \u0644\u0643 \u0645\u0627\u062A\u062F\u0631\u064A \u064A\u0645\u0643\u0646 \u0645\u0639 \u0627\u0644\u062E\u0635\u062E\u0635\u0629 \u062A\u0635\u064A\u0631 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0628\u0641\u0644\u0648\u0633 \u0633\u062C\u0644 \u0648\u0627\u062F\u0631\u0633 \u062F\u0627\u0645 \u0631\u0628\u064A \u0645\u0633\u064A\u0631\u0647\u0627 \u0648\u0645\u062C\u0627\u0646\u064A\u0629 \u0648\u0627\u0630\u0627 \u062E\u0644\u0635\u062A \u0641\u0643\u0631 \u0641\u064A \u0627\u0644\u0639\u0633\u0643\u0631\u064A\u0647 \u0645\u0646\u0647\u0627 \u0634\u0647\u0627\u062F\u062A\u0643 \u062A\u0631\u0641\u0639 \u0631\u062A\u0628\u062A\u0643 \u0628\u0639\u062F",
+      "path": ""
+    },
+    {
+      "size": 45,
+      "timeDelay": 2585.6319999694824,
+      "timestamp": 1686721125,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u062C\u0644 \u0628\u0627\u0644\u062F\u0645\u0627\u0645 \u062C\u0627\u0645\u0639\u062A\u0647\u0627 \u0627\u062D\u0644\u0649",
+      "path": ""
+    },
+    {
+      "size": 36,
+      "timeDelay": 2615.7000000476837,
+      "timestamp": 1686721156,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0646\u0633\u0628\u0629\u0646\u0633\u0628\u062A\u064A \u0645\u0627 \u062A\u0623\u0647\u0644",
+      "path": ""
+    },
+    {
+      "size": 57,
+      "timeDelay": 2645.6340000629425,
+      "timestamp": 1686721163,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0644\u0647 \u064A\u062C\u0632\u0627\u0643 \u062E\u064A\u0631 \u0648\u0627\u0646 \u0634\u0627\u0621\u0627\u0644\u0644\u0647 \u0628\u0642\u062F\u0645",
+      "path": ""
+    },
+    {
+      "size": 81,
+      "timeDelay": 2645.6370000839233,
+      "timestamp": 1686721174,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u0644\u063A\u0647 \u0627\u064A \u0628\u0633 \u0662\u0660\u066A\u061C \u0627\u0644\u062F\u0631\u062C\u0647 \u0641\u0648\u0642 \u0666\u0660 \u0627\u0647\u0645 \u0634\u064A",
+      "path": ""
+    },
+    {
+      "size": 61,
+      "timeDelay": 2675.6660001277924,
+      "timestamp": 1686721210,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0631\u0627\u0645\u0643\u0648 \u0627\u0644\u062F\u0631\u0627\u0633\u0647 \u0639\u064A\u0627\u0644 \u0648\u0628\u0646\u0627\u062A \u0633\u0648\u0627 \u0635\u062D\u061F",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 2675.6660001277924,
+      "timestamp": 1686721214,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0633 \u0627\u0644\u0644\u063A\u0629\u061F",
+      "path": ""
+    },
+    {
+      "size": 14,
+      "timeDelay": 2705.6960000991821,
+      "timestamp": 1686721222,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0627\u0644\u0635\u062D\u064A\u061F",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 2705.7509999275208,
+      "timestamp": 1686721224,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629",
+      "path": ""
+    },
+    {
+      "size": 464,
+      "timeDelay": 2705.7520000934601,
+      "timestamp": 1686721225,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0623\u0645\u064A\u0631\u0629 \u0646\u0648\u0631\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u0634\u0631\u0648\u0637 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83C\uDFE2 \u062F\u0644\u064A\u0644 \u0627\u0644\u0633\u0643\u0646:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 180,
+      "timeDelay": 2705.7569999694824,
+      "timestamp": 1686721226,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u062A\u0631\u0627 \u0641\u064A\u0647 \u062C\u0627\u0645\u0639\u0627\u062A \u062A\u0639\u0641\u064A\u0643 \u0645\u0646 \u0633\u0646\u0629 \u0627\u0644\u062A\u062D\u0636\u064A\u0631\u064A \u0627\u0630\u0627 \u062C\u0627\u064A\u0628 \u0633\u062A\u064A\u0628 \u062D\u0644\u0648\u0647 \u0634\u0648\u0641 \u0644\u062C\u0627\u0645\u0639\u062A\u0643 \u0648\u0627\u062E\u062A\u0628\u0631 \u0633\u062A\u064A\u0628 \u0627\u0630\u0627 \u062A\u0628\u063A\u0649 \u062A\u062E\u0644\u0635 \u0627\u0633\u0631\u0639",
+      "path": ""
+    },
+    {
+      "size": 27,
+      "timeDelay": 2705.7569999694824,
+      "timestamp": 1686721238,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0628 \u0628\u0633 \u0644\u063A\u0627\u062A \u0648\u0635\u062D\u064A",
+      "path": ""
+    },
+    {
+      "size": 56,
+      "timeDelay": 2705.7569999694824,
+      "timestamp": 1686721248,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0641\u064A \u0645\u0642\u0627\u0639\u062F \u0627\u0644\u0645\u0634\u0643\u0644\u0647 \u064A\u0627\u0631\u0628 \u064A\u0641\u062A\u062D\u0648\u0646",
+      "path": ""
+    },
+    {
+      "size": 95,
+      "timeDelay": 2735.8410000801086,
+      "timestamp": 1686721257,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0637\u0644\u0627\u0628 \u0644\u0627 \n\u0628\u0633 \u0627\u0644\u0645\u062F\u0631\u0633\u064A\u0646 \u0641\u064A\u0647 \u0645\u062F\u0631\u0633\u0627\u062A \u064A\u062F\u0631\u0633\u0648\u0646 \u0637\u0644\u0627\u0628 \u0648\u0627\u0644\u0639\u0643\u0633",
+      "path": ""
+    },
+    {
+      "size": 30,
+      "timeDelay": 2735.8420000076294,
+      "timestamp": 1686721262,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0648\u0648\u0647\u060C \u062A\u0645\u0627\u0645 \u0634\u0643\u0631\u0631\u0627",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 2735.8420000076294,
+      "timestamp": 1686721268,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0641\u0648\u0627\u064B",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 2735.8420000076294,
+      "timestamp": 1686721275,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645",
+      "path": ""
+    },
+    {
+      "size": 20,
+      "timeDelay": 2765.933000087738,
+      "timestamp": 1686721282,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062F",
+      "path": ""
+    },
+    {
+      "size": 545,
+      "timeDelay": 2765.9340000152588,
+      "timestamp": 1686721282,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0641\u0647\u062F \u0644\u0644\u0628\u062A\u0631\u0648\u0644 \u0648\u0627\u0644\u0645\u0639\u0627\u062F\u0646 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1445:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD2 \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1445:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDEE2\uFE0F \u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u0642\u0628\u0648\u0644:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83C\uDFE2 \u0643\u0644\u064A\u0629 \u0627\u0644\u0645\u062C\u062A\u0645\u0639:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 24,
+      "timeDelay": 2765.9340000152588,
+      "timestamp": 1686721298,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645 \u0645\u062D\u0645\u062F",
+      "path": ""
+    },
+    {
+      "size": 532,
+      "timeDelay": 2765.9349999427795,
+      "timestamp": 1686721298,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0645\u0627\u0645 \u0645\u062D\u0645\u062F \u0628\u0646 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n \n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0645\u0639\u062F\u0644\u0627\u062A \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u0644\u0639\u0627\u0645 1442:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDC68\uD83C\uDFFB\u200D\u2695\u0627\u0644\u062A\u0642\u062F\u064A\u0645 \u0644\u0643\u0644\u064A\u0629 \u0627\u0644\u0637\u0628:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \n\n\uD83D\uDD05 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0628\u0643\u0644\u064A\u0629 \u0627\u0644\u0637\u0628 \u0644\u0639\u0627\u0645 1445:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 140,
+      "timeDelay": 2765.9349999427795,
+      "timestamp": 1686721306,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0642\u062F\u0645 \u0639\u0644\u0649 \u0627\u0644\u0627\u0645\u0627\u0645 \u0641\u0627\u0644\u062F\u0645\u0627\u0645 \u0627\u062F\u0627\u0631\u0629 \u0664 \u0633\u0646\u0648\u0627\u062A \u0648\u0645\u0639 \u0627\u0644\u0635\u064A\u0641\u064A \u062A\u062A\u062E\u0631\u062C \u0639\u0645\u0631\u0643 \u0662\u0664 \u0648\u0645\u0627\u0641\u0627\u062A \u0627\u0644\u0627 \u0627\u0644\u0634\u0631",
+      "path": ""
+    },
+    {
+      "size": 9,
+      "timeDelay": 2765.9360001087189,
+      "timestamp": 1686721307,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u062C\u062F\u0647",
+      "path": ""
+    },
+    {
+      "size": 393,
+      "timeDelay": 2765.9360001087189,
+      "timestamp": 1686721307,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 1007,
+      "timeDelay": 2828.8629999160767,
+      "timestamp": 1686721341,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0634\u0641 \u0627\u0646\u0635\u062D\u0643 \u0627\u0646\u0643 \u062A\u0628\u062D\u062B \u0648\u062A\u0641\u0643\u0631 \u0648\u062A\u0633\u062A\u0634\u064A\u0631 \u0627\u0647\u0644 \u062E\u0628\u0631\u0647 \u0644\u0643\u0646 \u0628\u0639\u0637\u064A\u0643 \u0631\u0623\u064A\u064A \n\u0627\u0644\u0639\u0633\u0643\u0631\u064A\u0629 ( \u0627\u0644\u0627\u0641\u0631\u0627\u062F )\u062E\u064A\u0627\u0631 \u0644\u0643\u0646 \u0627\u0634\u0648\u0641 \u0627\u0646\u0647 \u0627\u0644\u0627\u062E\u064A\u0631 \u0645\u0643\u0631\u0631 \n\u064A\u0639\u0646\u064A \u062A\u0628\u064A \u062A\u062F\u062E\u0644 \u062C\u0646\u062F\u064A \u0648\u0627\u0644\u0627\u0634\u0643\u0627\u0644\u064A\u0629 \u0627\u0646 \u062A\u0639\u0631\u0641 \u0643\u064A\u0641 \u0648\u0636\u0639 \u0627\u0644\u0639\u0633\u0643\u0631\u064A\u0629 \u0648\u0627\u0644\u0631\u0648\u0627\u062A\u0628 \u0628\u0639\u062F \u0627\u0644\u062A\u0642\u0627\u0639\u062F \u0648\u0627\u0644\u062F\u0648\u0627\u0645 \u0648\u0627\u0644\u0642\u0631\u0648\u0634\u0629 \n\u0627\u0646\u0627 \u0648\u062F\u064A \u0627\u0639\u0637\u064A\u0643 \u0641\u0643\u0631\u0629 \u0627\u0646 \u0641\u064A\u0647 \u0627\u0641\u0636\u0644 \u0645\u0646 \u062C\u0646\u062F\u064A \n\u0644\u0646\u0641\u0633\u0643 \u0648\u0644\u0639\u064A\u0627\u0644\u0643 \u0648\u0644\u0645\u0633\u062A\u0642\u0628\u0644\u0643 \n\u0627\u0645\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u0639\u0645\u0631 \u0643\u0644 \u0648\u0627\u062D\u062F \u064A\u0645\u0634\u064A \u0641\u064A \u062A\u0648\u0642\u064A\u062A\u0647 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u0645\u0627\u0639\u0644\u064A\u0643 \u0627\u0646\u062A \u0627\u0633\u0639\u0649 \u0648\u064A\u0628\u064A \u064A\u064A\u0633\u0631\u0647\u0627 \u0627\u0644\u0644\u0647 \n\u0642\u062F \u062A\u0631\u0649 \u0634\u062E\u0635 \u062A\u062E\u0631\u062C \u0628 \u0639\u0645\u0631 \u0662\u0663 \u0648\u0645\u0627 \u062A\u0648\u0638\u0641 \u0627\u0644\u0627 \u0628\u0639\u0645\u0631 \u0662\u0667 \u0647\u0644 \u0647\u0630\u0627 \u0627\u0644\u0634\u064A\u0621 \u0648\u0627\u0631\u062F \u061F \u0645\u0648\u062C\u0648\u062F \u0646\u0634\u0648\u0641\u0647 \u0643\u0644 \u064A\u0648\u0645 \u0647\u0630\u0627 \u0631\u0632\u0642\u0647 \u0642\u062F \u062A\u062A\u062E\u0631\u062C \u0627\u0646\u062A \u0648\u062A\u062A\u0648\u0638\u0641 \u0648\u062A\u0643\u0648\u0646 \u0644\u062D\u0642\u062A \u0645\u0639\u0647 \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0648\u0642\u062A \n\u0644\u0630\u0644\u0643 \u0645\u0648\u0636\u0648\u0639 \u0627\u0644\u0639\u0645\u0631 \u0644\u0627 \u062A\u0634\u064A\u0644 \u0647\u0645\u0647 \u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0646\u062A \u0628\u0633 \u0627\u0646\u062C\u0632 \n\u0627\u062A\u0645\u0646\u0649 \u0644\u0643 \u0627\u0644\u062A\u0648\u0641\u064A\u0642",
+      "path": ""
+    },
+    {
+      "size": 21,
+      "timeDelay": 2858.9319999217987,
+      "timestamp": 1686721384,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0639\u0627\u0644 \u062F\u0627\u064A\u0631\u0643\u062A",
+      "path": ""
+    },
+    {
+      "size": 177,
+      "timeDelay": 2951.9509999752045,
+      "timestamp": 1686721469,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0645\u0643\u0646 \u064A\u062F\u062E\u0644 \u0641\u064A \u0631\u062A\u0628\u0647 \u0627\u0641\u0636\u0644 \u0635\u062D \u0648\u062A\u0645\u0634\u064A \u0627\u0645\u0648\u0631\u0647 \u0627\u0644\u062C\u0646\u0648\u062F \u0639\u0646\u062F\u0647\u0645 \u062A\u0637\u0648\u064A\u0641 \u0641\u064A \u0627\u0644\u0631\u062A\u0628 \u0627\u0644\u0644\u0647 \u0644\u0627 \u064A\u0648\u0631\u064A\u0643 \u0645\u0627 \u0648\u062F\u0643 \u0627\u0644\u0648\u0627\u062D\u062F \u064A\u0628\u0644\u0634",
+      "path": ""
+    },
+    {
+      "size": 58,
+      "timeDelay": 3077.9670000076294,
+      "timestamp": 1686721589,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0628\u063A\u0649 \u0627\u0642\u062A\u0628\u0627\u0633\u0627\u062A \u062A\u062E\u0631\u062C \u0628\u064A\u0646 \u0627\u0644\u0623\u0635\u062F\u0642\u0627\u0621",
+      "path": ""
+    },
+    {
+      "size": 62,
+      "timeDelay": 3077.9679999351501,
+      "timestamp": 1686721599,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0647 \u062A\u0642\u0628\u0644 \u0627\u0644\u0644\u064A \u062E\u0627\u0631\u062C \u0645\u062F\u064A\u0646\u062A\u0647\u0627 \u061F",
+      "path": ""
+    },
+    {
+      "size": 59,
+      "timeDelay": 3140.7990000247955,
+      "timestamp": 1686721660,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0633\u0623\u0644\u0643\u0645 \u0645\u0648\u0632\u0648\u0646\u0647 85 \u062A\u062F\u062E\u0644\u0646\u064A \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u061F",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 3140.7990000247955,
+      "timestamp": 1686721680,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0644\u0649 \u062D\u0633\u0628",
+      "path": ""
+    },
+    {
+      "size": 44,
+      "timeDelay": 3140.7999999523163,
+      "timestamp": 1686721681,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0644\u0649 \u062D\u0633\u0628 \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0648 \u0627\u0644\u0631\u063A\u0628\u0647",
+      "path": ""
+    },
+    {
+      "size": 9,
+      "timeDelay": 3170.875,
+      "timestamp": 1686721698,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u062C\u062F\u0629",
+      "path": ""
+    },
+    {
+      "size": 393,
+      "timeDelay": 3170.875,
+      "timestamp": 1686721698,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 3170.8759999275208,
+      "timestamp": 1686721700,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0644\u0646\u0627",
+      "path": ""
+    },
+    {
+      "size": 46,
+      "timeDelay": 3170.8770000934601,
+      "timestamp": 1686721705,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0627\u0644\u062C\u0646\u0633 \u0643\u0645\u0627\u0646 \u064A\u0644\u0639\u0628 \u062F\u0648\u0631 \u0643\u0628\u064A\u0631",
+      "path": ""
+    },
+    {
+      "size": 28,
+      "timeDelay": 3170.8770000934601,
+      "timestamp": 1686721708,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0644 \u0627\u0644\u0646\u0627\u0633 \u0645\u0627\u062A\u062F\u0631\u064A",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 3200.9060001373291,
+      "timestamp": 1686721724,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83E\uDEF5\uD83C\uDFFB\uD83D\uDC4D\uD83C\uDFFB",
+      "path": ""
+    },
+    {
+      "size": 57,
+      "timeDelay": 3200.9070000648499,
+      "timestamp": 1686721734,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0645 \u0627\u0644\u0645\u0639\u062F\u0647 \u064A\u0645\u0643\u0646 \u0628\u0633\u0628\u0628 \u0642\u0648\u0644\u0648\u0646 \u0639\u0635\u0628\u064A",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 3200.9479999542236,
+      "timestamp": 1686721739,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C \u0627\u0644\u0645\u0644\u0643 \u062E\u0627\u0644\u062F",
+      "path": ""
+    },
+    {
+      "size": 20,
+      "timeDelay": 3231.3800001144409,
+      "timestamp": 1686721747,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 3231.3800001144409,
+      "timestamp": 1686721747,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u062E\u0627\u0644\u062F",
+      "path": ""
+    },
+    {
+      "size": 338,
+      "timeDelay": 3231.3810000419617,
+      "timestamp": 1686721747,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u062E\u0627\u0644\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062F\u0644\u064A\u0644 \u0627\u0644\u062A\u062E\u0635\u0635\u0627\u062A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 3231.4660000801086,
+      "timestamp": 1686721756,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0637\u0627\u0626\u0641",
+      "path": ""
+    },
+    {
+      "size": 242,
+      "timeDelay": 3231.4670000076294,
+      "timestamp": 1686721756,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0637\u0627\u0626\u0641 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 64,
+      "timeDelay": 3261.6440000534058,
+      "timestamp": 1686721786,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646\u062A \u0648\u0644\u062F \u0648\u0644\u0627 \u0628\u0646\u062A \u0648 \u0627\u064A \u0645\u0646\u0637\u0642\u0629 \u0648\u0634 \u0627\u0644\u0631\u063A\u0628\u0647",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 3261.6440000534058,
+      "timestamp": 1686721800,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u002B \u0627\u0644\u062C\u0627\u0645\u0639\u0629",
+      "path": ""
+    },
+    {
+      "size": 726224231,
+      "timeDelay": 3303.3870000839233,
+      "timestamp": 1686721847.6110001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\I.Used.To.Be.Famous.2022.480p.HardSub.mp4"
+    },
+    {
+      "size": 99,
+      "timeDelay": 3324.4860000610352,
+      "timestamp": 1686721839,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0644\u062F \u060C \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0627\u0644\u062E\u0627\u0644\u062F  \u060C \u062A\u0645\u0631\u064A\u0636 \u060C \u0627\u0648 \u0627\u0634\u0639\u0629 \u060C \u0627\u0648 \u0645\u062E\u062A\u0628\u0631\u0627\u062A",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 3324.4860000610352,
+      "timestamp": 1686721842,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83E\uDEF5\uD83D\uDC4D",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 3324.4869999885559,
+      "timestamp": 1686721857,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0628\u0647\u0627 \u061F",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 3354.5640001296997,
+      "timestamp": 1686721871,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A",
+      "path": ""
+    },
+    {
+      "size": 35,
+      "timeDelay": 3354.5640001296997,
+      "timestamp": 1686721881,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645 \u0639\u0628\u062F \u0627\u0644\u0631\u062D\u0645\u0646",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 3354.5650000572205,
+      "timestamp": 1686721895,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646",
+      "path": ""
+    },
+    {
+      "size": 408,
+      "timeDelay": 3354.566999912262,
+      "timestamp": 1686721896,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646 -\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 25616,
+      "timeDelay": 3354.566999912262,
+      "timestamp": 1686721898.7909999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5787298050463612280_120.jpg"
+    },
+    {
+      "size": 79,
+      "timeDelay": 3384.595999956131,
+      "timestamp": 1686721907,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u062F\u062E\u0644\u0643 \u0623\u0634\u0639\u0629 \u0627\u0644\u0639\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A \u0628\u0633 \u0628\u0646\u0633\u0628\u0629 \u0643\u0628\u064A\u0631\u0629 \u062A\u062F\u062E\u0644",
+      "path": ""
+    },
+    {
+      "size": 181,
+      "timeDelay": 3415.1500000953674,
+      "timestamp": 1686721931,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0639\u0644\u064A\u0643\u0645 \u0648\u0631\u062D\u0645\u0629 \u0627\u0644\u0644\u0647 \u0648\u0628\u0631\u0643\u0627\u062A\u0647 \n\u0628\u0646\u0627\u062A \u0627\u0646\u0627 \u0645\u062A\u062E\u0631\u062C\u0647 \u0645\u0646 \u062C\u062F\u0647 \u0648\u0627\u0628\u064A \u0627\u062F\u0631\u0633 \u0639\u0646\u062F\u0643\u0645 \u0628\u0633 \u0644\u0627\u0632\u0645 \u064A\u0637\u0644\u0628\u0648 \u0645\u0648\u0632\u0648\u0646\u0647 \u0639\u0627\u0644\u064A\u0647 \u061F",
+      "path": ""
+    },
+    {
+      "size": 18,
+      "timeDelay": 3415.1500000953674,
+      "timestamp": 1686721934,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u062A\u0645\u0631\u064A\u0636\u061F\uD83D\uDC94",
+      "path": ""
+    },
+    {
+      "size": 179,
+      "timeDelay": 3445.2750000953674,
+      "timestamp": 1686721959,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062D\u064A\u0646 \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F \u0627\u0644\u0635\u062D\u064A\u0647 \u0641\u0631\u0639 \u0627\u0644\u0631\u064A\u0627\u0636 \u0645\u0639 \u0627\u0644\u0642\u0628\u0648\u0644 \u0627\u0644\u0645\u0648\u062D\u062F \u0635\u062D\u061F \n\u064A\u0639\u0646\u064A \u064A\u0648\u0645 \u0662\u0668 \u0630\u0648 \u0627\u0644\u062D\u062C\u0647 \u0627\u0642\u062F\u0645 \u0645\u0648 \u064A\u0648\u0645 \u0661\u0667 \u061F",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 3445.2760000228882,
+      "timestamp": 1686721968,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0635\u062D",
+      "path": ""
+    },
+    {
+      "size": 78,
+      "timeDelay": 3445.2760000228882,
+      "timestamp": 1686721980,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632 \u0636\u0645\u0646 \u0627\u0644\u0642\u0628\u0648\u0644 \u0627\u0644\u0645\u0648\u062D\u062F \u061F\u061F",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 3475.3510000705719,
+      "timestamp": 1686721989,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0648\u0647 \u0639\u0646\u062F\u064A",
+      "path": ""
+    },
+    {
+      "size": 23,
+      "timeDelay": 3475.3510000705719,
+      "timestamp": 1686722009,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062A\u0631\u0645 \u0627\u0644\u062B\u0627\u0646\u064A",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 3475.3519999980927,
+      "timestamp": 1686722012,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627",
+      "path": ""
+    },
+    {
+      "size": 23,
+      "timeDelay": 3505.4449999332428,
+      "timestamp": 1686722038,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0635\u0644\u0627\u0629 \u0627\u0644\u0636\u062D\u0649\uD83D\uDC98",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 3505.4449999332428,
+      "timestamp": 1686722040,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0637\u064A\u0628 \u0648\u0634\u0642\u0631\u0627\u0621",
+      "path": ""
+    },
+    {
+      "size": 2,
+      "timeDelay": 3505.4460000991821,
+      "timestamp": 1686722042,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u061F",
+      "path": ""
+    },
+    {
+      "size": 149,
+      "timeDelay": 3505.4460000991821,
+      "timestamp": 1686722043,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0634\u0628\u0627\u0628 \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0635\u062F\u0642 \u064A\u0642\u0628\u0644\u0648\u0646 \u0627\u062F\u0628\u064A \u0644\u0627\u0646 \u0641\u064A\u0647 \u0646\u0627\u0633 \u0627\u062F\u0628\u064A \u064A\u0642\u0648\u0644\u0648\u0646 \u0627\u0646\u0642\u0628\u0644\u0648 \u0627\u0644\u0627\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0647",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 3535.4809999465942,
+      "timestamp": 1686722051,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0644\u0628\u0646\u0627\u062A \u0644\u0627",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 3535.5280001163483,
+      "timestamp": 1686722054,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646",
+      "path": ""
+    },
+    {
+      "size": 408,
+      "timeDelay": 3535.5280001163483,
+      "timestamp": 1686722054,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646 -\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 3535.529000043869,
+      "timestamp": 1686722054,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u064A\u062D\u062F",
+      "path": ""
+    },
+    {
+      "size": 25,
+      "timeDelay": 3535.529000043869,
+      "timestamp": 1686722056,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0642\u0628\u0648\u0644 \u0627\u0644\u0645\u0648\u062D\u062F",
+      "path": ""
+    },
+    {
+      "size": 2,
+      "timeDelay": 3535.5329999923706,
+      "timestamp": 1686722057,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u061F",
+      "path": ""
+    },
+    {
+      "size": 4,
+      "timeDelay": 3535.5329999923706,
+      "timestamp": 1686722061,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u0634",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 3535.5339999198914,
+      "timestamp": 1686722067,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0642\u0648\u0627\u0646\u064A\u0646",
+      "path": ""
+    },
+    {
+      "size": 1317,
+      "timeDelay": 3535.5339999198914,
+      "timestamp": 1686722067,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDD05| \u0642\u0648\u0627\u0646\u064A\u0646 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 - \u0646\u0631\u062C\u0648 \u0627\u0644\u0625\u0644\u062A\u0632\u0627\u0645 \u0628\u0647\u0627:\n\n1\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u062A\u062D\u062F\u062B \u0639\u0646 \u0627\u0644\u062F\u0648\u0631\u0627\u062A\u060C \u0623\u0648 \u062A\u0634\u0641\u064A\u0631 \u0627\u0644\u0643\u0644\u0645\u0627\u062A \u0627\u0644\u0645\u0645\u0646\u0648\u0639\u0629\n2\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0625\u062B\u0627\u0631\u0629 \u0627\u0644\u062C\u062F\u0644 \u0623\u0648 \u0645\u062D\u0627\u0648\u0644\u0629 \u0641\u062A\u062D \u0646\u0642\u0627\u0634 \u063A\u064A\u0631 \u0644\u0627\u0626\u0642 \u0623\u0648 \u0627\u0644\u062A\u062D\u062F\u062B \u0628\u0623\u0644\u0641\u0627\u0638 \u0645\u0633\u064A\u0626\u0629 \u0648\u062E\u0627\u062F\u0634\u0629 \u0644\u0644\u062D\u064A\u0627\u0621\n3\uFE0F\u20E3| \u064A\u062C\u0628 \u0627\u0644\u062A\u0642\u064A\u062F \u0628\u0627\u0644\u0636\u0648\u0627\u0628\u0637 \u0627\u0644\u0623\u062E\u0644\u0627\u0642\u064A\u0629 \u0639\u0646\u062F \u0627\u0644\u0643\u062A\u0627\u0628\u0629\u060C \u0648\u0627\u0644\u062A\u062D\u0644\u064A \u0628\u0645\u0643\u0627\u0631\u0645 \u0627\u0644\u0623\u062E\u0644\u0627\u0642 \u0648\u0627\u0644\u062F\u064A\u0646\n4\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u062A\u062D\u062F\u062B \u0628\u0645\u0648\u0627\u0636\u064A\u0639 \u0644\u0627 \u062A\u062E\u0635 \u0645\u062D\u062A\u0648\u0649 \u0627\u0644\u0642\u0631\u0648\u0628 \u0623\u0648 \u062E\u0627\u0631\u062C \u0625\u0637\u0627\u0631 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629\n5\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u062A\u0642\u0644\u064A\u0644 \u0645\u0646 \u062A\u062E\u0635\u0635 \u0623\u0648 \u062C\u0627\u0645\u0639\u0629 \u0623\u0648 \u0634\u062E\u0635 \u0628\u0623\u064A \u0634\u0643\u0644 \u0645\u0646 \u0627\u0644\u0623\u0634\u0643\u0627\u0644 \n6\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u062A\u062D\u062F\u062B \u0639\u0646 \u0627\u0644\u0642\u062F\u0631\u0627\u062A \u0648\u0627\u0644\u062A\u062D\u0635\u064A\u0644\u064A \n7\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u0646\u0634\u0631 \u0644\u0623\u064A \u062D\u0633\u0627\u0628 \u0634\u062E\u0635\u064A \u0623\u0648 \u062A\u0627\u0628\u0639 \u0644\u0645\u0646\u0635\u0629 \u0623\u0648 \u0645\u0627 \u0634\u0627\u0628\u0647\n8\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u062A\u0643\u0631\u0627\u0631 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0628\u0634\u0643\u0644 \u0645\u0632\u0639\u062C \u0623\u0648 \u0625\u0631\u0633\u0627\u0644 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0627\u0644\u0637\u0648\u064A\u0644\u0629 \u062E\u0627\u0631\u062C \u0645\u062D\u062A\u0648\u0649 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629\n9\uFE0F\u20E3| \u064A\u0645\u0646\u0639 \u0627\u0644\u062A\u062F\u062E\u0644 \u0641\u064A \u0639\u0645\u0644 \u0627\u0644\u0645\u0634\u0631\u0641\u064A\u0646\n\n\uD83D\uDD05| \u0639\u0646\u062F \u0645\u062E\u0627\u0644\u0641\u0629 \u0623\u064A \u0639\u0636\u0648 \u0644\u0623\u062D\u062F \u0627\u0644\u0642\u0648\u0627\u0646\u064A\u0646\u060C \u064A\u062A\u0639\u0627\u0645\u0644 \u0645\u0639\u0647 \u0627\u0644\u0645\u0634\u0631\u0641 \u0628\u0645\u0627 \u064A\u0631\u0627\u0647 \u0645\u0646\u0627\u0633\u0628\u064B\u0627\n#\uFE0F\u20E3| \u0639\u0646\u062F \u0645\u0634\u0627\u0647\u062F\u062A\u0643 \u0644\u0645\u062E\u0627\u0644\u0641\u0629 \u0628\u0627\u0644\u0642\u0631\u0648\u0628\u060C \u0642\u0645 \u0628\u0627\u0644\u0631\u062F \u0628\u0643\u0644\u0645\u0629: \u0627\u062F\u0645\u0646 \u3164",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 3545.6270000934601,
+      "timestamp": 1686722089,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0644\u0627\u063A",
+      "path": ""
+    },
+    {
+      "size": 90,
+      "timeDelay": 3545.6270000934601,
+      "timestamp": 1686722089,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0645 \u0627\u0644\u0625\u0628\u0644\u0627\u063A \u0639\u0646 \u0627\u0644\u0645\u062E\u0627\u0644\u0641 \u0641\u064A \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0629 \u0648\u062C\u064E\u0628\u064E\u0644 \u26F0.",
+      "path": ""
+    },
+    {
+      "size": 42,
+      "timeDelay": 3608.5789999961853,
+      "timestamp": 1686722122,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u064A\u0634 \u0628\u0644\u0627\u063A \u0623\u062D\u0630\u0641 \u0623\u0643\u062A\u0628 \u0623\u062F\u0645\u0646",
+      "path": ""
+    },
+    {
+      "size": 81,
+      "timeDelay": 3608.5799999237061,
+      "timestamp": 1686722126,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627\u062D\u0648\u0644 \u0648\u0644\u0627\u0642\u0648\u0629 \u0627\u0644\u0627 \u0628\u0627\u0644\u0644\u0647 \u0648\u064A\u062D\u062F = 1 \u0648\u0634\u0628\u0643\u0645 \u064A\u0627 \u0627\u062E\u0648\u0627\u0646",
+      "path": ""
+    },
+    {
+      "size": 38,
+      "timeDelay": 3608.5810000896454,
+      "timestamp": 1686722132,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0648 \u0645\u0634\u0643\u0644\u0629 \u0627\u0647\u0645 \u0634\u064A \u0627\u0646\u0642\u0628\u0644",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 3608.5820000171661,
+      "timestamp": 1686722145,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0642\u0627\u0644 \u0648\u0627\u062D\u062F \u0627\u0634\u0628\u0643\u0645",
+      "path": ""
+    },
+    {
+      "size": 41,
+      "timeDelay": 3671.5190000534058,
+      "timestamp": 1686722183,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0629 \u0646\u0633\u0628\u0647\u0645 \u0645\u0639\u0642\u0648\u0644\u0647",
+      "path": ""
+    },
+    {
+      "size": 38,
+      "timeDelay": 3671.5859999656677,
+      "timestamp": 1686722204,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0636\u0637\u0647\u0627\u062F \u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u0633\u062A\u0639\u0627\u0646",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 3671.5880000591278,
+      "timestamp": 1686722214,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646",
+      "path": ""
+    },
+    {
+      "size": 408,
+      "timeDelay": 3671.5889999866486,
+      "timestamp": 1686722214,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0645\u0627\u0645 \u0639\u0628\u062F\u0627\u0644\u0631\u062D\u0645\u0646 -\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 91,
+      "timeDelay": 3701.614000082016,
+      "timestamp": 1686722244,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646\u062A \u0639\u0634\u0627\u0646 \u062A\u0636\u0645\u0646 \u062C\u064A\u0628 \u0627\u0644\u0669\u0660 \u0627\u062E\u062A\u0628\u0631 \u0642\u062F\u0631\u0627\u062A \u0648\u0628\u0623\u0630\u0646 \u0627\u0644\u0644\u0647 \u062A\u062F\u062E\u0644",
+      "path": ""
+    },
+    {
+      "size": 801,
+      "timeDelay": 3701.7599999904633,
+      "timestamp": 1686722228,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0642\u06CC\u0645\u062A #\u0628\u0646\u0632\u06CC\u0646 \u0648 \u062D\u062F\u0627\u0642\u0644 \u062F\u0633\u062A\u0645\u0632\u062F \u062F\u0631 \u0639\u0631\u0628\u0633\u062A\u0627\u0646 \u0686\u0642\u062F\u0631 \u0627\u0633\u062A\u061F\n\n\uD83D\uDD3A\u0642\u06CC\u0645\u062A \u0647\u0631 \u0644\u06CC\u062A\u0631 \u0628\u0646\u0632\u06CC\u0646 \u0627\u06A9\u062A\u0627\u0646 \u06F9\u06F5 \u062F\u0631 \u0639\u0631\u0628\u0633\u062A\u0627\u0646 \u06F2.\u06F3\u06F3 \u0631\u06CC\u0627\u0644 \u0645\u0639\u0627\u062F\u0644 \u06F3\u06F0 \u0647\u0632\u0627\u0631 \u062A\u0648\u0645\u0627\u0646\u060C \u0647\u0631 \u0644\u06CC\u062A\u0631 \u0628\u0646\u0632\u06CC\u0646 \u0627\u06A9\u062A\u0627\u0646 \u06F9\u06F1\u060C \u062D\u062F\u0648\u062F \u06F2.\u06F1\u06F8 \u0631\u06CC\u0627\u0644 \u0645\u0639\u0627\u062F\u0644 \u06F2\u06F8 \u0647\u0632\u0627\u0631 \u062A\u0648\u0645\u0627\u0646 \u0648 \u0647\u0631 \u0644\u06CC\u062A\u0631 \u06AF\u0627\u0632\u0648\u0626\u06CC\u0644 \u06F0.\u06F7\u06F5 \u0631\u06CC\u0627\u0644 \u0645\u0639\u0627\u062F\u0644 \u06F9\u06F5\u06F0\u06F0 \u062A\u0648\u0645\u0627\u0646 \u0627\u0633\u062A.\n\uD83D\uDD3A\u0628\u062F \u0646\u06CC\u0633\u062A \u0628\u062F\u0627\u0646\u06CC\u062F \u062D\u062F\u0627\u0642\u0644 \u062F\u0633\u062A\u0645\u0632\u062F \u06A9\u0627\u0631\u06AF\u0631 \u062F\u0631 \u0639\u0631\u0628\u0633\u062A\u0627\u0646 \u06F4\u06F0\u06F0\u06F0 \u0631\u06CC\u0627\u0644 \u0633\u0639\u0648\u062F\u06CC \u0645\u0639\u0627\u062F\u0644 \u06F5\u06F0 \u0645\u06CC\u0644\u06CC\u0648\u0646 \u062A\u0648\u0645\u0627\u0646 \u0627\u06CC\u0631\u0627\u0646 \u0627\u0633\u062A. \n\uD83D\uDD3A\u0647\u0645\u0686\u0646\u06CC\u0646 \u062A\u0648\u0644\u06CC\u062F \u0646\u0641\u062A \u0639\u0631\u0628\u0633\u062A\u0627\u0646 \u06F1\u06F0 \u0645\u06CC\u0644\u06CC\u0648\u0646 \u0628\u0634\u06A9\u0647 \u062F\u0631 \u0631\u0648\u0632 \u0648 \u062A\u0648\u0644\u06CC\u062F \u0646\u0641\u062A \u0627\u06CC\u0631\u0627\u0646 \u06A9\u0645\u062A\u0631 \u0627\u0632 \u06F3 \u0645\u06CC\u0644\u06CC\u0648\u0646 \u0628\u0634\u06A9\u0647 \u062F\u0631 \u0631\u0648\u0632 \u0627\u0633\u062A./\u0627\u062E\u0628\u0627\u0631 \u0646\u0641\u062A #\u062E\u0627\u0648\u0631\u0645\u06CC\u0627\u0646\u0647",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 3827.914999961853,
+      "timestamp": 1686722357,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0646\u0627 \u0627\u0633\u0623\u0644",
+      "path": ""
+    },
+    {
+      "size": 328,
+      "timeDelay": 3827.914999961853,
+      "timestamp": 1686722357,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0642\u062F\u0631\u0627\u062A \u0639\u0646\u062F\u064A 84 \u0648\u062C\u0627\u0644\u0633 \u0627\u062D\u0637 \u0627\u062D\u062A\u0645\u0627\u0644\u0627\u062A \u0645\u0646 \u0639\u0646\u062F\u064A \u0644 \u062F\u0631\u062C\u0629 \u0627\u0644\u062A\u062D\u0635\u064A\u0644\u064A \u0628\u0633 \u062A\u0642\u0631\u064A\u0628\u0627\u064B \u0645\u0648\u0632\u0648\u0646\u062A\u064A \u0628\u062A\u0643\u0648\u0646 85 \u0645\u0645\u0643\u0646 \u062A\u0632\u064A\u062F \u0648\u0645\u0645\u0643\u0646 \u062A\u0642\u0644 \u0628\u0633 \u062A\u0642\u0631\u064A\u0628\u0627\u064B \u0643\u0630\u0627 \u060C \u0648\u0643\u0646\u062A \u0628\u062E\u062A\u0628\u0631 \u0642\u062F\u0631\u0627\u062A \u0628\u0633 \u063A\u064A\u0631\u0648 \u0627\u0644\u062A\u062C\u0645\u064A\u0639\u0627\u062A \u0627\u0644\u062D\u064A\u0646 \u0641 \u0628\u0639\u062A\u0645\u062F \u0647\u0627\u0630\u064A \u0648\u062E\u0644\u0627\u0635",
+      "path": ""
+    },
+    {
+      "size": 23,
+      "timeDelay": 3890.8580000400543,
+      "timestamp": 1686722406,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C. \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 3920.8949999809265,
+      "timestamp": 1686722452,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u062F\u0648\u0646 \u0645\u0633\u0627\u0641\u0647",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 3920.8959999084473,
+      "timestamp": 1686722461,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 513,
+      "timeDelay": 3920.8959999084473,
+      "timestamp": 1686722461,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0642\u0628\u0648\u0644 \u0627\u0644\u062F\u0628\u0644\u0648\u0645 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 48312,
+      "timeDelay": 3921.055999994278,
+      "timestamp": 1686722465.28,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5787298050463612286_120.jpg"
+    },
+    {
+      "size": 15,
+      "timeDelay": 4013.8719999790192,
+      "timestamp": 1686722553,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0645\u0627\u0645",
+      "path": ""
+    },
+    {
+      "size": 65,
+      "timeDelay": 4043.9409999847412,
+      "timestamp": 1686722571,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0634 \u0627\u0644\u062C\u0627\u0645\u0639\u0627\u062A \u0627\u0644\u062B\u0627\u0646\u064A\u0647 \u063A\u064A\u0631 \u0647\u0627\u0630\u064A \u0627\u0639\u0644\u0646\u062A",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 4116.8610000610352,
+      "timestamp": 1686722629,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0646\u062C\u0631\u0627\u0646",
+      "path": ""
+    },
+    {
+      "size": 243,
+      "timeDelay": 4116.8619999885559,
+      "timestamp": 1686722629,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0646\u062C\u0631\u0627\u0646 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 9,
+      "timeDelay": 4146.9460000991821,
+      "timestamp": 1686722673,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u062C\u062F\u0629",
+      "path": ""
+    },
+    {
+      "size": 393,
+      "timeDelay": 4146.9460000991821,
+      "timestamp": 1686722673,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u062C\u062F\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u0633\u0643\u064A\u0646 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 33,
+      "timeDelay": 4146.9470000267029,
+      "timestamp": 1686722675,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u062A\u0642\u062F\u0645 \u0641\u064A \u0623\u064A  \u062A\u062E\u0635\u0635 \u061F",
+      "path": ""
+    },
+    {
+      "size": 95,
+      "timeDelay": 4177.0329999923706,
+      "timestamp": 1686722699,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0648 \u0627\u062E\u062A\u0628\u0631\u062A 21 \u064A\u0645\u062F\u064A\u0646\u064A \u0627\u0644\u062D\u0642 \u0639\u0644\u0649 \u062A\u0642\u062F\u064A\u0645 \u0643\u0644\u064A\u0647 \u0627\u0644\u0627\u0645\u064A\u0631 \u0633\u0644\u0637\u0627\u0646\u061F",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 4177.0339999198914,
+      "timestamp": 1686722702,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u0627\u0645\u0639\u0647 \u0637\u064A\u0628\u0647",
+      "path": ""
+    },
+    {
+      "size": 118,
+      "timeDelay": 4207.0629999637604,
+      "timestamp": 1686722732,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0642\u0631\u064A\u0628\u0627\u064B \u062A\u0645\u0631\u064A\u0636 \u0648\u0628\u0639\u062F\u0647 \u0628\u062D\u0637 \u0627\u0634\u0639\u0629 \u0627\u0648 \u0645\u062E\u062A\u0628\u0631\u0627\u062A \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u0647\u0646\u062F\u0633\u0629 \u0628 \u0627\u0646\u0648\u0627\u0639\u0647\u0627",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 4207.1080000400543,
+      "timestamp": 1686722748,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u062C\u0645\u0639\u0629",
+      "path": ""
+    },
+    {
+      "size": 405,
+      "timeDelay": 4207.1080000400543,
+      "timestamp": 1686722748,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u062C\u0645\u0639\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDD \u0634\u0631\u0648\u0637 \u0627\u0644\u062A\u062D\u0648\u064A\u0644 \u0627\u0644\u062F\u0627\u062E\u0644\u064A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDD \u0634\u0631\u0648\u0637 \u0627\u0644\u062A\u062D\u0648\u064A\u0644 \u0627\u0644\u062E\u0627\u0631\u062C\u064A:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 70,
+      "timeDelay": 4207.1089999675751,
+      "timestamp": 1686722750,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0644\u0647 \u064A\u0648\u0641\u0642\u0643 \u064A\u0627\u0631\u0628 \u0648\u062A\u062F\u062E\u0644 \u0627\u0644\u062A\u062E\u0635\u0635 \u0627\u0644\u064A \u062A\u0628\u063A\u0627\u0647",
+      "path": ""
+    },
+    {
+      "size": 21,
+      "timeDelay": 4237.1419999599457,
+      "timestamp": 1686722754,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0627\u0633\u0644\u0627\u0645\u064A\u0629",
+      "path": ""
+    },
+    {
+      "size": 334,
+      "timeDelay": 4237.143000125885,
+      "timestamp": 1686722754,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u0627\u0644\u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064A\u0629 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDD \u0645\u0644\u0627\u062D\u0638\u0627\u062A \u0648\u062A\u0641\u0627\u0635\u064A\u0644 \u0645\u0647\u0645\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 77,
+      "timeDelay": 4237.1870000362396,
+      "timestamp": 1686722755,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0627 \u062C\u0645\u0627\u0639\u0647 \u0627\u062D\u062F \u064A\u0639\u0631\u0641 \u0627\u0630\u0627 \u0641\u064A\u0647 \u0627\u0646\u062A\u0633\u0627\u0628 \u0648 \u0645\u062A\u0649 \u064A\u0641\u062A\u062D",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 4237.1879999637604,
+      "timestamp": 1686722772,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0644\u0647 \u064A\u0648\u0641\u0642\u0643",
+      "path": ""
+    },
+    {
+      "size": 118,
+      "timeDelay": 4237.1879999637604,
+      "timestamp": 1686722778,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0645\u064A\u0646 \u064A\u0627\u0631\u0628 \u0628\u0642\u062F\u0645 \u0639 \u062C\u0627\u0645\u0639\u0629 \u0646\u062C\u0631\u0627\u0646 \u0645\u0645\u0643\u0646 \u0644\u0627\u0646 \u0646\u0633\u0628\u0647\u0645 \u0634\u0648\u064A \u0646\u0627\u0632\u0644\u0629 \u0648\u0645\u0645\u0643\u0646 \u062C\u064A\u0632\u0627\u0646",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 4237.1890001296997,
+      "timestamp": 1686722778,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 4267.2200000286102,
+      "timestamp": 1686722782,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0645\u064A\u0646 \u064A\u0627\u0631\u0628",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 4267.2980000972748,
+      "timestamp": 1686722789,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 4267.2990000247955,
+      "timestamp": 1686722794,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u062D\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646",
+      "path": ""
+    },
+    {
+      "size": 415,
+      "timeDelay": 4267.2990000247955,
+      "timestamp": 1686722794,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u062D\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646 -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 ( 1443 ):\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0639\u0627\u0645 ( 1443 ):\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u0644\u0639\u0627\u0645 ( 1442 ):\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCDA \u062A\u0639\u0631\u064A\u0641 \u0628\u062A\u062E\u0635\u0635\u0627\u062A \u0627\u0644\u062C\u0627\u0645\u0639\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 17,
+      "timeDelay": 4267.3020000457764,
+      "timestamp": 1686722799,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648\u064A\u0627\u0643 \u064A\u0627\u0631\u0628",
+      "path": ""
+    },
+    {
+      "size": 49,
+      "timeDelay": 4267.3020000457764,
+      "timestamp": 1686722801,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0646\u062C\u0631\u0627\u0646 \u0645\u0627\u064A\u0642\u0628\u0644\u0648 \u062E\u0627\u0631\u062C \u0627\u0644\u0645\u0646\u0637\u0642\u0629",
+      "path": ""
+    },
+    {
+      "size": 6,
+      "timeDelay": 4267.3029999732971,
+      "timestamp": 1686722807,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C\u062F\u061F",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 4297.3849999904633,
+      "timestamp": 1686722812,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627 \u064A\u0631\u062C\u0627\u0644 \u0627\u062E\u062A\u0628\u0631",
+      "path": ""
+    },
+    {
+      "size": 38,
+      "timeDelay": 4297.385999917984,
+      "timestamp": 1686722815,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0628\u0627\u0644\u0638\u0647\u0631\u0627\u0646 \u0635\u062D\u061F",
+      "path": ""
+    },
+    {
+      "size": 6,
+      "timeDelay": 4297.385999917984,
+      "timestamp": 1686722828,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0647",
+      "path": ""
+    },
+    {
+      "size": 22,
+      "timeDelay": 4297.3870000839233,
+      "timestamp": 1686722833,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 513,
+      "timeDelay": 4297.3870000839233,
+      "timestamp": 1686722833,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0633\u0639\u0648\u062F -\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCD6 \u062F\u0644\u064A\u0644 \u0642\u0628\u0648\u0644 \u0627\u0644\u062F\u0628\u0644\u0648\u0645 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u062A\u0648\u0632\u064A\u0639 \u0627\u0644\u0646\u0633\u0628 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0623\u0639\u0648\u0627\u0645 \u0627\u0644\u0645\u0627\u0636\u064A\u0629:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u0642\u0628\u0648\u0644 \u0644\u0644\u0639\u0627\u0645 1444:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643\n\n\uD83D\uDD05\uD83D\uDCAF \u0646\u0633\u0628 \u0627\u0644\u062A\u062E\u0635\u064A\u0635 \u062F\u0641\u0639\u0629 1443:\n\uD83D\uDD17 \u0627\u0636\u063A\u0637 \u0627\u0644\u0645\u0634\u0628\u0643 \u3164",
+      "path": ""
+    },
+    {
+      "size": 75,
+      "timeDelay": 4327.4160001277924,
+      "timestamp": 1686722844,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062A\u062C\u0645\u064A\u0639\u0627\u062A \u062A\u063A\u064A\u0631\u062A \u0628\u0633 \u062A\u0642\u0631\u064A\u0628\u0627\u064B \u0628\u062E\u062A\u0628\u0631 \u0648\u062E\u0644\u0627\u0635\uD83D\uDE42",
+      "path": ""
+    },
+    {
+      "size": 14,
+      "timeDelay": 4357.5020000934601,
+      "timestamp": 1686722897,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062A\u0627\u0631\u064A\u062E",
+      "path": ""
+    },
+    {
+      "size": 207,
+      "timeDelay": 4357.5030000209808,
+      "timestamp": 1686722897,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "- \u0627\u0644\u064A\u0640\u0640\u0648\u0645: \u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621\n            - \uD83D\uDDD3 \u0627\u0644\u062A\u0640\u0627\u0631\u064A\u0640\u062E:-\n            \u275E \u0647\u0640\u062C\u0640\u0631\u064A: 1444-11-25 \u0630\u0648 \u0627\u0644\u0642\u0639\u062F\u0629 \u0647\u0640\n            \u275E \u0645\u0640\u064A\u0644\u0627\u062F\u064A: 2023-06-14 June \u0645\u0640\n            \u3164",
+      "path": ""
+    },
+    {
+      "size": 41,
+      "timeDelay": 4420.4430000782013,
+      "timestamp": 1686722935,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0645 \u0637\u0627\u0644\u0628\u064A\u0646 \u0627\u0644\u0628\u062A\u0631\u0648\u0644 \u0633\u062A\u064A\u0628",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 4420.444000005722,
+      "timestamp": 1686722954,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0630\u0643\u0631 \u0642\u0627\u0644\u0648\u0627 \u0641\u0648\u0642 45 \u061F\u061F",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 4420.444000005722,
+      "timestamp": 1686722959,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0665\u0660 \u0648\u0641\u0648\u0642",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 4445.7249999046326,
+      "timestamp": 1686722966,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0635\u0627\u0631\u062A \u0665\u0660",
+      "path": ""
+    },
+    {
+      "size": 39,
+      "timeDelay": 4475.7130000591278,
+      "timestamp": 1686722994,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0648\u0641 \u0645\u0646\u0647\u0645 \u0627\u0644\u0632\u0627\u0645\u064A \u0633\u062A\u064A\u0628\u061F",
+      "path": ""
+    },
+    {
+      "size": 32,
+      "timeDelay": 4475.7999999523163,
+      "timestamp": 1686723008,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 4475.7999999523163,
+      "timestamp": 1686723012,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A \u0645\u0631\u0627",
+      "path": ""
+    },
+    {
+      "size": 6,
+      "timeDelay": 4475.7999999523163,
+      "timestamp": 1686723017,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0647",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 4505.8540000915527,
+      "timestamp": 1686723022,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u064A\u0647 \u0644\u0627\u0632\u0645",
+      "path": ""
+    },
+    {
+      "size": 53,
+      "timeDelay": 4505.8540000915527,
+      "timestamp": 1686723042,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u062E\u064A\u0644\u062A \u0627\u0644\u0644\u064A \u062C\u0627\u0628\u0648 \u0664\u0669 \u0643\u064A\u0641 \u0634\u0639\u0648\u0631\u0647\u0645",
+      "path": ""
+    },
+    {
+      "size": 36,
+      "timeDelay": 4535.9370000362396,
+      "timestamp": 1686723075,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u062C\u0631\u0628\u0648\u0646 \u0645\u0627\u062D\u064A\u062E\u0633\u0631\u0648\u0627 \u0634\u064A",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 4535.9379999637604,
+      "timestamp": 1686723078,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0648 \u0631\u0632\u0642\u0647\u0645",
+      "path": ""
+    },
+    {
+      "size": 198,
+      "timeDelay": 4565.9730000495911,
+      "timestamp": 1686723106,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062E\u064A\u0631\u0647 \n\u0627\u0646\u0627 \u0627\u0644\u0645\u0641\u0631\u0648\u0636 \u0627\u0646\u0642\u0628\u0644 \u0645\u0628\u0627\u0634\u0631 \n \u0628\u0627\u0642\u064A \u062A\u0643\u0647 \u0648 \u0627\u0646\u0642\u0628\u0644 \n\u0644\u0643\u0646 \u0625\u0646 \u0634\u0627\u0621\u0627\u0644\u0644\u0647 \u0623\u0646\u0647\u0627 \u062E\u064A\u0631\u0647 \n\u0627\u0644\u0648\u0627\u062D\u062F \u0645\u0627 \u064A\u062F\u0631\u064A \u0648\u064A\u0646 \u0627\u0644\u0644\u0647 \u0643\u062A\u0628 \u0644\u0647 \u0627\u0644\u062E\u064A\u0631",
+      "path": ""
+    },
+    {
+      "size": 58,
+      "timeDelay": 4626.095999956131,
+      "timestamp": 1686723147,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0643\u062A\u0631\u0648\u0646\u064A \u062A\u0631\u0627 \u0645\u0627 \u064A\u0642\u0628\u0644 \u0627\u0644\u0627 \u0665\u0660 \u0648\u0641\u0648\u0642",
+      "path": ""
+    },
+    {
+      "size": 56,
+      "timeDelay": 4626.0970001220703,
+      "timestamp": 1686723155,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0633 \u0627\u0643\u064A\u062F \u0627\u0646\u0647\u0627 \u062E\u064A\u0631\u0629 \u0644\u0647\u0645 \u0643\u0644\u0634\u064A \u062E\u064A\u0631\u0629",
+      "path": ""
+    },
+    {
+      "size": 131,
+      "timeDelay": 4656.1770000457764,
+      "timestamp": 1686723170,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0639\u062F\u064A\u0646 \u0641\u064A\u0647 \u0648\u0642\u062A \u0644\u0644\u064A \u064A\u0628\u063A\u0648\u0646 \u064A\u0631\u0641\u0639\u0648\u0646 \u062F\u0631\u062C\u062A\u0647\u0645 \u0628\u0627\u0644\u0633\u062A\u064A\u0628 \u064A\u0642\u0641\u0644 \u0662\u0662 \u0630\u0648 \u0627\u0644\u062D\u062C\u0629 \u064A\u0639\u0646\u064A \u0628\u0627\u0642\u064A",
+      "path": ""
+    },
+    {
+      "size": 61,
+      "timeDelay": 4656.1770000457764,
+      "timestamp": 1686723178,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0645\u0634\u0643\u0644\u0647 \u0627\u0644\u062D\u064A\u0646 \u0645\u0627\u0641\u064A \u0645\u0648\u0627\u0639\u064A\u062F \u0633\u062A\u064A\u0628 \uD83D\uDE2D",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 4656.1770000457764,
+      "timestamp": 1686723181,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062C.\u0633\u0637\u0627\u0645",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 4656.1779999732971,
+      "timestamp": 1686723187,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u062A\u0623\u0643\u062F\u0629 \u061F",
+      "path": ""
+    },
+    {
+      "size": 43,
+      "timeDelay": 4656.1779999732971,
+      "timestamp": 1686723192,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0641\u064A\u0647 \u0627\u0628\u062F\u061F \u064A\u0642\u0648\u0644\u0648\u0646 \u0641\u062A\u062D\u0648\u0627",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 4656.1779999732971,
+      "timestamp": 1686723196,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0645\u0627\u0646\u0647",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 4686.2620000839233,
+      "timestamp": 1686723202,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0646\u062C\u062F \u061F",
+      "path": ""
+    },
+    {
+      "size": 30,
+      "timeDelay": 4686.2620000839233,
+      "timestamp": 1686723205,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0644\u0642\u064A\u062A \u0648\u0627\u0644\u0644\u0647 \u0627\u0646\u0627",
+      "path": ""
+    },
+    {
+      "size": 129,
+      "timeDelay": 4686.2630000114441,
+      "timestamp": 1686723230,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0628 \u0639\u0627\u062F\u064A \u064A\u0645\u062F\u064A\u0643 \u062A\u062E\u062A\u0628\u0631\u064A\u0646 \u0648\u062A\u0642\u062F\u0645\u064A\u0646 \u0644\u0623\u0646 \u0627\u0644\u062A\u0642\u062F\u064A\u0645 \u064A\u0642\u0641\u0644 \u0662\u0662 \u0630\u0648 \u0627\u0644\u062D\u062C\u0629 \u0641\u064A \u0641\u062A\u0631\u0629 \u064A\u0639\u0646\u064A",
+      "path": ""
+    },
+    {
+      "size": 112,
+      "timeDelay": 4716.2920000553131,
+      "timestamp": 1686723240,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u0643\u0641\u064A\u0646 \u0627\u0646\u0628\u0633\u0637\u062A \u0627\u0646\u0627 \u0634\u0641\u062A \u0627\u0646\u0648 \u064A\u0641\u062A\u062D\u0664\u0630\u0648 \u0627\u0644\u062D\u062C\u0647 \u0628\u0633 \u0645\u062A\u0627\u0643\u062F\u0647 \u0627\u0646\u062A\u064A \u064A\u0642\u0641\u0644\u0662\u0662\u061F",
+      "path": ""
+    },
+    {
+      "size": 61,
+      "timeDelay": 4716.2929999828339,
+      "timestamp": 1686723253,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062D\u064A\u0646 \u0627\u0639\u0637\u064A\u0643 \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0627\u0643\u064A\u062F \u062B\u0648\u0627\u0646\u064A \u0628\u0633",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 4746.3220000267029,
+      "timestamp": 1686723271,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u064A\u0642\u0641\u0644 \u0661\u0668",
+      "path": ""
+    },
+    {
+      "size": 27,
+      "timeDelay": 4902.2509999275208,
+      "timestamp": 1686723394,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0635\u062D \u0639\u0644\u064A\u0643 \u064A\u0642\u0641\u0644 \u0661\u0668",
+      "path": ""
+    },
+    {
+      "size": 232,
+      "timeDelay": 4902.2530000209808,
+      "timestamp": 1686723428,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0639\u0645\u0648\u0645\u0627\u064B \u064A\u0645\u062F\u064A\u0643\u0645 \u064A\u0639\u0646\u064A \u062A\u062E\u062A\u0628\u0631\u0648\u0646 \u0642\u0628\u0644\u0647\u0627 \u0644\u0633\u0647 \u0641\u064A\u0647 \u0648\u0642\u062A\n\u0648\u062A\u0631\u0627 \u0645\u0642\u0627\u0639\u062F \u0627\u0644\u0633\u062A\u064A\u0628 \u062A\u062E\u0644\u0635 \u0628\u0633\u0631\u0639\u0629 \u0628\u0633 \u064A\u0636\u064A\u0641\u0648\u0646 \u062E\u0644\u0643 \u0627\u0647\u0645 \u0634\u064A \u0628\u0627\u0644\u0645\u0648\u0642\u0639 \u0643\u0644 \u0634\u0648\u064A \u0648\u0627\u0646 \u0634\u0627\u0621 \u0627\u0644\u0644\u0647 \u062A\u0644\u0642\u064A\u0646",
+      "path": ""
+    },
+    {
+      "size": 81892,
+      "timeDelay": 4902.4290001392365,
+      "timestamp": 1686723446.6530001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5785352185465389055_121.jpg"
+    },
+    {
+      "size": 85,
+      "timeDelay": 4932.2810001373291,
+      "timestamp": 1686723451,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u062A\u0649 \u064A\u0641\u062A\u062D \u062A\u0633\u062C\u064A\u0644 \u062C\u0627\u0645\u0639\u0629 \u0627\u0644\u0645\u0644\u0643 \u0639\u0628\u062F\u0627\u0644\u0639\u0632\u064A\u0632\u061F \u0627\u062D\u062F \u064A\u0639\u0631\u0641",
+      "path": ""
+    },
+    {
+      "size": 13,
+      "timeDelay": 4932.3359999656677,
+      "timestamp": 1686723466,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627 \u0642\u0627\u0644\u0648",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 4932.3359999656677,
+      "timestamp": 1686723473,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0634\u0643\u0631\u0627\u064B",
+      "path": ""
+    },
+    {
+      "size": 37,
+      "timeDelay": 5088.2569999694824,
+      "timestamp": 1686723579,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0631\u0627\u0645\u0643\u0648 \u0637\u0627\u0644\u0628\u064A\u0646 \u0633\u062A\u064A\u0628 \u061F",
+      "path": ""
+    },
+    {
+      "size": 73,
+      "timeDelay": 5118.2850000858307,
+      "timestamp": 1686723641,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627 \u0648\u0627\u0635\u0644\u064B\u0627 \u062E\u0644\u0635 \u062A\u0642\u062F\u064A\u0645\u0647\u0645 \u0644\u0644CPP \u0628\u0642\u0649 ITC \u062A\u0642\u0631\u064A\u0628\u064B\u0627",
+      "path": ""
+    },
+    {
+      "size": 31,
+      "timeDelay": 5118.2860000133514,
+      "timestamp": 1686723655,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0627\u0639\u0646\u062F\u0647\u0645 \u0627\u0639\u062A\u064A\u0627\u062F\u064A\u061F",
+      "path": ""
+    },
+    {
+      "size": 87,
+      "timeDelay": 5211.3150000572205,
+      "timestamp": 1686723705,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0643\u0645 \u064A\u0648\u0645 \u0628\u0642\u064A \u0639\u0644\u0649 \u0646\u062A\u0627\u0626\u062C \u0627\u0644\u062A\u062D\u0635\u064A\u0644\u064A \u0648\u062A\u0627\u0631\u064A\u062E \u0643\u0645 \u062A\u0637\u0644\u0639 \u061F\u061F\u061F",
+      "path": ""
+    },
+    {
+      "size": 38,
+      "timeDelay": 5211.316999912262,
+      "timestamp": 1686723743,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u062E\u0645\u064A\u0633 \u0627\u0644\u0627\u0633\u0628\u0648\u0639 \u0627\u0644\u062C\u0627\u064A",
+      "path": ""
+    },
+    {
+      "size": 19,
+      "timeDelay": 5241.3959999084473,
+      "timestamp": 1686723762,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0662\u0662\u064A\u0648\u0646\u064A\u0648/\u0662\u0663",
+      "path": ""
+    },
+    {
+      "size": 108,
+      "timeDelay": 5271.4850001335144,
+      "timestamp": 1686723786,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0648 \u062A\u062E\u0635\u0635\u064A \u062A\u0645\u0631\u064A\u0636 \u0639\u0627\u0645 \u0647\u0644 \u0645\u0645\u0643\u0646 \u0627\u062A\u0648\u0638\u0641 \u0641\u064A \u0639\u064A\u0627\u062F\u0629 \u0628\u064A\u0637\u0631\u064A\u0629 \u0628\u0627\u0644\u0645\u0633\u062A\u0642\u0628\u0644\u061F",
+      "path": ""
+    },
+    {
+      "size": 355,
+      "timeDelay": 5271.5260000228882,
+      "timestamp": 1686723790,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0644\u0627\u062A\u0646\u0633\u0648\u0646 \u0635\u0644\u0627\u0629 \u0627\u0644\u0636\u062D\u0649\u060C \u0627\u0630\u0643\u0631\u0648\u0646\u064A \u0628\u062F\u0639\u0648\u0647 \u0627\u062E\u0648\u0643 \u0639\u0628\u062F\u0627\u0644\u0644\u0647\n\n \u0635\u0644\u0627\u0629 \u0627\u0644\u0636\u062D\u0649 \u062A\u0632\u0643\u064A\u0629 \u0644\u0644\u0646\u0641\u0633\u060C \u0648 \u062A\u0637\u0647\u064A\u0631 \u0644\u0644\u0630\u0646\u0648\u0628\u060C \u0648 \u0627\u0633\u062A\u0631\u0627\u062D\u0629 \u0644\u0644\u0628\u0627\u0644\u060C \u0648 \u0639\u0648\u0646 \u0639\u0644\u0649 \u062A\u0643\u0627\u0644\u064A\u0641 \u0627\u0644\u064A\u0648\u0645\u060C \u0648 \u0635\u062F\u0642\u0629 \u0639\u0646 \u0645\u0641\u0627\u0635\u0644 \u0627\u0644\u062C\u0633\u062F. \n\n\u200F\u062A\u062C\u0627\u0631\u0629 \u0631\u0627\u0628\u062D\u0629 \u0644\u0627 \u062A\u0628\u0648\u0631\u061B \u0641\u0623\u0642\u0650\u0645\u0647\u0627 \u064A\u0627 \u0623\u0648\u064E\u0651\u0627\u0628\uD83E\uDD0D",
+      "path": ""
+    },
+    {
+      "size": 49,
+      "timeDelay": 5301.555999994278,
+      "timestamp": 1686723818,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0627\u0642\u064A \u0668 \u0627\u064A\u0627\u0645 \n \u062A\u0627\u0631\u064A\u062E \u0662\u0662 \u064A\u0648\u0646\u064A\u0648",
+      "path": ""
+    }
+  ],
+  "RecordedGroups": [
+    "Xshab_sinama",
+    "SEPAHCYBERY",
+    "Bazneshast_Tehran",
+    "dokhtarone_profail",
+    "qadrat_a1",
+    "ZZ_SO"
+  ],
+  "Start_TimeStamp": 1686718544.224,
+  "Stop_TimeStamp": 1686723944.2249999,
+  "Path": "messageTraces-2023-06-14-08-25-44"
+}

@@ -1,0 +1,58 @@
+{
+  "NumberOfTraces": 117,
+  "NumberOfEmptySizes": 0,
+  "ProzentualEmptySizes": 0,
+  "MissingFiles": 0,
+  "Path": "messageTraces-2023-06-18-16-28-28",
+  "TypeAnalysis": {
+    "audio": {
+      "_type": "audio",
+      "count": 0,
+      "totalCount": 117,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "video": {
+      "_type": "video",
+      "count": 24,
+      "totalCount": 117,
+      "countProzent": 0.20512820512820512,
+      "volumeProzent": 0.9433124406645863,
+      "volumeInByte": 122287161,
+      "smallestMsg": 13934,
+      "largestMsg": 27656397,
+      "avgSize": 5095298.375
+    },
+    "photo": {
+      "_type": "photo",
+      "count": 38,
+      "totalCount": 117,
+      "countProzent": 0.3247863247863248,
+      "volumeProzent": 0.05656119773731821,
+      "volumeInByte": 7332362,
+      "smallestMsg": 35968,
+      "largestMsg": 430761,
+      "avgSize": 192956.8947368421
+    },
+    "text": {
+      "_type": "text",
+      "count": 55,
+      "totalCount": 117,
+      "countProzent": 0.4700854700854701,
+      "volumeProzent": 0.00012636159809553996,
+      "volumeInByte": 16381,
+      "smallestMsg": 4,
+      "largestMsg": 1190,
+      "avgSize": 297.8363636363636
+    }
+  },
+  "startTimestamp": 1687006030.145,
+  "stopTimestamp": 1687020349.809,
+  "recoredFromGroups": [
+    "IMTestGroup"
+  ]
+}

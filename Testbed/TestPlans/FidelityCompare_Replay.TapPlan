@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="IMAppConnection.StartIMMessageLogging_Step" Id="bcab9f9f-0782-40ff-b675-8d3558b68c0c">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+      <Name Metadata="Step Name">Start LoggingIM-App-Messages</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.SendMessages_Step" Id="a2425c35-9d19-43d5-bf76-9219bf91cf67">
+      <messageScriptJSONPath>Results\messageTraces-2023-06-10-20-30-34_short.json</messageScriptJSONPath>
+      <ImApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: private449</ImApp>
+      <MessageChannelName>IMTestGroup</MessageChannelName>
+      <Name Metadata="Step Name">MessageSender</Name>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="dde69ac2-ab80-4a55-8df0-7ba5c47fe736">
+      <DelaySecs>10</DelaySecs>
+      <Name Metadata="Step Name">Delay</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.TestSteps.StopIMMessageLogging_Step" Id="cb163faa-2878-48dd-b710-f6dd30908811">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+      <_outputToMessageTraceFile>false</_outputToMessageTraceFile>
+      <_outputToMessageScriptJSON>true</_outputToMessageScriptJSON>
+      <_outputFolderPath>Results</_outputFolderPath>
+      <_msgTraces>
+        <MsgEvent>
+          <size>11308081</size>
+          <timeDelay>12.717000007629395</timeDelay>
+          <timestamp>1686582383.584</timestamp>
+          <type>video</type>
+          <id>0</id>
+          <isOutgoing>false</isOutgoing>
+          <messageText></messageText>
+          <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\6050915132521845003.mp4</path>
+        </MsgEvent>
+        <MsgEvent>
+          <size>6374554</size>
+          <timeDelay>16.930999994277954</timeDelay>
+          <timestamp>1686582387.799</timestamp>
+          <type>video</type>
+          <id>0</id>
+          <isOutgoing>false</isOutgoing>
+          <messageText></messageText>
+          <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\videos\6050742552145956416.mp4</path>
+        </MsgEvent>
+      </_msgTraces>
+      <recordedGroups>
+        <PropertyName />
+        <Step />
+      </recordedGroups>
+      <Name Metadata="Step Name">Stop LoggingIM-App-Messages</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

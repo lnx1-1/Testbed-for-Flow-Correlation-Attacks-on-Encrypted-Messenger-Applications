@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\attack algorithms\C# Implementation\Event-Based-Impl\Detection_Impl\Detection_Impl.csproj" />
+      <ProjectReference Include="..\..\attack algorithms\C# Implementation\Event-Based-Impl\Event-Based-Impl\Event-Based-Impl.csproj" />
+      <ProjectReference Include="..\..\MainProject\IMSniff_Testbed_OpenTAP\ProjectCommons\ProjectCommons.csproj" />
+      <ProjectReference Include="..\..\MainProject\IMSniff_Testbed_OpenTAP\ResultAnalyser\ResultAnalyser.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="OxyPlot.Core" Version="2.1.2" />
+      <PackageReference Include="ScottPlot" Version="4.1.64" />
+    </ItemGroup>
+
+</Project>

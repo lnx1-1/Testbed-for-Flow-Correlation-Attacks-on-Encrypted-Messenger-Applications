@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="IMAppConnection.SetupMessageChannels" Id="364e95dc-c6e1-4327-8cf5-05d7ce8d4c35">
+      <UseChannelNameFile>true</UseChannelNameFile>
+      <leaveAllOtherChannels>true</leaveAllOtherChannels>
+      <MessageChannels />
+      <ChannelNameFilePath>..\..\TestData\channelNames.csv</ChannelNameFilePath>
+      <IMApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramClientConnector</IMApp>
+      <Name Metadata="Step Name">SetupMessageChannels</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.StartIMMessageLogging_Step" Id="077e97c6-2526-45c7-a97f-8c80c6243b5f">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramClientConnector</_Logger>
+      <Name Metadata="Step Name">Start LoggingIM-App-Messages</Name>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="7549ad34-a8e8-46d7-918d-17360b03066c">
+      <DelaySecs>10000000</DelaySecs>
+      <Name Metadata="Step Name">Delay</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.StopIMMessageLogging_Step" Id="dd165e30-44a8-4b5a-8e9e-501b6b2ce961">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramClientConnector</_Logger>
+      <_outputToMessageTraceFile>false</_outputToMessageTraceFile>
+      <_outputToMessageScriptJSON>false</_outputToMessageScriptJSON>
+      <_outputFolderPath>./Result/</_outputFolderPath>
+      <_msgTraces>
+        <MsgEvent>
+          <size>-1</size>
+          <timeDelay>0</timeDelay>
+          <timestamp>-1</timestamp>
+          <type>MsgEvent</type>
+          <id>0</id>
+          <isOutgoing>false</isOutgoing>
+          <messageText></messageText>
+          <path></path>
+        </MsgEvent>
+      </_msgTraces>
+      <Name Metadata="Step Name">Stop LoggingIM-App-Messages</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.19.5+6210d651" />
+  </Package.Dependencies>
+</TestPlan>

@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/UnitTesting/CaptureOutputInternal/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27b43d70_002D7613_002D444c_002D9259_002Dace5d681577b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSendTextMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCB0DAB6-4757-43D1-9942-136D76B24762::.NETCoreApp,Version=v3.1::TelegramAPI_Tests.TelegramClientTests.TestSendTextMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FCB0DAB6-4757-43D1-9942-136D76B24762::.NETCoreApp,Version=v3.1::TelegramAPI_Tests.TelegramClientTests.TestGetAllChatsFromUser&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=81c6c343_002D9abc_002D4540_002Da11a_002D52371e11abbb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\TelegramAPI_Tests" Presentation="&amp;lt;TelegramAPI_Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/LoggingInternal/@EntryValue">VERBOSE</s:String>
+	</wpf:ResourceDictionary>

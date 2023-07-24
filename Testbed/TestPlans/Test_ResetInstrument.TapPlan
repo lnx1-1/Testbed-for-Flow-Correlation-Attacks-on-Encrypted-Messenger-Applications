@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="OpenTap.Plugins.BasicSteps.RepeatStep" Id="ae0784c6-fd59-4463-a035-b6690951d13f">
+      <Action>Fixed_Count</Action>
+      <TargetStep />
+      <TargetVerdict>Fail</TargetVerdict>
+      <Count>3</Count>
+      <Retry>false</Retry>
+      <ClearVerdict>false</ClearVerdict>
+      <MaxCount>
+        <Value>3</Value>
+        <IsEnabled>false</IsEnabled>
+      </MaxCount>
+      <Name Metadata="Step Name">Repeat</Name>
+      <ChildTestSteps>
+        <TestStep type="IMAppConnection.StartIMMessageLogging_Step" Id="90d48f60-6e83-4002-bb45-5a2ff0ea50f2">
+          <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+          <Name Metadata="Step Name">Start LoggingIM-App-Messages</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.SendMessages_Step" Id="556ab912-283c-42c6-8819-4642037a554e">
+          <messageScriptJSONPath>../../TestData/LogTestData.json</messageScriptJSONPath>
+          <ImApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: private449</ImApp>
+          <MessageChannelName>IMTestGroup</MessageChannelName>
+          <Name Metadata="Step Name">MessageSender</Name>
+        </TestStep>
+        <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="da4c791f-329e-4bb2-b616-47a13548444c">
+          <DelaySecs>10</DelaySecs>
+          <Name Metadata="Step Name">Delay (1)</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.TestSteps.StopIMMessageLogging_Step" Id="86264279-a36b-498a-a755-11a6c3b5240e">
+          <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+          <_outputToMessageTraceFile>false</_outputToMessageTraceFile>
+          <_outputToMessageScriptJSON>false</_outputToMessageScriptJSON>
+          <_outputFolderPath>Result</_outputFolderPath>
+          <_msgTraces>
+            <MsgEvent>
+              <size>51</size>
+              <timeDelay>2.1159999370574951</timeDelay>
+              <timestamp>1687868327</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>Heelellororofosfgseolrgsakfjbnsafasfewrgergysdfgsad</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>106840</size>
+              <timeDelay>8.3139998912811279</timeDelay>
+              <timestamp>1687868332.672</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5249255063363373593_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>202386</size>
+              <timeDelay>13.253000020980835</timeDelay>
+              <timestamp>1687868337.611</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5249255063363373594_121.jpg</path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>607</size>
+              <timeDelay>15.583999872207642</timeDelay>
+              <timestamp>1687868341</timestamp>
+              <type>text</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText>new MessageReceivedEventArgs(-1, -1.551365636, "", false),
+        new MessageReceivedEventArgs(-1, -155136.5636, "Hello\nduDa", false){_Path = ""}
+      };
+
+      var msgEvents = msgEventsArgs.Select(ev =&gt; ev.AsMsgEvent()).ToList();
+      
+      string filePath = "./jsonTestFile.json";
+      var jsonEvFile = new JsonMessageEventFile(msgEvents);
+      jsonEvFile.WriteToDisk(filePath, true);
+
+      var loadedEvFile = JsonMessageEventFile.ReadMessageEventFile(filePath).GetAwaiter().GetResult();
+      var loadedEvs = loadedEvFile._MsgEvents;
+      Assert.That(msgEvents,Is.EquivalentTo(loadedEvs));
+    }</messageText>
+              <path></path>
+            </MsgEvent>
+            <MsgEvent>
+              <size>56882</size>
+              <timeDelay>17.427999973297119</timeDelay>
+              <timestamp>1687868341.786</timestamp>
+              <type>photo</type>
+              <id>0</id>
+              <isOutgoing>false</isOutgoing>
+              <messageText></messageText>
+              <path>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\tg_profiles\db_Lycamobile\photos\5249255063363373595_119.jpg</path>
+            </MsgEvent>
+          </_msgTraces>
+          <recordedGroups>
+            <PropertyName />
+            <Step />
+          </recordedGroups>
+          <Name Metadata="Step Name">Stop LoggingIM-App-Messages</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.ResetInstrument_step" Id="48be5410-c729-4123-9f2a-57cd94c3eeb3">
+          <IMApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</IMApp>
+          <Name Metadata="Step Name">ResetInstrument_step</Name>
+        </TestStep>
+        <TestStep type="IMAppConnection.ResetInstrument_step" Id="20a75c64-c037-49b3-9dc9-06697b033677">
+          <IMApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: private449</IMApp>
+          <Name Metadata="Step Name">ResetInstrument_step (1)</Name>
+        </TestStep>
+        <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="dcf05d0c-3370-4d02-80e8-478795663071">
+          <DelaySecs>5</DelaySecs>
+          <Name Metadata="Step Name">Delay</Name>
+        </TestStep>
+      </ChildTestSteps>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

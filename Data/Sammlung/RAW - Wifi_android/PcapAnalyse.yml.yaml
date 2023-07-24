@@ -1,0 +1,101 @@
+---
+Description: "Packet Lengths"
+Count: 65007
+Average: 1293,95
+Min Val: 54
+Max Val: 1506
+Rate (ms): 0,0045
+Percent: 100%
+Burst Rate: 4,3200
+Burst Start: 6392,151
+Items:
+  - Description: "0-19"
+    Count: 0
+    Average: -
+    Min Val: -
+    Max Val: -
+    Rate (ms): 0,0000
+    Percent: 0,00%
+    Burst Rate: -
+    Burst Start: -
+  - Description: "20-39"
+    Count: 0
+    Average: -
+    Min Val: -
+    Max Val: -
+    Rate (ms): 0,0000
+    Percent: 0,00%
+    Burst Rate: -
+    Burst Start: -
+  - Description: "40-79"
+    Count: 1402
+    Average: 66,30
+    Min Val: 54
+    Max Val: 78
+    Rate (ms): 0,0001
+    Percent: 2,16%
+    Burst Rate: 0,0800
+    Burst Start: 6388,037
+  - Description: "80-159"
+    Count: 1672
+    Average: 154,95
+    Min Val: 118
+    Max Val: 155
+    Rate (ms): 0,0001
+    Percent: 2,57%
+    Burst Rate: 0,0400
+    Burst Start: 127,139
+  - Description: "160-319"
+    Count: 322
+    Average: 211,92
+    Min Val: 161
+    Max Val: 315
+    Rate (ms): 0,0000
+    Percent: 0,50%
+    Burst Rate: 0,0600
+    Burst Start: 8118,744
+  - Description: "320-639"
+    Count: 64
+    Average: 471,08
+    Min Val: 325
+    Max Val: 638
+    Rate (ms): 0,0000
+    Percent: 0,10%
+    Burst Rate: 0,0100
+    Burst Start: 9,942
+  - Description: "640-1279"
+    Count: 1347
+    Average: 993,41
+    Min Val: 646
+    Max Val: 1262
+    Rate (ms): 0,0001
+    Percent: 2,07%
+    Burst Rate: 0,0800
+    Burst Start: 7511,390
+  - Description: "1280-2559"
+    Count: 60200
+    Average: 1367,57
+    Min Val: 1282
+    Max Val: 1506
+    Rate (ms): 0,0042
+    Percent: 92,61%
+    Burst Rate: 4,2600
+    Burst Start: 6391,941
+  - Description: "2560-5119"
+    Count: 0
+    Average: -
+    Min Val: -
+    Max Val: -
+    Rate (ms): 0,0000
+    Percent: 0,00%
+    Burst Rate: -
+    Burst Start: -
+  - Description: "5120 and greater"
+    Count: 0
+    Average: -
+    Min Val: -
+    Max Val: -
+    Rate (ms): 0,0000
+    Percent: 0,00%
+    Burst Rate: -
+    Burst Start: -

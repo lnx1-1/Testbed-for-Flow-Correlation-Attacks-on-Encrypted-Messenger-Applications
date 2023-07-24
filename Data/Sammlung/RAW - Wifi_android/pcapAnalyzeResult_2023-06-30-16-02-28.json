@@ -1,0 +1,38 @@
+[
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\RAW - Wifi_android\\capture-2.pcap",
+    "totalSize": 93680326,
+    "totalCount": 90444,
+    "avgSize": 1035.7826500375922,
+    "captureDuration": 14302.575242996216
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\RAW - Wifi_android\\capture-3.pcap",
+    "totalSize": 93190408,
+    "totalCount": 92611,
+    "avgSize": 1006.2563626351082,
+    "captureDuration": 14302.440525054932
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\RAW - Wifi_android\\capture-4.pcap",
+    "totalSize": 94522501,
+    "totalCount": 98218,
+    "avgSize": 962.3745240180008,
+    "captureDuration": 14310.333019018173
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\RAW - Wifi_android\\capture-5.pcap",
+    "totalSize": 94229628,
+    "totalCount": 93862,
+    "avgSize": 1003.9166861988878,
+    "captureDuration": 14302.429441928864
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\RAW - Wifi_android\\capture-Wifi-6.pcap",
+    "totalSize": 85147447,
+    "totalCount": 81087,
+    "avgSize": 1050.0751908444017,
+    "captureDuration": 14302.715754032135
+    
+  }
+]

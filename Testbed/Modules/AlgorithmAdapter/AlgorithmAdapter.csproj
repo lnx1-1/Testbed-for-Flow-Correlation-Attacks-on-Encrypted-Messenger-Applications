@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+    <PropertyGroup>
+        <TargetFrameworkIdentifier></TargetFrameworkIdentifier>
+        <TargetFrameworkVersion></TargetFrameworkVersion>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Configurations>Debug;Release;Debug x64</Configurations>
+        <Platforms>AnyCPU;x64</Platforms>
+    </PropertyGroup>
+    
+  <PropertyGroup>
+    <OpenTapPackageDefinitionPath>package.xml</OpenTapPackageDefinitionPath>
+    <CreateOpenTapPackage>false</CreateOpenTapPackage>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <CreateOpenTapPackage>true</CreateOpenTapPackage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTAP" Version="9.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>    
+    <ProjectReference Include="..\Attack_Algorithm\C# Implementation\Event-Based-Impl\Detection_Impl\Detection_Impl.csproj" />    
+    <ProjectReference Include="..\IMSniff_Testbed_OpenTAP\IMSniff_Testbed_OpenTAP.csproj" />    
+    <ProjectReference Include="..\ProjectCommons\ProjectCommons.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Analyse\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,94 @@
+{
+  "messages": [
+    {
+      "size": 239557,
+      "timeDelay": 10.3300001621246,
+      "timestamp": 1686732298.575,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5787203784521399539_121.jpg"
+    },
+    {
+      "size": 111374,
+      "timeDelay": 20.3070001602173,
+      "timestamp": 1686732328.552,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5787542124865109662_121.jpg"
+    },
+    {
+      "size": 1214819,
+      "timeDelay": 30.7190001010895,
+      "timestamp": 1686732733.964,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5785058271807148096.mp4"
+    },
+    {
+      "size": 228773,
+      "timeDelay": 40.164999961853,
+      "timestamp": 1686789255.4319999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5213367682437598289_121.jpg"
+    },
+    {
+      "size": 52856,
+      "timeDelay": 50.5540001392365,
+      "timestamp": 1686789440.8210001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5213367682437598290_120.jpg"
+    },
+    {
+      "size": 4043809,
+      "timeDelay": 60.3329999446869,
+      "timestamp": 1686789847.5999999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\IMG_8154.MP4"
+    },
+    {
+      "size": 239557,
+      "timeDelay": 70.9010000228882,
+      "timestamp": 1686790062.168,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5213367682437598291_121.jpg"
+    },
+    {
+      "size": 111374,
+      "timeDelay": 80.6870000362396,
+      "timestamp": 1686790091.954,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5213367682437598293_121.jpg"
+    }
+  ],
+  "RecordedGroups": [
+    "akhbarefori",
+    "linkyab",
+    "Gilin_Gilin",
+    "farsna",
+    "dasriam"
+  ],
+  "Start_TimeStamp": 1686723960.2449999,
+  "Stop_TimeStamp": 1686738360.2449999,
+  "Path": "messageTraces-2023-06-14-12-26-00"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-0.pcap",
+    "totalSize": 35140585,
+    "totalCount": 36043,
+    "avgSize": 974.9628221846128,
+    "captureDuration": 4340.623111963272
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-1.pcap",
+    "totalSize": 33863293,
+    "totalCount": 33909,
+    "avgSize": 998.6520687723023,
+    "captureDuration": 4340.453289031982
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-2.pcap",
+    "totalSize": 33689654,
+    "totalCount": 32155,
+    "avgSize": 1047.7267610013994,
+    "captureDuration": 4340.59868311882
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-3.pcap",
+    "totalSize": 33566822,
+    "totalCount": 32554,
+    "avgSize": 1031.1120599619094,
+    "captureDuration": 4345.871600866318
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-4.pcap",
+    "totalSize": 33501417,
+    "totalCount": 32683,
+    "avgSize": 1025.041061102102,
+    "captureDuration": 4340.739508867264
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-5.pcap",
+    "totalSize": 33528280,
+    "totalCount": 32831,
+    "avgSize": 1021.2384636471627,
+    "captureDuration": 4343.642494916916
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-6.pcap",
+    "totalSize": 33638707,
+    "totalCount": 33793,
+    "avgSize": 995.4341727576717,
+    "captureDuration": 4340.578391075134
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-7.pcap",
+    "totalSize": 33583456,
+    "totalCount": 31552,
+    "avgSize": 1064.3843813387423,
+    "captureDuration": 4340.452124118805
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-8.pcap",
+    "totalSize": 33782847,
+    "totalCount": 32698,
+    "avgSize": 1033.177778457398,
+    "captureDuration": 4345.727311134338
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\Recording_ShortForReproduciability\\RecordedData\\pcaps\\capture-PhoneWifi-9.pcap",
+    "totalSize": 33870232,
+    "totalCount": 33835,
+    "avgSize": 1001.0412886064726,
+    "captureDuration": 4346.152009963989
+  }
+]

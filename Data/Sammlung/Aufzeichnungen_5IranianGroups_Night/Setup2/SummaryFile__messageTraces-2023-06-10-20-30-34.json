@@ -1,0 +1,62 @@
+{
+  "NumberOfTraces": 179,
+  "NumberOfEmptySizes": 0,
+  "ProzentualEmptySizes": 0,
+  "MissingFiles": 5,
+  "Path": null,
+  "TypeAnalysis": {
+    "audio": {
+      "_type": "audio",
+      "count": 0,
+      "totalCount": 179,
+      "countProzent": 0,
+      "volumeProzent": 0,
+      "volumeInByte": 0,
+      "smallestMsg": 0,
+      "largestMsg": 0,
+      "avgSize": 0
+    },
+    "video": {
+      "_type": "video",
+      "count": 34,
+      "totalCount": 179,
+      "countProzent": 0.18994413407821228,
+      "volumeProzent": 0.9747181150557759,
+      "volumeInByte": 194118876,
+      "smallestMsg": 362464,
+      "largestMsg": 14499044,
+      "avgSize": 5709378.705882353
+    },
+    "photo": {
+      "_type": "photo",
+      "count": 42,
+      "totalCount": 179,
+      "countProzent": 0.2346368715083799,
+      "volumeProzent": 0.02512197340728433,
+      "volumeInByte": 5003138,
+      "smallestMsg": 20097,
+      "largestMsg": 291094,
+      "avgSize": 119122.33333333333
+    },
+    "text": {
+      "_type": "text",
+      "count": 103,
+      "totalCount": 179,
+      "countProzent": 0.5754189944134078,
+      "volumeProzent": 0.00015991153693977343,
+      "volumeInByte": 31847,
+      "smallestMsg": 61,
+      "largestMsg": 1588,
+      "avgSize": 309.19417475728153
+    }
+  },
+  "startTimestamp": 1686407434.221,
+  "stopTimestamp": 1686421834.223,
+  "recoredFromGroups": [
+    "akhbarefori",
+    "linkyab",
+    "Gilin_Gilin",
+    "farsna",
+    "dasriam"
+  ]
+}

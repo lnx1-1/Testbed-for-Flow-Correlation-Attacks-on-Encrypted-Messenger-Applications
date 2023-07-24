@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+    <PropertyGroup>        
+        <TargetFramework>netstandard2.0</TargetFramework>        
+        <Configurations>Debug;Release;Debug x64</Configurations>        
+        <Platforms>AnyCPU;x64</Platforms>        
+        <LangVersion>8</LangVersion>
+    </PropertyGroup>
+    
+  <PropertyGroup>
+    <OpenTapPackageDefinitionPath>package.xml</OpenTapPackageDefinitionPath>
+    <CreateOpenTapPackage>false</CreateOpenTapPackage>
+  </PropertyGroup>
+  
+ <ItemGroup Condition="'$(IsWindows)'=='True'">
+	  <AdditionalOpenTapPackage Include="Developer's System CE" />
+  </ItemGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <CreateOpenTapPackage>true</CreateOpenTapPackage>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug x64|x64' ">
+    <DebugSymbols Condition=" '$(DebugSymbols)' == '' ">true</DebugSymbols>
+    <Optimize Condition=" '$(Optimize)' == '' ">false</Optimize>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="7.0.1" />
+    <PackageReference Include="OpenTAP" Version="9.21.0" />
+  </ItemGroup>
+</Project>

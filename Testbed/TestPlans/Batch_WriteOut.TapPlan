@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="AlgorithmAdapter.EventBasedV2" Id="84ba8a72-4937-4b80-9bdc-a51d8cfe2426">
+      <NumberOfFiles>10</NumberOfFiles>
+      <IntervalDurationInSeconds>1800</IntervalDurationInSeconds>
+      <BatchPerFile>true</BatchPerFile>
+      <IntervalList>300, 600, 900, 1800, 3600</IntervalList>
+      <_msgEventsFolderPath>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Sammlung\Recording_ShortForReproduciability\RecordedData\traces</_msgEventsFolderPath>
+      <_PcapFolderPath>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Sammlung\Recording_ShortForReproduciability\RecordedData\pcaps</_PcapFolderPath>
+      <_outFolder>C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug x64\Results\Sammlung\Recording_ShortForReproduciability\Analyse</_outFolder>
+      <_nameAppendix>Wifi_Short</_nameAppendix>
+      <_writeOut>true</_writeOut>
+      <Name Metadata="Step Name">Event-Based Batch Detection</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

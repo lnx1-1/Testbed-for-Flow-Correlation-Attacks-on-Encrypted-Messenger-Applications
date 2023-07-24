@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ResultReportTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" TemplateName="Some report template">
+  <Charts>
+    <Chart ChartTitle="TP and Interval" ChartType="Keysight.OpenTap.ResultsViewer.ScatterPlot, ResultsViewer, Version=9.17.4.0, Culture=neutral, PublicKeyToken=null">
+      <ChartProperties>
+        <ChartProperty>UseDarkTheme=True</ChartProperty>
+        <ChartProperty>LegendPlacement=0</ChartProperty>
+        <ChartProperty>LegendPosition=2</ChartProperty>
+        <ChartProperty>LegendAxisName=False</ChartProperty>
+        <ChartProperty>LegendVisible=True</ChartProperty>
+        <ChartProperty>DatetimeAxis=False</ChartProperty>
+      </ChartProperties>
+      <Conditions />
+      <LowerLimit />
+      <UpperLimit />
+      <AxesValues>
+        <Axis Tag="0">
+          <Dimensions>
+            <Dimension AxisType="8">Interval</Dimension>
+          </Dimensions>
+        </Axis>
+        <Axis Tag="1">
+          <Dimensions>
+            <Dimension AxisType="8">TP</Dimension>
+          </Dimensions>
+        </Axis>
+        <Axis Tag="2">
+          <Dimensions />
+        </Axis>
+      </AxesValues>
+      <Modifiers>
+        <Modifier ModifierType="Keysight.OpenTap.ResultsViewer.ResultTypeModifier">
+          <Properties>
+            <Properties>ResultType=TP and Interval</Properties>
+          </Properties>
+        </Modifier>
+      </Modifiers>
+      <ShowLimits>true</ShowLimits>
+    </Chart>
+  </Charts>
+</ResultReportTemplate>

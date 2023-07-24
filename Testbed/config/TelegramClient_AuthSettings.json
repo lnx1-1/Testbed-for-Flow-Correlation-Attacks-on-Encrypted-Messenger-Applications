@@ -1,0 +1,18 @@
+{
+  "auths": [
+    {
+      "ApiId": 12345678,
+      "ApiHash": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+      "PhoneNumber": "0123432345",
+      "Name": "Testentry1",
+      "DBlocation": ".\\tg_profiles\\testprofile"
+    },
+    {
+      "ApiId": 12345678,
+      "ApiHash": "xxxxxxxxxxxxxxxxxxxxxxxx",
+      "PhoneNumber": "012356765432",
+      "Name": "Testentry1",
+      "DBlocation": ".\\tg_profiles\\testprofile"
+    }
+  ]
+}

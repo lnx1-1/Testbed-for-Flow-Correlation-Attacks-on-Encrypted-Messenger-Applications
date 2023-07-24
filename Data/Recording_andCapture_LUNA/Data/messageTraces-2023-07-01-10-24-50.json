@@ -1,0 +1,1294 @@
+{
+  "messages": [
+    {
+      "size": 83,
+      "timeDelay": 3.9330000877380371,
+      "timestamp": 1688185488,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062D\u0627\u0644\u0627 \u0628\u0686\u0634\u0645 \u0645\u0646 \u062E\u0648\u0628 \u0627\u0648\u0645\u062F\u06CC\u0627 \u0628\u0628\u06CC\u0646\u0645 \u062E\u0631\u0627\u0628\u0634 \u0645\u06CC\u06A9\u0646\u06CC\uD83D\uDE10\uD83D\uDE02",
+      "path": ""
+    },
+    {
+      "size": 10,
+      "timeDelay": 4.064000129699707,
+      "timestamp": 1688185486,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0641\u0631\u06CC\u0646",
+      "path": ""
+    },
+    {
+      "size": 66,
+      "timeDelay": 12.013999938964844,
+      "timestamp": 1688185496,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE01\uD83D\uDE01\u0641\u0642\u0637 \u0633\u0639\u06CC \u0645\u06CC\u06A9\u0646\u0645 \u0622\u062F\u0645 \u062E\u0648\u0628\u06CC \u0628\u0627\u0634\u0645 \u0647\u0645\u06CC\u0646",
+      "path": ""
+    },
+    {
+      "size": 55,
+      "timeDelay": 12.749000072479248,
+      "timestamp": 1688185497,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\u0648\u0644\u06CC \u0627\u0648\u0646\u0627\u06CC \u062F\u06CC\u06AF\u0647 \u0647\u0633\u062A\u0646",
+      "path": ""
+    },
+    {
+      "size": 121,
+      "timeDelay": 14.212000131607056,
+      "timestamp": 1688185499,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u06CC\u062F\u0648\u0646\u0646 \u0645\u0632\u0627\u062D\u0645\u0646 \u0628\u0639\u062F \u0645\u06CC\u06AF\u0646 \u0628\u0628\u062E\u0634\u06CC\u062F \u0645\u0632\u0627\u062D\u0645 \u0634\u062F\u0645 \u0645\u06CC\u062A\u0648\u0646\u0645 \u06CC\u0647 \u0633\u0648\u0627\u0644 \u0627\u0632\u062A\u0648\u0646 \u0628\u067E\u0631\u0633\u0645",
+      "path": ""
+    },
+    {
+      "size": 461,
+      "timeDelay": 22.763999938964844,
+      "timestamp": 1688185507,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0698\u0627\u067E\u0646 \u0627\u0632 \u0627\u06CC\u0646 \u0644\u062D\u0627\u0638 \u062E\u06CC\u0644\u06CC \u062E\u0648\u0628\u0647 (\u0627\u0632 \u0646\u0638\u0631 \u0642\u06CC\u0645\u062A \u063A\u0630\u0627)\n\u062D\u062F\u0627\u0642\u0644 \u062D\u0642\u0648\u0642 \u06A9\u0627\u0631\u06AF\u0631\u06CC \u062A\u0648 \u0698\u0627\u067E\u0646 220 \u0647\u0632\u0627\u0631 \u06CC\u0646 \u062A\u0648 \u06CC\u0647 \u0645\u0627\u0647\u0647\n\u0628\u0639\u062F \u06CC\u0647 \u0648\u0639\u062F\u0647 \u063A\u0630\u0627\u06CC \u062E\u0648\u0628 \u0628\u062E\u0648\u0631\u06CC \u0645\u06CC\u0634\u0647 \u062D\u062F\u0648\u062F 500 \u0627\u0644\u06CC 700 \u06CC\u0646\n\u06CC\u06A9\u0645 \u06A9\u0647 \u0645\u0639\u0645\u0648\u0644\u06CC \u0628\u062E\u0648\u0631\u06CC \u0645\u06CC\u0634\u0647 200 - 300 \u06CC\u0646\n\u062E\u06CC\u0644\u06CC \u062E\u0641\u0646\u0647 \u0627\u0632 \u0627\u06CC\u0646 \u0646\u0638\u0631\n\u0627\u062C\u0627\u0631\u0647 \u0647\u0645 \u0628\u0631\u0627 \u06CC\u0647 \u0627\u062A\u0627\u0642 50 \u0645\u062A\u0631\u06CC \u062D\u062F\u0648\u062F 40 - 50 \u0647\u0632\u0627\u0631 \u06CC\u0646\u0647 \u06A9\u0647 \u0628\u0631\u0627 \u06CC\u0647 \u0646\u0641\u0631 \u06A9\u0627\u0641\u06CC\u0647",
+      "path": ""
+    },
+    {
+      "size": 145,
+      "timeDelay": 23.636000156402588,
+      "timestamp": 1688185508,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u063A\u0645 \u0643\u0647 \u0627\u0632 \u062D\u062F \u0628\u06AF\u0630\u0631\u062F \u062F\u0644 \u062D\u0633 \u067E\u064A\u0631\u064A \u0645\u064A\u0643\u0646\u062F \n\u0633\u0646 \u0647\u0631\u0643 \u0633 \u0631\u0627 \u063A\u0645\u0634 \u0627\u0646\u062F\u0627\u0632\u0647 \u06AF\u064A\u0631\u064A \u0645\u064A\u0643\u0646\u062F...\n\n\u200E\u200C\u200C\u200C\n\n\n\uD83E\uDD8B",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 24.493000030517578,
+      "timestamp": 1688185509,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE15\uD83D\uDE15\uD83D\uDE15\uD83D\uDE15",
+      "path": ""
+    },
+    {
+      "size": 11,
+      "timeDelay": 27.492000102996826,
+      "timestamp": 1688185512,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0622\u0631\u0647 \uD83D\uDE1E",
+      "path": ""
+    },
+    {
+      "size": 113,
+      "timeDelay": 31.509999990463257,
+      "timestamp": 1688185516,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0646 \u0647\u0631 \u0686\u06CC \u0633\u0631\u0686 \u06A9\u0631\u062F\u0645. \u0646\u062A\u06CC\u062C\u0647 \u0627\u06CC \u0646\u062F\u0627\u0634\u062A\n\u0646\u0647 \u0645\u062A\u0646 \u0634\u0639\u0631 \u0647\u0633\u062A. \u0646\u0647 \u0641\u0627\u06CC\u0644 \u0633\u0631\u0648\u062F !!!!",
+      "path": ""
+    },
+    {
+      "size": 29,
+      "timeDelay": 34.740000009536743,
+      "timestamp": 1688185519,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062A\u062C\u0631\u0628\u0647 \u062F\u0627\u0631\u06CC\u0627\uD83D\uDE10\uD83D\uDE02",
+      "path": ""
+    },
+    {
+      "size": 42,
+      "timeDelay": 36.184999942779541,
+      "timestamp": 1688185521,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062E\u062F\u0627 \u0646\u06A9\u0646\u0647 \u0632\u0646\u062F\u0647 \u0628\u0627\u0634\u06CC \uD83D\uDE0D\uD83D\uDE02",
+      "path": ""
+    },
+    {
+      "size": 135,
+      "timeDelay": 36.890000104904175,
+      "timestamp": 1688185521,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0646\u0627\u0632\u0627\u0631\u06CC \u062F\u0644\u0647 \u06A9\u0645 \uD83D\uDE0D\uD83D\uDE4F\uD83C\uDF39\u2764\uD83D\uDE18\u062F\u0627\u0648\u0648\u062F \u06AF\u06CC\u0627\u0646 \uD83D\uDE0D\uD83D\uDE4F\uD83C\uDF39\uD83C\uDF3A\uD83C\uDF3C\uD83C\uDF38\u0635\u0628\u062A \u0628\u062E\u06CC\u0631\u0648 \u062E\u0648\u0634\u06CC \u0627\u0644\u0647\u06CC \uD83E\uDD32\uD83D\uDC4D\u2764",
+      "path": ""
+    },
+    {
+      "size": 15,
+      "timeDelay": 38.623000144958496,
+      "timestamp": 1688185523,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0635\u0628\u062D \u0628\u062E\u06CC\u0631",
+      "path": ""
+    },
+    {
+      "size": 36,
+      "timeDelay": 39.337000131607056,
+      "timestamp": 1688185524,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0641\u06CC\u0644\u062A\u0631 \u0634\u06A9\u0646 \u062E\u0648\u0628 \u0628\u062E\u0631 45\u062A",
+      "path": ""
+    },
+    {
+      "size": 100,
+      "timeDelay": 43.136000156402588,
+      "timestamp": 1688185527,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u0644\u0627\u0627\u0627\u0627\u0627\u0645 \u06AF\u0644 \u0631\u0648\u0632 \u062E\u0648\u0628\u06CC \u062F\u0627\u0634\u062A\u0647 \u0628\u0627\u0634\u06CC \uD83C\uDF39\u0645\u0645\u0646\u0648\u0646\u0645 \u062F\u0648\u0633\u062A \u062E\u0648\u0628\u0645\uD83C\uDF39\uD83E\uDD70",
+      "path": ""
+    },
+    {
+      "size": 823,
+      "timeDelay": 47.151000022888184,
+      "timestamp": 1688185530,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u200D\u0648 \u0628\u0627\u0632 \u062F\u0631\u0648\u062F \u0648 \u0635\u062F \u0633\u0644\u0627\u0645\uD83D\uDE0A\u270B\n\u0635\u0628\u062D \u0632\u06CC\u0628\u0627\u062A\u0648\u0646 \u0628\u062E\u06CC\u0631 \u2615\uFE0F\uD83D\uDE0A\uD83C\uDF39\n\u0634\u0631\u0648\u0639 \u0647\u0641\u062A\u0647 \u062A\u0648\u0646 \u067E\u0631 \u0628\u0631\u06A9\u062A \uD83C\uDF5E\n\u0635\u0628\u062D\u062A\u0648\u0646 \u0633\u0631\u0634\u0627\u0631 \u0627\u0632 \u0639\u0634\u0642 \u0648 \u0645\u0647\u0631\u0628\u0627\u0646\u06CC \u2764\n\u0627\u0648\u0644\u06CC\u0646 \u0633\u0627\u0639\u0627\u062A\u23F0\u0631\u0648\u0632\u00A0\u0634\u0646\u0628\u0647 \u0627\u0633\u062A\uD83C\uDF39\n\u0633\u0627\u0632\u062A \u0627\u06AF\u0631 \u0639\u0634\u0642 \u0628\u0646\u0648\u0627\u0632\u062F\uD83C\uDFBB\u2763\n\u0647\u0645\u0647 \u062E\u0644\u0642\u062A \u062E\u0648\u0627\u0647\u0646\u062F \u0631\u0642\u0635\u06CC\u062F\n\uD83C\uDF43\uD83C\uDF39\u0632\u0628\u0627\u0646\u062A \u0627\u06AF\u0631 \u0634\u06CC\u0631\u06CC\u0646 \u0628\u0627\u0634\u062F\n\u0647\u0645\u0647 \u067E\u0631\u0648\u0627\u0646\u0647 \u0647\u0627 \u06AF\u0631\u062F \u062A\u0648 \u062E\u0648\u0627\u0647\u0646\u062F \u0622\u0645\u062F\uD83E\uDD8B\n\u0642\u0644\u0628\u062A \u062F\u0631\u06CC\u0627\u06CC \u0631\u062D\u0645\u062A \u0628\u0627\u0634\u062F\u2763\n\u0647\u0645\u0647 \u062F\u0631 \u0622\u0646 \u062C\u0627 \u062E\u0648\u0627\u0647\u0646\u062F \u06AF\u0631\u0641\u062A\n\u067E\u0633 \u0639\u0634\u0642 \u0631\u0627 \u0628\u0646\u0648\u0627\u0632\uD83C\uDFBB\u2763\n\u0628\u0627 \u0632\u0628\u0627\u0646 \u0634\u06CC\u0631\u06CC\u0646\u062A \u0628\u062E\u0648\u0627\u0646\n\u0648 \u0628\u0627 \u0642\u0644\u0628\u062A \u067E\u0630\u06CC\u0631\u0627 \u0628\u0627\u0634\u2763\u2728\n\u0631\u0648\u0632\u062A \u0628\u0647 \u0646\u06CC\u06A9\u06CC \u060C \u0645\u0647\u0631\u062A \u0632\u06CC\u0628\u0627 \uD83C\uDF39\n\u0644\u062D\u0638\u0647 \u0647\u0627\u06CC\u062A \u0639\u0627\u0634\u0642\u0627\u0646\u0647\u2764\n\u062A\u0646\u0648\u0631 \u062F\u0644\u062A \u06AF\u0631\u0645 \u0648\u0633\u0631\u062A \u062E\u0648\u0634 \u0628\u0627\u062F\uD83D\uDE0A\uD83C\uDF39\n\u200C\u200C\u200C\u200C\u200C\u200C\u200C\u200C\u200C\uD83C\uDF13\u200C\u200C\u200C\u200C\u200C\u200C",
+      "path": ""
+    },
+    {
+      "size": 90,
+      "timeDelay": 47.151999950408936,
+      "timestamp": 1688185530,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0622\u0646\u0642\u062F\u0631 \u0642\u0634\u0646\u06AF \u0628\u0644\u062F\u0645 \u062E\u0631\u0627\u0628 \u06A9\u0646\u0645 \u062A\u0648 \u0686\u0634\u0645 \u0628\u0631 \u0647\u0645 \u0632\u062F\u0646\u06CC \uD83D\uDE39\uD83E\uDD26\u200D\u2640",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 50.924000024795532,
+      "timestamp": 1688185534,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0686\u0631\u0627\u061F",
+      "path": ""
+    },
+    {
+      "size": 188,
+      "timeDelay": 54.398000001907349,
+      "timestamp": 1688185537,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u06CC\u0647 \u062C\u0627 \u0646\u0648\u0634\u062A\u0647 \u0628\u0648\u062F \u300A\u0627\u0645\u06CC\u062F\u0648\u0627\u0631\u0645 \u0648\u0642\u062A\u06CC \u062F\u0644\u062A\u0648\u0646 \u0631\u0641\u062A \u060C\u0645\u0646\u0637\u0642 \u0648 \u0639\u0642\u0644\u062A\u0648\u0646 \u0646\u0631\u0647 \u300B\n\u0648 \u0628\u0647 \u0646\u0638\u0631\u0645 \u062A\u0646\u0647\u0627 \u0631\u0627\u0647 \u062A\u0631\u06A9\u06CC\u0628 \u0639\u0634\u0642 \u0648 \u0622\u0631\u0627\u0645\u0634 \u0647\u0645\u06CC\u0646\u0647",
+      "path": ""
+    },
+    {
+      "size": 25,
+      "timeDelay": 73.163000106811523,
+      "timestamp": 1688185546,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0686\u0637\u0648\u0631\u06CC\u0627\u06CC\u06CC \u062F\u0627\u0648\u062F",
+      "path": ""
+    },
+    {
+      "size": 52,
+      "timeDelay": 73.164000034332275,
+      "timestamp": 1688185547,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\u0628\u06CC\u0627\u0646 \u062A\u0627 \u0645\u0648\u0632 \u0628\u062F\u06CC\u0645 \u0628\u0647\u0634\u0648\u0646",
+      "path": ""
+    },
+    {
+      "size": 12,
+      "timeDelay": 73.207000017166138,
+      "timestamp": 1688185549,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDC41\uD83D\uDC43\uD83D\uDC41",
+      "path": ""
+    },
+    {
+      "size": 26,
+      "timeDelay": 73.20799994468689,
+      "timestamp": 1688185554,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u062B\u0644\u0627 \u06AF\u0641\u062A\u0645 \uD83D\uDE10\uD83E\uDD23",
+      "path": ""
+    },
+    {
+      "size": 52,
+      "timeDelay": 82.848999977111816,
+      "timestamp": 1688185560,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u0648 \u06A9\u0644\u0647 \u067E\u0627\u0686\u0647 \u0645\u06CC\u0627\u062F \uD83D\uDE1E \u062F\u0644\u0645 \u062E\u0648\u0627\u0633\u062A",
+      "path": ""
+    },
+    {
+      "size": 115,
+      "timeDelay": 82.848999977111816,
+      "timestamp": 1688185563,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0686\u06CC \u0628\u0647\u062A\u0631\u0647 \u0627\u06CC\u0646 \u0632\u06CC\u0628\u0627\u06CC\u06CC \u062C\u0633\u0645 \u062A\u0647\u0634 \u0646\u0627\u0628\u0648\u062F\u0647 \u0627\u06CC\u0646\u06A9\u0647 \u0628\u0647  \u0642\u0644\u0628 \u0627\u062F\u0645\u0627 \u0628\u0634\u06CC\u0646\u06CC \u0645\u0647\u0645\u0647",
+      "path": ""
+    },
+    {
+      "size": 23,
+      "timeDelay": 82.848999977111816,
+      "timestamp": 1688185564,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0646\u0648\u0634 \u062C\u0627\u0646\u0634\u0648\u0646\uD83D\uDE02",
+      "path": ""
+    },
+    {
+      "size": 94,
+      "timeDelay": 84.253999948501587,
+      "timestamp": 1688185569,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u0644\u0627\u0645 \u0646\u0633\u06CC\u0645 \u062C\u0627\u0646 \u062E\u0648\u0628\u0645 \u062A\u0648\u062E\u0648\u0628\u06CC \u0639\u0632\u06CC\u0632 \u0635\u0628\u062D \u0634\u0646\u0628\u0647 \u062A \u0628\u062E\u06CC\u0631\u0648 \u0634\u0627\u062F\u06CC",
+      "path": ""
+    },
+    {
+      "size": 34,
+      "timeDelay": 93.253000020980835,
+      "timestamp": 1688185578,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE0B\uD83D\uDE0B\uD83D\uDE0B\n\n\u062E\u0628 \u0628\u062E\u0631 \u0628\u062E\u0648\u0631",
+      "path": ""
+    },
+    {
+      "size": 61,
+      "timeDelay": 93.610000133514404,
+      "timestamp": 1688185578,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0631\u0647 \u0627\u062F\u0645\u0647\u0627\u06CC \u0645\u0631\u06CC\u0636 \u0646\u0633\u0644\u0634\u0648\u0646 \u062A\u0645\u0648\u0645 \u0646\u0645\u06CC\u0634\u0647",
+      "path": ""
+    },
+    {
+      "size": 189,
+      "timeDelay": 97.074000120162964,
+      "timestamp": 1688185581,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u06CC\u0646 \u062C\u0645\u0644\u0647 \u0631\u0627\u0628\u0631\u062A \u062F\u0646\u06CC\u0631\u0648 \u06CC\u0647 \u0633\u0628\u06A9 \u0632\u0646\u062F\u06AF\u06CC \u06A9\u0627\u0645\u0644\u0647:\n\u0022\u0647\u0645\u06CC\u0634\u0647 \u0622\u0645\u0627\u062F\u0647 \u0628\u0627\u0634 \u062A\u0627 \u0647\u0631 \u0686\u06CC\u0632\u06CC \u0631\u0648\n \u06A9\u0647 \u062F\u0627\u0631\u06CC \u0628\u062A\u0648\u0646\u06CC \u062A\u0648 \u0633\u06CC \u062B\u0627\u0646\u06CC\u0647 \u062A\u0631\u06A9 \u06A9\u0646\u06CC\u0022.",
+      "path": ""
+    },
+    {
+      "size": 24,
+      "timeDelay": 99.042999982833862,
+      "timestamp": 1688185583,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02\uD83D\uDC4D\uD83D\uDC4D",
+      "path": ""
+    },
+    {
+      "size": 8,
+      "timeDelay": 105.76699995994568,
+      "timestamp": 1688185590,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDC4C\uD83D\uDC4C",
+      "path": ""
+    },
+    {
+      "size": 16,
+      "timeDelay": 106.98300004005432,
+      "timestamp": 1688185591,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDC41\uD83D\uDC43\uD83D\uDC41\uD83E\uDDBB",
+      "path": ""
+    },
+    {
+      "size": 90,
+      "timeDelay": 112.78900003433228,
+      "timestamp": 1688185597,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u0644\u0627\u0645 \u0645\u0631\u0633\u06CC \u062E\u0648\u0628\u0645 \u0634\u06A9\u0631 \u0647\u0645\u0686\u0646\u06CC\u0646\n\u0631\u0648\u0632 \u062E\u0648\u0628\u06CC \u062F\u0627\u0634\u062A\u0647 \u0628\u0627\u0634\u06CC\uD83E\uDD70\uD83C\uDF39",
+      "path": ""
+    },
+    {
+      "size": 20,
+      "timeDelay": 113.08200001716614,
+      "timestamp": 1688185597,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u062E\u062F\u0627 \u0634\u0641\u0627 \u0628\u062F\u0647",
+      "path": ""
+    },
+    {
+      "size": 55,
+      "timeDelay": 113.79800009727478,
+      "timestamp": 1688185598,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0633\u0644\u0627\u0645 \u0639\u0634\u0642 \u062F\u0627\u062F\u0627\u0634 \u0635\u0628\u062D\u062A \u0628\u062E\u06CC\u0631 \uD83D\uDE02\u2764\uFE0F",
+      "path": ""
+    },
+    {
+      "size": 46,
+      "timeDelay": 113.9060001373291,
+      "timestamp": 1688185598,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0627\u0644\u0627\u0646 \u062F\u06CC\u06AF\u0647 \u062F\u06CC\u0631\u0647 \u0628\u062E\u0648\u0627\u06CC \u0628\u062E\u0631\u06CC",
+      "path": ""
+    },
+    {
+      "size": 69,
+      "timeDelay": 121.10800004005432,
+      "timestamp": 1688185606,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDE01\uD83D\uDE01 \u062C\u0633\u0645 \u0632\u06CC\u0628\u0627 \u0647\u0645 \u0645\u0647\u0645\u0639 \u0646\u0645\u06CC\u0634\u0647 \u0627\u0646\u06A9\u0627\u0631\u0634 \u06A9\u0631\u062F",
+      "path": ""
+    },
+    {
+      "size": 32,
+      "timeDelay": 122.8050000667572,
+      "timestamp": 1688185607,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0628\u062E\u0627\u0637\u0631 \u06AF\u0631\u062F \u0627\u0641\u0634\u0627\u0646\u06CC\u0647",
+      "path": ""
+    },
+    {
+      "size": 12,
+      "timeDelay": 133.28999996185303,
+      "timestamp": 1688185613,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83E\uDD14\uD83E\uDD14\uD83E\uDD14",
+      "path": ""
+    },
+    {
+      "size": 674,
+      "timeDelay": 353.54200005531311,
+      "timestamp": 1688185828,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u06A9\u0627\u0647\u0634 \u062F\u0645\u0627 \u062F\u0631 \u0646\u06CC\u0645\u0647 \u0634\u0645\u0627\u0644\u06CC \u06A9\u0634\u0648\u0631\n\n\u26C8\u0628\u0627 \u0646\u0641\u0648\u0630 \u062C\u0631\u06CC\u0627\u0646\u0627\u062A \u062E\u0646\u06A9 \u0634\u0645\u0627\u0644\u06CC \u0628\u0647 \u0633\u0648\u0627\u062D\u0644 \u062E\u0632\u0631\u060C \u062F\u0631 \u06AF\u06CC\u0644\u0627\u0646\u060C \u0645\u0627\u0632\u0646\u062F\u0631\u0627\u0646\u060C \u0634\u0631\u0642 \u0627\u0631\u062F\u0628\u06CC\u0644 \u0648 \u0628\u0631\u062E\u06CC \u0645\u0646\u0627\u0637\u0642 \u06AF\u0644\u0633\u062A\u0627\u0646 \u0628\u0627\u0631\u0634 \u0628\u0627\u0631\u0627\u0646 \u06AF\u0627\u0647\u06CC \u0631\u0639\u062F \u0648 \u0628\u0631\u0642 \u0648 \u06A9\u0627\u0647\u0634 \u0646\u0633\u0628\u06CC \u062F\u0645\u0627 \u067E\u06CC\u0634\u200C\u0628\u06CC\u0646\u06CC \u0645\u06CC\u200C\u0634\u0648\u062F. \n\n\uD83D\uDCA8\u062F\u0631 \u0645\u0631\u06A9\u0632 \u06A9\u0634\u0648\u0631\u060C \u0634\u0631\u0642 \u0648 \u0634\u0645\u0627\u0644\u200C\u0634\u0631\u0642 \u0647\u0645\u0686\u0646\u06CC\u0646 \u0645\u0646\u0627\u0637\u0642 \u0645\u0631\u0632\u06CC \u06A9\u0634\u0648\u0631 \u062F\u0631 \u063A\u0631\u0628 \u0648 \u062C\u0646\u0648\u0628 \u063A\u0631\u0628 \u0648\u0632\u0634 \u0628\u0627\u062F \u0627\u0641\u0632\u0627\u06CC\u0634 \u0645\u06CC\u200C\u06CC\u0627\u0628\u062F \u06A9\u0647 \u0645\u0648\u062C\u0628 \u06A9\u0627\u0647\u0634 \u062F\u06CC\u062F\u060C \u06A9\u0627\u0647\u0634 \u06A9\u06CC\u0641\u06CC\u062A \u0647\u0648\u0627 \u0648 \u062E\u06CC\u0632\u0634 \u06AF\u0631\u062F \u0648 \u062E\u0627\u06A9 \u062F\u0631 \u0628\u0631\u062E\u06CC \u0627\u0632 \u0646\u0642\u0627\u0637 \u0627\u06CC\u0646 \u0645\u0646\u0627\u0637\u0642 \u062E\u0648\u0627\u0647\u062F \u0634\u062F.\n\nJoin \u2192 @Gilin_Gilin",
+      "path": ""
+    },
+    {
+      "size": 226755,
+      "timeDelay": 381.51300001144409,
+      "timestamp": 1688185866.846,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5827976634911800879_121.jpg"
+    },
+    {
+      "size": 4817952,
+      "timeDelay": 481.25,
+      "timestamp": 1688185966.5829999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\\u06AF\u0631\u0648\u06AF\u0627\u0646_\u06AF\u064A\u0631\u064A_\u0633\u064A\u062F_\u0645\u062D\u0645\u062F_\u0631\u0636\u0627_\u0622\u0642\u0627\u064A\u064A_\u0645\u064A\u0631_5957402_telegram.mp4"
+    },
+    {
+      "size": 48578,
+      "timeDelay": 632.51600003242493,
+      "timestamp": 1688186117.849,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834923057318313344_120.jpg"
+    },
+    {
+      "size": 254227,
+      "timeDelay": 632.53999996185303,
+      "timestamp": 1688186117.8729999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834923057318313345_121.jpg"
+    },
+    {
+      "size": 811,
+      "timeDelay": 823.91499996185303,
+      "timestamp": 1688186281,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u062D\u0631\u06CC\u0642 \u0634\u0647\u0631\u06A9 \u0635\u0646\u0639\u062A\u06CC \u0634\u0648\u0634 \u067E\u0633 \u0627\u0632 \u062C\u062F\u0627\u0644 \u0647\u0641\u062A \u0633\u0627\u0639\u062A\u0647 \u06F5\u06F0 \u0622\u062A\u0634 \u0646\u0634\u0627\u0646 \u0645\u0647\u0627\u0631 \u0634\u062F\n\n\u0631\u0626\u06CC\u0633 \u0622\u062A\u0634\u200C\u0646\u0634\u0627\u0646\u06CC\u200C\u0634\u0648\u0634: \n\uD83D\uDD39\u0639\u0645\u0644\u06CC\u0627\u062A \u0627\u0637\u0641\u0627\u06CC \u062D\u0631\u06CC\u0642 \u062F\u0631 \u0634\u0647\u0631\u06A9 \u0635\u0646\u0639\u062A\u06CC \u0634\u0648\u0634 \u0628\u0627 \u0645\u0634\u0627\u0631\u06A9\u062A \u0622\u062A\u0634 \u0646\u0634\u0627\u0646\u0627\u0646 \u0686\u0647\u0627\u0631 \u0634\u0647\u0631 \u062E\u0648\u0632\u0633\u062A\u0627\u0646 \u067E\u0633 \u0627\u0632 \u06AF\u0630\u0634\u062A \u0647\u0641\u062A \u0633\u0627\u0639\u062A \u0628\u0647 \u067E\u0627\u06CC\u0627\u0646 \u0631\u0633\u06CC\u062F.\n\uD83D\uDD39\u062F\u0631 \u0627\u06CC\u0646 \u062D\u0631\u06CC\u0642 \u06F2 \u0633\u0648\u0644\u0647 \u0634\u0631\u06A9\u062A \u062A\u0648\u0644\u06CC\u062F \u067E\u0644\u0627\u0633\u062A\u06CC\u06A9 \u062F\u0631 \u0634\u0647\u0631\u06A9 \u0635\u0646\u0639\u062A\u06CC \u0634\u0648\u0634 \u062F\u0686\u0627\u0631 \u0622\u0633\u06CC\u0628 \u062C\u062F\u06CC \u0634\u062F \u06A9\u0647 \u0645\u062C\u0627\u0648\u0631\u062A \u0627\u06CC\u0646 \u062D\u0631\u06CC\u0642 \u0628\u0627 \u0686\u0647\u0627\u0631 \u0627\u0646\u0628\u0627\u0631 \u062F\u06CC\u06AF\u0631 \u0646\u06AF\u0647\u062F\u0627\u0631\u06CC \u0645\u0648\u0627\u062F \u067E\u0644\u0627\u0633\u062A\u06CC\u06A9\u06CC \u0648 \u0634\u0631\u06A9\u062A\u200C\u0647\u0627\u06CC \u0645\u062C\u0627\u0648\u0631\u060C \u0646\u06AF\u0631\u0627\u0646\u06CC\u200C\u0647\u0627\u06CC \u062C\u062F\u06CC \u0628\u0631\u0627\u06CC \u0633\u0631\u0627\u06CC\u062A \u0648 \u06AF\u0633\u062A\u0631\u0634 \u0622\u062A\u0634 \u0631\u0627 \u0627\u06CC\u062C\u0627\u062F \u06A9\u0631\u062F./\u0627\u06CC\u0631\u0646\u0627\n\n#\u0627\u062E\u0628\u0627\u0631_\u062E\u0648\u0632\u0633\u062A\u0627\u0646 \u062F\u0631 \u0641\u0636\u0627\u06CC \u0645\u062C\u0627\u0632\u06CC \uD83D\uDC47\n@akhbar_Khozestan",
+      "path": ""
+    },
+    {
+      "size": 63632,
+      "timeDelay": 934.64400005340576,
+      "timestamp": 1688186419.977,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836799747573267762_120.jpg"
+    },
+    {
+      "size": 71035,
+      "timeDelay": 934.64800000190735,
+      "timestamp": 1688186419.9809999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837020023560977955_120.jpg"
+    },
+    {
+      "size": 4036421,
+      "timeDelay": 1046.4809999465942,
+      "timestamp": 1688186531.8139999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5837020023104737079.mp4"
+    },
+    {
+      "size": 4799231,
+      "timeDelay": 1574.047000169754,
+      "timestamp": 1688187059.3800001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5836776064667357911.mp4"
+    },
+    {
+      "size": 3848206,
+      "timeDelay": 1683.9809999465942,
+      "timestamp": 1688187169.3139999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5834465483931259322.mp4"
+    },
+    {
+      "size": 359,
+      "timeDelay": 2070.6110000610352,
+      "timestamp": 1688187523,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F#\u0686\u0646\u062F_\u062E\u0628\u0631_\u06A9\u0648\u062A\u0627\u0647 \n\n\uD83D\uDD39\u062F\u0628\u06CC\u0631 \u0633\u062A\u0627\u062F \u062D\u0642\u0648\u0642 \u0628\u0634\u0631: \u062F\u0627\u062F\u06AF\u0627\u0647 \u067E\u0631\u0648\u0646\u062F\u0647 \u062A\u0631\u0648\u0631 \u0633\u0631\u062F\u0627\u0631 \u0633\u0644\u06CC\u0645\u0627\u0646\u06CC \u0628\u0647 \u0632\u0648\u062F\u06CC \u0622\u063A\u0627\u0632 \u0645\u06CC\u200C\u0634\u0648\u062F.\n\n\uD83D\uDD39\u0639\u0631\u0628\u0633\u062A\u0627\u0646 \u0628\u0647 \u0631\u0698\u06CC\u0645 \u0635\u0647\u06CC\u0648\u0646\u06CC\u0633\u062A\u06CC \u0627\u062C\u0627\u0632\u0647 \u062D\u0636\u0648\u0631 \u062F\u0631 \u0646\u0634\u0633\u062A\u200C \u06CC\u0648\u0646\u0633\u06A9\u0648 \u0631\u0627 \u0646\u062F\u0627\u062F.\n\n\uD83D\uDD39\u0622\u0645\u0631\u06CC\u06A9\u0627 \u0628\u0647 \u06CC\u0648\u0646\u0633\u06A9\u0648 \u0628\u0627\u0632\u06AF\u0634\u062A.\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 5003489,
+      "timeDelay": 2347.7860000133514,
+      "timestamp": 1688187833.119,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\video_2023-07-01_00-44-24.mp4"
+    },
+    {
+      "size": 456,
+      "timeDelay": 2814.9900000095367,
+      "timestamp": 1688188282,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u0646\u0645\u0631\u0627\u062A \u0627\u0645\u062A\u062D\u0627\u0646 \u0646\u0647\u0627\u06CC\u06CC \u0627\u0645\u0631\u0648\u0632 \u0627\u0639\u0644\u0627\u0645 \u0645\u06CC\u200C\u0634\u0648\u062F\u061F\n\n\u0631\u0626\u06CC\u0633 \u0627\u062F\u0627\u0631\u0647 \u0622\u0632\u0645\u0648\u0646\u200C\u0647\u0627\u06CC \u0645\u0631\u06A9\u0632 \u0627\u0631\u0632\u0634\u06CC\u0627\u0628\u06CC \u0648 \u062A\u0636\u0645\u06CC\u0646 \u06A9\u06CC\u0641\u06CC\u062A \u0646\u0638\u0627\u0645 \u0622\u0645\u0648\u0632\u0634 \u0648 \u067E\u0631\u0648\u0631\u0634:\n\uD83D\uDD39\u0627\u0645\u0633\u0627\u0644 \u0628\u0631\u06AF\u0647\u200C\u0647\u0627\u06CC \u0627\u0645\u062A\u062D\u0627\u0646\u06CC \u0628\u0647 \u0631\u0648\u0634 \u0627\u0644\u06A9\u062A\u0631\u0648\u0646\u06CC\u06A9\u06CC \u062A\u0635\u062D\u06CC\u062D \u0634\u062F\u0646\u062F.\n\uD83D\uDD39\u0647\u0645\u06CC\u0646 \u0631\u0648\u0632\u0647\u0627 \u0628\u0627\u06CC\u062F \u0634\u0627\u0647\u062F \u0627\u0639\u0644\u0627\u0645 \u0646\u0645\u0631\u0627\u062A \u0627\u0645\u062A\u062D\u0627\u0646\u0627\u062A \u0646\u0647\u0627\u06CC\u06CC \u062F\u0631 \u0633\u0631\u0627\u0633\u0631 \u06A9\u0634\u0648\u0631 \u0628\u0627\u0634\u06CC\u0645.\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 37558,
+      "timeDelay": 3036.2139999866486,
+      "timestamp": 1688188521.5469999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834453205076000244_121.jpg"
+    },
+    {
+      "size": 5287412,
+      "timeDelay": 3701.3070001602173,
+      "timestamp": 1688189186.6400001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\video_2023-06-30_16-33-07.mp4"
+    },
+    {
+      "size": 159,
+      "timeDelay": 4363.4470000267029,
+      "timestamp": 1688189821,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0645\u0633\u0627\u0641\u0631\u062A \u062C\u0627\u062F\u0647\u200C\u0627\u06CC \u0628\u0627 \u062E\u0627\u0646\u0648\u0627\u062F\u0647\u200C\u06CC \u0627\u06CC\u0631\u0627\u0646\u06CC\n\n\u06F1-\u062F\u0639\u0648\u0627 \u062F\u0631 \u0637\u0648\u0644 \u0645\u0633\u06CC\u0631 \n\u06F2-\u0642\u0647\u0631 \u062F\u0631 \u0637\u0648\u0644 \u0645\u0633\u0627\u0641\u0631\u062A\n\nJoin \u2192 @Gilin_Gilin",
+      "path": ""
+    },
+    {
+      "size": 100780,
+      "timeDelay": 4529.4340000152588,
+      "timestamp": 1688190014.767,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837020023560977993_120.jpg"
+    },
+    {
+      "size": 793196,
+      "timeDelay": 4726.2439999580383,
+      "timestamp": 1688190211.5769999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5834547947303342047.mp4"
+    },
+    {
+      "size": 1189607,
+      "timeDelay": 4726.2940001487732,
+      "timestamp": 1688190211.6270001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5834547947303342048.mp4"
+    },
+    {
+      "size": 98557,
+      "timeDelay": 4891.8310000896454,
+      "timestamp": 1688190377.164,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837020023560977995_121.jpg"
+    },
+    {
+      "size": 182602,
+      "timeDelay": 5018.7400000095367,
+      "timestamp": 1688190504.073,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\e-oZ6RpsCck0ML7F.mp4"
+    },
+    {
+      "size": 128189,
+      "timeDelay": 5249.8470001220703,
+      "timestamp": 1688190735.1800001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836696363415485716_121.jpg"
+    },
+    {
+      "size": 684941,
+      "timeDelay": 5556.3430001735687,
+      "timestamp": 1688191041.6760001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\XKSUKMYliDZ0EjSb.mp4"
+    },
+    {
+      "size": 418,
+      "timeDelay": 5666.4060001373291,
+      "timestamp": 1688191127,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0631\u06A9\u0648\u0631\u062F\u0632\u062F\u0646 \u0645\u0635\u0631\u0641 \u0644\u062D\u0638\u0647\u200C\u0627\u06CC \u0622\u0628 \u062F\u0631 \u062A\u0647\u0631\u0627\u0646\n\n\uD83D\uDD39\u0645\u0635\u0631\u0641 \u0644\u062D\u0638\u0647\u200C\u0627\u06CC \u0622\u0628 \u062A\u0647\u0631\u0627\u0646 \u062F\u0631 \u0631\u0648\u0632\u0647\u0627\u06CC \u0627\u062E\u06CC\u0631 \u0628\u0627\u0632 \u0647\u0645 \u0631\u06A9\u0648\u0631\u062F \u0632\u062F \u0648 \u0639\u062F\u062F \u0628\u06CC\u200C\u0633\u0627\u0628\u0642\u06C0 \u06F5\u06F5 \u0647\u0632\u0627\u0631 \u0644\u06CC\u062A\u0631 \u0628\u0631 \u062B\u0627\u0646\u06CC\u0647 \u0631\u0627 \u0628\u0647 \u062B\u0628\u062A \u0631\u0633\u0627\u0646\u062F.\n\n\uD83D\uDD38\u062F\u0631 \u0633\u0627\u0644\u200C\u0647\u0627\u06CC \u06AF\u0630\u0634\u062A\u0647 \u0628\u06CC\u0634\u062A\u0631\u06CC\u0646 \u0645\u0642\u062F\u0627\u0631 \u0645\u0635\u0631\u0641 \u0644\u062D\u0638\u0647\u200C\u0627\u06CC \u0628\u0647 \u06F5\u06F2 \u0647\u0632\u0627\u0631 \u0644\u06CC\u062A\u0631 \u0628\u0631 \u062B\u0627\u0646\u06CC\u0647 \u0631\u0633\u06CC\u062F\u0647 \u0628\u0648\u062F.\n@Farsna",
+      "path": ""
+    },
+    {
+      "size": 187117,
+      "timeDelay": 5666.5139999389648,
+      "timestamp": 1688191151.8469999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834453205076000243_121.jpg"
+    },
+    {
+      "size": 837546,
+      "timeDelay": 6143.1820001602173,
+      "timestamp": 1688191628.5150001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\VZRIV TG 2.mp4-Cover_480.mp4"
+    },
+    {
+      "size": 1171176,
+      "timeDelay": 6356.1630001068115,
+      "timestamp": 1688191841.4960001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\319464439_790350346152630_8095178388696789979_n.mp4"
+    },
+    {
+      "size": 128577,
+      "timeDelay": 6522.0160000324249,
+      "timestamp": 1688192007.349,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598011_121.jpg"
+    },
+    {
+      "size": 120316,
+      "timeDelay": 6687.9119999408722,
+      "timestamp": 1688192173.2449999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834626837718875573_121.jpg"
+    },
+    {
+      "size": 6125052,
+      "timeDelay": 6910.3760001659393,
+      "timestamp": 1688192395.7090001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\watermark_vid754.mp4"
+    },
+    {
+      "size": 136366,
+      "timeDelay": 6939.289999961853,
+      "timestamp": 1688192424.622,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598012_121.jpg"
+    },
+    {
+      "size": 150816,
+      "timeDelay": 6999.4060001373291,
+      "timestamp": 1688192484.7390001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834453205076000247_121.jpg"
+    },
+    {
+      "size": 893,
+      "timeDelay": 7271.2880001068115,
+      "timestamp": 1688192745,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u06F3\u06F1 \u0645\u0631\u062F\u0627\u062F\u0645\u0627\u0647 \u0622\u062E\u0631\u06CC\u0646 \u0641\u0631\u0635\u062A \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u062F\u0627\u0646\u0634\u200C\u0622\u0645\u0648\u0632\u0627\u0646 \n\n\u0648\u0632\u0627\u0631\u062A \u0622\u0645\u0648\u0632\u0634 \u0648 \u067E\u0631\u0648\u0631\u0634:\n\uD83D\uDD39\u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u062F\u0627\u0646\u0634\u200C\u0622\u0645\u0648\u0632\u0627\u0646 \u067E\u0627\u06CC\u0647 \u062F\u0647\u0645 \u067E\u0633 \u0627\u0632 \u0647\u062F\u0627\u06CC\u062A \u062A\u062D\u0635\u06CC\u0644\u06CC \u0627\u0646\u062C\u0627\u0645 \u062E\u0648\u0627\u0647\u062F \u0634\u062F  \u0648 \u0647\u0645\u200C\u0627\u06A9\u0646\u0648\u0646 \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u067E\u0627\u06CC\u0647 \u0627\u0648\u0644 \u062F\u0628\u0633\u062A\u0627\u0646 \u0648 \u0647\u0641\u062A\u0645 \u0628\u0647 \u0635\u0648\u0631\u062A \u0627\u0644\u06A9\u062A\u0631\u0648\u0646\u06CC\u06A9\u06CC \u0648 \u062D\u0636\u0648\u0631\u06CC \u062F\u0631 \u062D\u0627\u0644 \u0627\u0646\u062C\u0627\u0645 \u0627\u0633\u062A.\n\uD83D\uDD39\u0641\u0631\u0635\u062A \u062E\u0627\u0646\u0648\u0627\u062F\u0647\u200C\u0647\u0627 \u0628\u0631\u0627\u06CC \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u0645\u062F\u0627\u0631\u0633 \u062A\u0627 \u06F3\u06F1 \u0645\u0631\u062F\u0627\u062F \u0627\u0633\u062A \u0648 \u0647\u062F\u0641 \u0627\u0632 \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u0627\u0644\u06A9\u062A\u0631\u0648\u0646\u06CC\u06A9 \u062D\u0630\u0641 \u062D\u0636\u0648\u0631 \u0627\u0641\u0631\u0627\u062F \u0628\u0631\u0627\u06CC \u0627\u0646\u062C\u0627\u0645 \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u0627\u0633\u062A.\n\uD83D\uDD39\u0637\u0628\u0642 \u062F\u0633\u062A\u0648\u0631\u0627\u0644\u0639\u0645\u0644 \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u06A9\u0647 \u0627\u0632 \u0633\u0648\u06CC \u0648\u0632\u0627\u0631\u062A \u0622\u0645\u0648\u0632\u0634 \u0648 \u067E\u0631\u0648\u0631\u0634 \u0627\u0628\u0644\u0627\u063A \u0634\u062F\u0647 \u0627\u0633\u062A\u060C \u0627\u0645\u0633\u0627\u0644 \u0627\u0645\u06A9\u0627\u0646 \u062B\u0628\u062A\u200C\u0646\u0627\u0645 \u062F\u0631 \u0645\u062F\u0627\u0631\u0633 \u062E\u0627\u0631\u062C \u0627\u0632 \u0645\u062D\u062F\u0648\u062F\u0647 \u0632\u0646\u062F\u06AF\u06CC \u0641\u0631\u0627\u0647\u0645 \u0634\u062F\u0647 \u0627\u0633\u062A. \n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 128765,
+      "timeDelay": 7437.3120000362396,
+      "timestamp": 1688192922.645,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598015_120.jpg"
+    },
+    {
+      "size": 122784,
+      "timeDelay": 7437.3140001296997,
+      "timestamp": 1688192922.6470001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598014_120.jpg"
+    },
+    {
+      "size": 80056,
+      "timeDelay": 7437.3289999961853,
+      "timestamp": 1688192922.6619999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598013_121.jpg"
+    },
+    {
+      "size": 73575,
+      "timeDelay": 7548.2150001525879,
+      "timestamp": 1688193033.5480001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5958415929857653578_121.jpg"
+    },
+    {
+      "size": 3123121,
+      "timeDelay": 8071.7550001144409,
+      "timestamp": 1688193557.0880001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\1_(1).mp4"
+    },
+    {
+      "size": 5693392,
+      "timeDelay": 8238.547000169754,
+      "timestamp": 1688193723.8800001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5805302445538022731.mp4"
+    },
+    {
+      "size": 7965503,
+      "timeDelay": 8379.2799999713898,
+      "timestamp": 1688193864.6129999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5836799747117028032.mp4"
+    },
+    {
+      "size": 60044,
+      "timeDelay": 8654.2009999752045,
+      "timestamp": 1688194139.5339999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598017_120.jpg"
+    },
+    {
+      "size": 2,
+      "timeDelay": 8717.5329999923706,
+      "timestamp": 1688194197,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0648",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8717.5329999923706,
+      "timestamp": 1688194198,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8717.5329999923706,
+      "timestamp": 1688194199,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8717.5340001583099,
+      "timestamp": 1688194200,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8717.5340001583099,
+      "timestamp": 1688194200,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 2,
+      "timeDelay": 8734.9930000305176,
+      "timestamp": 1688194203,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "..",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8734.9930000305176,
+      "timestamp": 1688194204,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8734.9930000305176,
+      "timestamp": 1688194204,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8734.9939999580383,
+      "timestamp": 1688194205,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8734.9939999580383,
+      "timestamp": 1688194206,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 1,
+      "timeDelay": 8734.9939999580383,
+      "timestamp": 1688194206,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": ".",
+      "path": ""
+    },
+    {
+      "size": 452,
+      "timeDelay": 8734.9950001239777,
+      "timestamp": 1688194203,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u0642\u06CC\u0645\u062A \u062E\u0648\u062F\u0631\u0648 \u062A\u0627 \u067E\u0627\u06CC\u0627\u0646 \u0633\u0627\u0644 \u0627\u0641\u0632\u0627\u06CC\u0634 \u0646\u062E\u0648\u0627\u0647\u062F \u062F\u0627\u0634\u062A\n\n\u0631\u0626\u06CC\u0633 \u0627\u062A\u062D\u0627\u062F\u06CC\u0647 \u0646\u0645\u0627\u06CC\u0634\u06AF\u0627\u0647\u200C\u062F\u0627\u0631\u0627\u0646 \u062E\u0648\u062F\u0631\u0648 \u0645\u0634\u0647\u062F:\n\uD83D\uDD39\u0628\u0627 \u0648\u0627\u0631\u062F\u0627\u062A \u062E\u0648\u062F\u0631\u0648 \u06F1\u06F0\u06F0 \u062F\u0631\u0635\u062F \u06A9\u0627\u0647\u0634 \u0642\u06CC\u0645\u062A \u062F\u0627\u0631\u06CC\u0645 \u0648 \u062A\u0627 \u067E\u0627\u06CC\u0627\u0646 \u0633\u0627\u0644 \u0642\u06CC\u0645\u062A \u062E\u0648\u062F\u0631\u0648 \u0627\u0641\u0632\u0627\u06CC\u0634 \u0646\u062E\u0648\u0627\u0647\u062F \u062F\u0627\u0634\u062A.\n\uD83D\uDD39\u0627\u0632 \u0627\u0628\u062A\u062F\u0627\u06CC \u0633\u0627\u0644 \u062E\u0631\u06CC\u062F \u0648 \u0641\u0631\u0648\u0634 \u062E\u0648\u062F\u0631\u0648 \u06F2\u06F5 \u062A\u0627 \u06F3\u06F0 \u062F\u0631\u0635\u062F \u06A9\u0627\u0647\u0634 \u062F\u0627\u0634\u062A\u0647 \u0627\u0633\u062A.\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 176959,
+      "timeDelay": 8986.1480000019073,
+      "timestamp": 1688194471.4809999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836798978774121476_121.jpg"
+    },
+    {
+      "size": 69177,
+      "timeDelay": 9289.0030000209808,
+      "timestamp": 1688194774.336,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598020_120.jpg"
+    },
+    {
+      "size": 8687455,
+      "timeDelay": 9345.8819999694824,
+      "timestamp": 1688194831.2149999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5837020023104737089.mp4"
+    },
+    {
+      "size": 496,
+      "timeDelay": 9548.9430000782013,
+      "timestamp": 1688195017,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u06A9\u0627\u0631\u062A \u0648\u0631\u0648\u062F \u0628\u0647 \u062C\u0644\u0633\u0647 \u0646\u0648\u0628\u062A \u062F\u0648\u0645 \u0622\u0632\u0645\u0648\u0646 \u0633\u0631\u0627\u0633\u0631\u06CC \u0641\u0631\u062F\u0627 \u0645\u0646\u062A\u0634\u0631 \u0645\u06CC \u0634\u0648\u062F\n\n\u0632\u0645\u0627\u0646 \u0628\u0631\u06AF\u0632\u0627\u0631\u06CC \u06A9\u0646\u06A9\u0648\u0631 \u06F1\u06F4\u06F0\u06F2;\n\uD83D\uDD39\u0631\u0634\u062A\u0647 \u0631\u06CC\u0627\u0636\u06CC \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u06F1\u06F4 \u062A\u06CC\u0631 \u06F8 \u0635\u0628\u062D\n\uD83D\uDD39\u0631\u0634\u062A\u0647 \u0627\u0646\u0633\u0627\u0646\u06CC \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u06F1\u06F4 \u062A\u06CC\u0631 \u06F8 \u0635\u0628\u062D\n\uD83D\uDD39\u0631\u0634\u062A\u0647 \u0647\u0646\u0631 \u0686\u0647\u0627\u0631\u0634\u0646\u0628\u0647 \u06F1\u06F4 \u062A\u06CC\u0631 \u06F1\u06F4:\u06F3\u06F0 \u0639\u0635\u0631\n\uD83D\uDD39\u0631\u0634\u062A\u0647 \u062A\u062C\u0631\u0628\u06CC \u067E\u0646\u062C\u0634\u0646\u0628\u0647 \u06F1\u06F5 \u062A\u06CC\u0631 \u06F8 \u0635\u0628\u062D\n\uD83D\uDD39\u0631\u0634\u062A\u0647 \u0632\u0628\u0627\u0646 \u067E\u0646\u062C\u0634\u0646\u0628\u0647 \u06F1\u06F5 \u062A\u06CC\u0631 \u06F1\u06F4:\u06F3\u06F0 \u0639\u0635\u0631\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 51919,
+      "timeDelay": 9642.4980001449585,
+      "timestamp": 1688195127.8310001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5834752830584504598_120.jpg"
+    },
+    {
+      "size": 1633369,
+      "timeDelay": 9702.904000043869,
+      "timestamp": 1688195188.237,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\video_2023-07-01_10-00-19.mp4"
+    },
+    {
+      "size": 811,
+      "timeDelay": 9885.9800000190735,
+      "timestamp": 1688195341,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDD3B\u062E\u0628\u0631\u0647\u0627\u06CC \u0645\u062A\u0646\u0648\u0639 \u0631\u0627 \u0647\u0631 \u0631\u0648\u0632 \u062F\u0631 \u062E\u0628\u0631\u0641\u0648\u0631\u06CC \u062F\u0646\u0628\u0627\u0644 \u06A9\u0646\u06CC\u062F\uD83D\uDD3B\n\n\uD83D\uDD39\u062F\u0644\u0627\u0631 \u0627\u06CC\u0646 \u0647\u0641\u062A\u0647 \u0635\u0639\u0648\u062F\u06CC \u0645\u06CC\u200C\u0634\u0648\u062F \u06CC\u0627 \u0646\u0632\u0648\u0644\u06CC\u061F\uD83D\uDC47\nkhabarfoori.com/fa/tiny/news-3013551\n\n\uD83D\uDD39\u0686\u0647\u200C\u06A9\u0633\u0627\u0646\u06CC \u0628\u0627 \u0642\u0645\u0647 \u0628\u0647 \u06A9\u0646\u0633\u0631\u062A \u06AF\u0631\u0634\u0627 \u0631\u0636\u0627\u06CC\u06CC \u062D\u0645\u0644\u0647 \u06A9\u0631\u062F\u0646\u062F\u061F\uD83D\uDC47\nkhabarfoori.com/fa/tiny/news-3013561\n\n\uD83D\uDD39\u0645\u0627\u062C\u0631\u0627\u06CC \u062F\u0644\u0647\u0631\u0647\u200C\u0622\u0648\u0631 \u06AF\u0631\u0648\u06AF\u0627\u0646\u200C\u06AF\u06CC\u0631\u06CC \u0645\u0627\u062F\u0631 \u0648 \u06F3\u062F\u062E\u062A\u0631\uD83D\uDC47\nkhabarfoori.com/fa/tiny/news-3013382\n\n\uD83D\uDD39\u0641\u0627\u0644 \u0627\u0645\u0631\u0648\u0632 \u0631\u0627 \u0627\u0632 \u06CC\u0627\u062F \u0646\u0628\u0631\u06CC\u062F\uD83D\uDC47\nkhabarfoori.com/fa/tiny/news-3013546\n\n\uD83D\uDD39\u0634\u0628\u0647\u0627 \u0627\u06CC\u0646 \u0645\u0648\u0627\u062F \u063A\u0630\u0627\u06CC\u06CC \u0631\u0627 \u0645\u0635\u0631\u0641 \u06A9\u0646\u06CC\u062F\u060C \u0686\u0631\u0628\u06CC \u0634\u06A9\u0645\u200C\u062A\u0627\u0646 \u0622\u0628 \u0645\u06CC\u200C\u0634\u0648\u062F\uD83D\uDC47\nkhabarfoori.com/fa/tiny/news-3013291\n\n\u062E\u0628\u0631\u0647\u0627\u06CC \u0628\u06CC\u0634\u062A\u0631 \u0631\u0627 \u0644\u062D\u0638\u0647 \u0628\u0647 \u0644\u062D\u0638\u0647 \u0627\u06CC\u0646\u062C\u0627 \u06A9\u0644\u06CC\u06A9 \u06A9\u0646\u06CC\u062F\uD83D\uDD3B\nwww.khabarfoori.com",
+      "path": ""
+    },
+    {
+      "size": 95748,
+      "timeDelay": 10065.042000055313,
+      "timestamp": 1688195550.375,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836834811686272793_121.jpg"
+    },
+    {
+      "size": 140221,
+      "timeDelay": 10285.976999998093,
+      "timestamp": 1688195771.3099999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837020023560978020_121.jpg"
+    },
+    {
+      "size": 3015461,
+      "timeDelay": 10593.161999940872,
+      "timestamp": 1688196078.4949999,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\5836717283744943553.mp4"
+    },
+    {
+      "size": 659,
+      "timeDelay": 10784.026999950409,
+      "timestamp": 1688196242,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F#\u0686\u0646\u062F_\u062E\u0628\u0631_\u06A9\u0648\u062A\u0627\u0647 \n\n\uD83D\uDD39\u0645\u0647\u0644\u062A \u0645\u062C\u062F\u062F \u0627\u0646\u062A\u062E\u0627\u0628 \u0631\u0634\u062A\u0647\u200C\u0647\u0627\u06CC \u062A\u062D\u0635\u06CC\u0644\u06CC \u0628\u0631\u0627\u06CC \u062F\u0627\u0648\u0637\u0644\u0628\u0627\u0646 \u06A9\u0627\u0631\u0634\u0646\u0627\u0633\u06CC\u200C\u0627\u0631\u0634\u062F \u0627\u0632 \u0627\u0645\u0631\u0648\u0632 \u0622\u063A\u0627\u0632 \u0634\u062F \u0648 \u062A\u0627 \u0633\u0627\u0639\u062A \u06F2\u06F4 \u0631\u0648\u0632 \u06CC\u06A9\u0634\u0646\u0628\u0647 \u06F1\u06F1 \u062A\u06CC\u0631 \u0627\u062F\u0627\u0645\u0647 \u062F\u0627\u0631\u062F.\n\n\uD83D\uDD39\u0632\u0644\u0632\u0644\u0647\u200C\u0627\u06CC \u0628\u0647 \u0628\u0632\u0631\u06AF\u06CC \u06F4.\u06F4 \u0631\u06CC\u0634\u062A\u0631\u060C \u062D\u0648\u0627\u0644\u06CC \u0646\u0635\u0631\u062A \u0622\u0628\u0627\u062F\u060C \u0633\u06CC\u0633\u062A\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062A\u0627\u0646 \u0631\u0627 \u062F\u0631 \u0639\u0645\u0642 \u06F7 \u06A9\u06CC\u0644\u0648\u0645\u062A\u0631\u06CC \u0632\u0645\u06CC\u0646\u060C \u0628\u0647 \u0644\u0631\u0632\u0647 \u062F\u0631\u0622\u0648\u0631\u062F\u200C.\n\n\uD83D\uDD39\u0622\u0642\u0627\u0645\u06CC\u0631\u06CC\u060C \u0639\u0636\u0648 \u0634\u0648\u0631\u0627\u06CC \u0634\u0647\u0631 \u062A\u0647\u0631\u0627\u0646: \u0645\u062A\u0631\u0648\u0628\u0627\u0633\u200C\u0647\u0627 \u0628\u0647 \u062A\u0647\u0631\u0627\u0646 \u0645\u06CC\u200C\u200E\u0622\u06CC\u0646\u062F.\n\n\uD83D\uDD39\u062A\u0648\u0644\u06CC\u062F \u063A\u0644\u0627\u062A \u06A9\u0634\u0648\u0631 \u06F2\u06F2 \u062F\u0631\u0635\u062F \u0631\u0634\u062F \u06A9\u0631\u062F.\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 791,
+      "timeDelay": 11060.355000019073,
+      "timestamp": 1688196514,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u062A\u0648\u0627\u0641\u0642 \u0641\u062F\u0631\u0627\u0633\u06CC\u0648\u0646 \u0641\u0648\u062A\u0628\u0627\u0644 \u0628\u0627 \u06CC\u06A9\u06CC \u0627\u0632 \u0634\u0631\u06A9\u062A\u200C\u0647\u0627\u06CC VAR \n\n\u00AB\u062E\u0633\u0631\u0648\u06CC\u00BB \u0639\u0636\u0648 \u06A9\u0645\u06CC\u062A\u0647 \u062F\u0627\u0648\u0631\u0627\u0646 \u0641\u062F\u0631\u0627\u0633\u06CC\u0648\u0646 \u0641\u0648\u062A\u0628\u0627\u0644:\n\uD83D\uDD39\u0646\u0628\u0627\u06CC\u062F \u0628\u0647 \u062E\u0627\u0637\u0631 \u062A\u062D\u0631\u06CC\u0645 \u0647\u0645\u0647 \u0686\u06CC\u0632 \u0631\u0627 \u0639\u0642\u0628 \u0628\u06CC\u0646\u062F\u0627\u0632\u06CC\u0645. \u062F\u0631 \u0641\u0648\u062A\u0628\u0627\u0644 \u062A\u062D\u0631\u06CC\u0645 \u0646\u06CC\u0633\u062A\u06CC\u0645 \u0648 \u062F\u0627\u0648\u0631\u0627\u0646 \u062F\u0631 \u062C\u0627\u0645 \u0645\u0644\u062A\u200C\u0647\u0627\u06CC \u0622\u0633\u06CC\u0627 \u06CC\u0627 \u062F\u06CC\u06AF\u0631 \u062A\u0648\u0631\u0646\u0645\u0646\u062A\u200C\u0647\u0627 \u0642\u0636\u0627\u0648\u062A \u0645\u06CC\u200C\u06A9\u0646\u0646\u062F.\n\uD83D\uDD39\u0641\u062F\u0631\u0627\u0633\u06CC\u0648\u0646 \u0641\u0648\u062A\u0628\u0627\u0644 \u0628\u0627 \u06CC\u06A9\u06CC \u0627\u0632 \u0634\u0631\u06A9\u062A\u200C\u0647\u0627 \u0628\u0631\u0627\u06CC \u062D\u0636\u0648\u0631 \u0633\u06CC\u0633\u062A\u0645 VAR \u0628\u0647 \u062A\u0648\u0627\u0641\u0642 \u0631\u0633\u06CC\u062F\u0647 \u0627\u0633\u062A. \u0628\u0647 \u062C\u0627\u06CC \u0627\u06CC\u0646\u06A9\u0647 \u0628\u0627 \u0645\u0647\u062F\u06CC \u062A\u0627\u062C \u0648 \u062E\u062F\u0627\u062F\u0627\u062F \u0627\u0641\u0634\u0627\u0631\u06CC\u0627\u0646 \u062C\u0644\u0633\u0647 \u0628\u06AF\u0630\u0627\u0631\u06CC\u062F \u0648 \u06A9\u0645\u06A9 \u06A9\u0646\u06CC\u062F\u060C \u0635\u062D\u0628\u062A \u0627\u0632 \u062A\u062D\u0631\u06CC\u0645 \u0645\u06CC\u200C\u06A9\u0646\u06CC\u062F\u061F \u0648\u0631\u0632\u0634 \u0631\u0627 \u0646\u0645\u06CC\u200C\u062A\u0648\u0627\u0646 \u062A\u062D\u0631\u06CC\u0645 \u06A9\u0631\u062F. /\u062A\u0633\u0646\u06CC\u0645\n @AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 82564,
+      "timeDelay": 11256.794000148773,
+      "timestamp": 1688196742.1259999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598029_120.jpg"
+    },
+    {
+      "size": 583,
+      "timeDelay": 11392.68499994278,
+      "timestamp": 1688196864,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F \u06F1\u06F2\u06F3 \u0627\u06CC\u0646\u0641\u0644\u0648\u0626\u0646\u0633\u0631 \u06F2.\u06F3 \u0647\u0632\u0627\u0631 \u0645\u06CC\u0644\u06CC\u0627\u0631\u062F \u062F\u0631\u0622\u0645\u062F \u062F\u0627\u0634\u062A\u0646\u062F\n\n\uD83D\uDD39\u0633\u062E\u0646\u06AF\u0648\u06CC \u0633\u0627\u0632\u0645\u0627\u0646 \u0627\u0645\u0648\u0631 \u0645\u0627\u0644\u06CC\u0627\u062A\u06CC \u0628\u0627 \u0628\u06CC\u0627\u0646 \u0627\u06CC\u0646\u06A9\u0647 \u0645\u062C\u0645\u0648\u0639 \u062A\u0631\u0627\u06A9\u0646\u0634\u200C\u0647\u0627\u06CC \u0648\u0627\u0631\u06CC\u0632\u06CC \u0628\u0631\u0627\u06CC \u06F1\u06F2\u06F3 \u0627\u06CC\u0646\u0641\u0644\u0648\u0626\u0646\u0633\u0631 \u062F\u0631 \u0633\u0627\u0644 \u06F1\u06F4\u06F0\u06F0 \u0628\u06CC\u0634 \u0627\u0632 \u06F2.\u06F3 \u0647\u0632\u0627\u0631 \u0645\u06CC\u0644\u06CC\u0627\u0631\u062F \u062A\u0648\u0645\u0627\u0646 \u0628\u0648\u062F\u0647\u200C \u0627\u0633\u062A\u060C \u06AF\u0641\u062A: \u0628\u0631\u0627\u06CC \u0627\u06CC\u0646 \u0627\u0641\u0631\u0627\u062F \u062D\u062F\u0648\u062F \u06F1\u06F7 \u0645\u06CC\u0644\u06CC\u0627\u0631\u062F \u062A\u0648\u0645\u0627\u0646 \u0645\u0627\u0644\u06CC\u0627\u062A \u062A\u0634\u062E\u06CC\u0635 \u062F\u0627\u062F\u0647 \u0634\u062F\u0647 \u06A9\u0647 \u06F2\u06F3 \u0646\u0641\u0631 \u0627\u0632 \u0627\u06CC\u0646\u0641\u0644\u0648\u0626\u0646\u0633\u0631\u0647\u0627 \u0627\u06CC\u0646 \u0645\u0627\u0644\u06CC\u0627\u062A \u0631\u0627 \u067E\u0630\u06CC\u0631\u0641\u062A\u0646\u062F./ \u0627\u06CC\u0644\u0646\u0627\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 183,
+      "timeDelay": 11422.712000131607,
+      "timestamp": 1688196881,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0632\u0645\u06CC\u0646\u200C\u0644\u0631\u0632\u06C0 \u06F4.\u06F4 \u0631\u06CC\u0634\u062A\u0631\u06CC \u062F\u0631 \u0639\u0645\u0642 \u06F7 \u06A9\u06CC\u0644\u0648\u0645\u062A\u0631\u06CC \u0632\u0645\u06CC\u0646\u060C \u062D\u0648\u0627\u0644\u06CC\u0650 \u0646\u0635\u0631\u062A\u200C\u0622\u0628\u0627\u062F\u060C \u0633\u06CC\u0633\u062A\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062A\u0627\u0646 \u0631\u0627 \u0644\u0631\u0632\u0627\u0646\u062F.\n@Farsna - Link",
+      "path": ""
+    },
+    {
+      "size": 358,
+      "timeDelay": 11643.990000009537,
+      "timestamp": 1688197120,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u0632\u0645\u06CC\u0646\u200C\u0644\u0631\u0632\u0647 \u06F4.\u06F4 \u0631\u06CC\u0634\u062A\u0631\u06CC \u0633\u06CC\u0633\u062A\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062A\u0627\u0646 \u0644\u0631\u0632\u0627\u0646\u062F\n\n\uD83D\uDD3B \u0633\u0627\u0639\u062A\u06CC \u0642\u0628\u0644 \u0632\u0645\u06CC\u0646\u200C\u0644\u0631\u0632\u0647\u200C\u0627\u06CC \u0628\u0647 \u0628\u0632\u0631\u06AF\u06CC \u06F4.\u06F4 \u0631\u06CC\u0634\u062A\u0631 \u062D\u0648\u0627\u0644\u06CC \u0646\u0635\u0631\u062A\u200C\u0622\u0628\u0627\u062F\u060C \u0633\u06CC\u0633\u062A\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062A\u0627\u0646 \u0631\u0627 \u062F\u0631 \u0639\u0645\u0642 \u06F7 \u06A9\u0644\u06CC\u0648\u0645\u062A\u0631\u06CC \u0632\u0645\u06CC\u0646\u060C \u062F\u0631 \u0633\u0627\u0639\u062A \u06F9:\u06F2\u06F7 \u0628\u0647 \u0644\u0631\u0632\u0647 \u062F\u0631\u0622\u0648\u0631\u062F\u200C.\n\nJoin \u2192 @Gilin_Gilin",
+      "path": ""
+    },
+    {
+      "size": 59951,
+      "timeDelay": 11716.282999992371,
+      "timestamp": 1688197201.6159999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598033_120.jpg"
+    },
+    {
+      "size": 123857,
+      "timeDelay": 11716.309000015259,
+      "timestamp": 1688197201.642,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598032_121.jpg"
+    },
+    {
+      "size": 1044185,
+      "timeDelay": 11716.467000007629,
+      "timestamp": 1688197201.8,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\01_(0).mp4"
+    },
+    {
+      "size": 33107,
+      "timeDelay": 11946.748000144958,
+      "timestamp": 1688197432.0810001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837004630398189117_120.jpg"
+    },
+    {
+      "size": 111791,
+      "timeDelay": 12278.94000005722,
+      "timestamp": 1688197764.273,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837040115417989145_121.jpg"
+    },
+    {
+      "size": 1044185,
+      "timeDelay": 12444.677000045776,
+      "timestamp": 1688197930.01,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\01_(0).mp4"
+    },
+    {
+      "size": 1044185,
+      "timeDelay": 12444.677000045776,
+      "timestamp": 1688197930.01,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\01_(0).mp4"
+    },
+    {
+      "size": 123879,
+      "timeDelay": 12444.68799996376,
+      "timestamp": 1688197930.0209999,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837146437333401556_121.jpg"
+    },
+    {
+      "size": 59933,
+      "timeDelay": 12444.709000110626,
+      "timestamp": 1688197930.0420001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5837146437333401557_120.jpg"
+    },
+    {
+      "size": 1044185,
+      "timeDelay": 12474.630000114441,
+      "timestamp": 1688197959.9630001,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\01_(0).mp4"
+    },
+    {
+      "size": 1044185,
+      "timeDelay": 12474.631000041962,
+      "timestamp": 1688197959.964,
+      "type": "video",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\videos\\01_(0).mp4"
+    },
+    {
+      "size": 133307,
+      "timeDelay": 13109.376000165939,
+      "timestamp": 1688198594.7090001,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598036_121.jpg"
+    },
+    {
+      "size": 418,
+      "timeDelay": 13275.295000076294,
+      "timestamp": 1688198734,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\uD83D\uDD3B \u200F\u0627\u0645\u0633\u0627\u0644 \u0628\u0631\u062E\u0644\u0627\u0641 \u06A9\u0644\u06CC\u0647 \u0627\u062F\u0648\u0627\u0631 \u062A\u0627\u0631\u06CC\u062E \u062D\u062C \u0642\u0631\u0627\u0631 \u0627\u0633\u062A \u062D\u062F\u0648\u062F \u06F9\u06F0 \u0647\u0632\u0627\u0631 \u06AF\u0648\u0634\u062A \u0642\u0631\u0628\u0627\u0646\u06CC \u062D\u0627\u062C\u06CC\u0627\u0646 \u0627\u06CC\u0631\u0627\u0646\u06CC \u067E\u0633 \u0627\u0632 \u067E\u0627\u06A9\u0633\u0627\u0632\u06CC \u0648 \u0634\u0633\u062A\u0634\u0648 \u0648 \u06CC\u062E \u0632\u062F\u0646 \u0628\u0647 \u0627\u06CC\u0631\u0627\u0646 \u0627\u0631\u0633\u0627\u0644 \u0634\u0648\u062F. \n\n\uD83D\uDD3B \u067E\u06CC\u0634 \u0627\u0632 \u0627\u06CC\u0646 \u06AF\u0648\u0634\u062A\u200C\u0647\u0627\u06CC \u0642\u0631\u0628\u0627\u0646\u06CC\u0627\u0646 \u0628\u0647 \u06A9\u0634\u0648\u0631\u0647\u0627\u06CC \u0641\u0642\u06CC\u0631 \u062C\u0647\u0627\u0646 \u0627\u0631\u0633\u0627\u0644 \u0645\u06CC\u200C\u200C\u0634\u062F./\u0627\u0639\u062A\u0645\u0627\u062F \u0622\u0646\u0644\u0627\u06CC\u0646\n\nJoin \u2192 @Gilin_Gilin",
+      "path": ""
+    },
+    {
+      "size": 526,
+      "timeDelay": 13441.296000003815,
+      "timestamp": 1688198911,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u0627\u062A\u062D\u0627\u062F\u06CC\u0647 \u0627\u0631\u0648\u067E\u0627 \u0628\u0627 \u06F4 \u0631\u0648\u0632 \u062A\u0623\u062E\u06CC\u0631 \u0627\u0647\u0627\u0646\u062A \u0628\u0647 \u0642\u0631\u0622\u0646 \u0631\u0627 \u0645\u062D\u06A9\u0648\u0645 \u06A9\u0631\u062F\n\n\uD83D\uDD39\u0627\u062A\u062D\u0627\u062F\u06CC\u0647 \u0627\u0631\u0648\u067E\u0627 \u0627\u0645\u0631\u0648\u0632 \u0628\u0647 \u062F\u0646\u0628\u0627\u0644 \u0648\u0627\u06A9\u0646\u0634 \u0648 \u0645\u062D\u06A9\u0648\u0645\u06CC\u062A \u06AF\u0633\u062A\u0631\u062F\u0647 \u0628\u0647 \u0642\u0631\u0622\u0646 \u0633\u0648\u0632\u06CC \u062F\u0631 \u0633\u0648\u0626\u062F \u06A9\u0647 \u0628\u0627 \u0645\u062C\u0648\u0631 \u0648 \u062D\u0645\u0627\u06CC\u062A \u062F\u0648\u0644\u062A \u0627\u06CC\u0646 \u06A9\u0634\u0648\u0631 \u062F\u0631 \u0631\u0648\u0632 \u0639\u06CC\u062F \u0642\u0631\u0628\u0627\u0646 \u0635\u0648\u0631\u062A \u06AF\u0631\u0641\u062A\u060C \u0628\u06CC\u0627\u0646\u06CC\u0647\u200C\u0627\u06CC \u0635\u0627\u062F\u0631 \u06A9\u0631\u062F \u0648 \u062F\u0631 \u0622\u0646 \u0636\u0645\u0646 \u0645\u062D\u06A9\u0648\u0645 \u06A9\u0631\u062F\u0646 \u0627\u06CC\u0646 \u0627\u0642\u062F\u0627\u0645\u060C \u0622\u0646 \u0631\u0627 \u00AB\u0632\u0634\u062A \u0648 \u062A\u062D\u0631\u06CC\u06A9\u200C\u06A9\u0646\u0646\u062F\u0647\u00BB \u062F\u0627\u0646\u0633\u062A.\n@AkhbareFori | Link",
+      "path": ""
+    },
+    {
+      "size": 101842,
+      "timeDelay": 14080.384000062943,
+      "timestamp": 1688199565.717,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836923683149561647_121.jpg"
+    },
+    {
+      "size": 69019,
+      "timeDelay": 14143.733000040054,
+      "timestamp": 1688199629.066,
+      "type": "photo",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "",
+      "path": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\tg_profiles\\db_Lycamobile\\photos\\5836776065123598038_120.jpg"
+    },
+    {
+      "size": 1098,
+      "timeDelay": 14272.170000076294,
+      "timestamp": 1688199747,
+      "type": "text",
+      "id": 0,
+      "isOutgoing": false,
+      "messageText": "\u2666\uFE0F\u0627\u0631\u0633\u0627\u0644 \u062F\u0648 \u0644\u0627\u06CC\u062D\u06C0 \u062C\u062F\u06CC\u062F \u0633\u0631\u0628\u0627\u0632\u06CC \u0628\u0647 \u0645\u062C\u0644\u0633 \n\n\uD83D\uDD39\u0633\u062E\u0646\u06AF\u0648\u06CC \u0648\u0632\u0627\u0631\u062A \u062F\u0641\u0627\u0639: \u0628\u0627 \u0647\u0645\u0627\u0647\u0646\u06AF\u06CC \u0633\u062A\u0627\u062F \u06A9\u0644 \u0646\u06CC\u0631\u0648\u0647\u0627\u06CC \u0645\u0633\u0644\u062D\u060C \u0644\u0627\u06CC\u062D\u0647 \u00AB\u062A\u0642\u0648\u06CC\u062A \u0645\u0647\u0627\u0631\u062A\u200C\u0622\u0645\u0648\u0632\u06CC \u0633\u0631\u0628\u0627\u0632\u0627\u0646 \u062F\u0631 \u062F\u0648\u0631\u0647 \u062E\u062F\u0645\u062A\u00BB \u0648 \u00AB\u0627\u0635\u0644\u0627\u062D \u0642\u0627\u0646\u0648\u0646 \u0646\u0638\u0627\u0645 \u0648\u0638\u06CC\u0641\u0647\u00BB \u06A9\u0647 \u062F\u0631 \u06A9\u0645\u06CC\u0633\u06CC\u0648\u0646 \u0627\u0635\u0644\u06CC \u062F\u0648\u0644\u062A \u062A\u0635\u0648\u06CC\u0628 \u0634\u062F\u0646\u062F\u060C \u06CC\u06A9 \u06CC\u0627 \u062F\u0648 \u0645\u0627\u0647 \u0622\u06CC\u0646\u062F\u0647 \u0628\u0647 \u0645\u062C\u0644\u0633 \u0627\u0631\u0633\u0627\u0644 \u0645\u06CC\u200C\u0634\u0648\u0646\u062F.\n\uD83D\uDD39\u062F\u0631 \u0644\u0627\u06CC\u062D\u06C0 \u0627\u0648\u0644 \u0627\u0645\u062A\u06CC\u0627\u0632\u0627\u062A\u06CC \u062F\u0631 \u062D\u0648\u0632\u0647 \u0622\u0645\u0648\u0632\u0634 \u0648 \u0645\u0647\u0627\u0631\u062A\u200C\u06CC\u0627\u0628\u06CC \u062F\u0631 \u062F\u0648\u0631\u0647 \u062E\u062F\u0645\u062A\u060C \u0647\u0645\u0686\u0646\u06CC\u0646 \u062D\u0645\u0627\u06CC\u062A\u200C\u0647\u0627 \u0648 \u062A\u0633\u0647\u06CC\u0644\u0627\u062A \u0648\u06CC\u0698\u0647\u200C \u0628\u0647\u200C\u0635\u0648\u0631\u062A \u0642\u0627\u0646\u0648\u0646\u0645\u0646\u062F \u0628\u0631\u0627\u06CC \u0627\u0634\u062A\u063A\u0627\u0644 \u0633\u0631\u0628\u0627\u0632\u0627\u0646 \u067E\u0633\u200C\u0627\u0632 \u062F\u0648\u0631\u0627\u0646 \u062E\u062F\u0645\u062A \u062E\u0648\u0627\u0647\u06CC\u0645 \u062F\u0627\u0634\u062A. \u0644\u0627\u06CC\u062D\u0647 \u062F\u06CC\u06AF\u0631 \u00AB\u0627\u0635\u0644\u0627\u062D \u0628\u0631\u062E\u06CC \u0627\u0632 \u0645\u0642\u0631\u0631\u0627\u062A \u062D\u0648\u0632\u0647 \u0645\u0639\u0627\u0641\u06CC\u062A\u200C\u0647\u0627 \u0648 \u0645\u0642\u0631\u0631\u0627\u062A \u0627\u0639\u0632\u0627\u0645 \u0628\u0647 \u062E\u062F\u0645\u062A\u00BB \u0627\u0633\u062A.\n \uD83D\uDD39\u0627\u06AF\u0631 \u0644\u0627\u06CC\u062D\u0647 \u067E\u06CC\u0634\u0646\u0647\u0627\u062F\u06CC \u062F\u0631 \u0645\u062C\u0644\u0633 \u062A\u0635\u0648\u06CC\u0628 \u0634\u0648\u062F\u060C \u067E\u06CC\u0634\u200C\u0628\u06CC\u0646\u06CC \u0645\u06CC\u200C\u0634\u0648\u062F \u062F\u0631 \u0633\u0627\u0644\u200C\u0647\u0627\u06CC \u0622\u06CC\u0646\u062F\u0647 \u0647\u06CC\u0686 \u0633\u0631\u0628\u0627\u0632\u06CC \u0641\u0627\u0642\u062F \u0634\u063A\u0644 \u0646\u0628\u0627\u0634\u062F.\n@AkhbareFori | Link",
+      "path": ""
+    }
+  ],
+  "RecordedGroups": [
+    "akhbarefori",
+    "linkyab",
+    "Gilin_Gilin",
+    "farsna",
+    "dasriam"
+  ],
+  "Start_TimeStamp": 1688185485.3329999,
+  "Stop_TimeStamp": 1688199890.8469999,
+  "Path": "messageTraces-2023-07-01-10-24-50"
+}

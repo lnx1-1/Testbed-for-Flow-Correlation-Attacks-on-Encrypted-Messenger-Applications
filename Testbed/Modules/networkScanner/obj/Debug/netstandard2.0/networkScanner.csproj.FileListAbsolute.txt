@@ -1,0 +1,10 @@
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\netstandard2.0\networkScanner.deps.json
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\netstandard2.0\networkScanner.dll
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\bin\Debug\netstandard2.0\networkScanner.pdb
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.csproj.AssemblyReference.cache
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.AssemblyInfoInputs.cache
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.AssemblyInfo.cs
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.csproj.CoreCompileInputs.cache
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.dll
+B:\Users\Linus\git\cryptCorr\Plugins\networkScanner\obj\Debug\netstandard2.0\networkScanner.pdb

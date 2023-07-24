@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultRunner", "ResultRunner.csproj", "{373342DC-8D2F-4BF2-AA00-E47C385DBBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCommons", "..\..\MainProject\IMSniff_Testbed_OpenTAP\ProjectCommons\ProjectCommons.csproj", "{84162111-ED99-4E4C-A872-010BC1D3424A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultAnalyser", "..\..\MainProject\IMSniff_Testbed_OpenTAP\ResultAnalyser\ResultAnalyser.csproj", "{D15CC5B2-5840-4760-AEC1-5673CD3E0438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detection_Impl", "..\..\attack algorithms\C# Implementation\Event-Based-Impl\Detection_Impl\Detection_Impl.csproj", "{5AF95084-6F74-4200-97CB-692AB22C0F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373342DC-8D2F-4BF2-AA00-E47C385DBBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373342DC-8D2F-4BF2-AA00-E47C385DBBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373342DC-8D2F-4BF2-AA00-E47C385DBBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373342DC-8D2F-4BF2-AA00-E47C385DBBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84162111-ED99-4E4C-A872-010BC1D3424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84162111-ED99-4E4C-A872-010BC1D3424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84162111-ED99-4E4C-A872-010BC1D3424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84162111-ED99-4E4C-A872-010BC1D3424A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15CC5B2-5840-4760-AEC1-5673CD3E0438}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D15CC5B2-5840-4760-AEC1-5673CD3E0438}.Debug|Any CPU.Build.0 = Debug|x64
+		{D15CC5B2-5840-4760-AEC1-5673CD3E0438}.Release|Any CPU.ActiveCfg = Release|x64
+		{D15CC5B2-5840-4760-AEC1-5673CD3E0438}.Release|Any CPU.Build.0 = Release|x64
+		{5AF95084-6F74-4200-97CB-692AB22C0F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF95084-6F74-4200-97CB-692AB22C0F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF95084-6F74-4200-97CB-692AB22C0F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF95084-6F74-4200-97CB-692AB22C0F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

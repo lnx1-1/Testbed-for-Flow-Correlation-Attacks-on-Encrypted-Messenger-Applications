@@ -1,0 +1,20 @@
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\bin\Debug\NLog.config
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.deps.json
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.dll
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.pdb
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.AssemblyReference.cache
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.CopyComplete
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.dll
+C:\Users\Linus\SyncedFolder\HAW_sync\S8 - Bachelor\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.pdb
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\bin\Debug\NLog.config
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.deps.json
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.dll
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\bin\Debug\AlgorithmAdapter.pdb
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.AssemblyReference.cache
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.csproj.CopyComplete
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.dll
+C:\Users\Linus\git\cryptCorr\CD_Content\Anhang\TestbedCode\Modules\AlgorithmAdapter\obj\x64\Debug\AlgorithmAdapter.pdb

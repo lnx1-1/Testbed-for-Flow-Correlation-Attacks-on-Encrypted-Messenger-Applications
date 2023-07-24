@@ -1,0 +1,10 @@
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\NLog.config
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\IMAppConnection.deps.json
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\IMAppConnection.dll
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\IMAppConnection.pdb
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.csproj.AssemblyReference.cache
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.csproj.CoreCompileInputs.cache
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.csproj.CopyComplete
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.dll
+B:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\IMAppConnection\obj\Debug\IMAppConnection.pdb

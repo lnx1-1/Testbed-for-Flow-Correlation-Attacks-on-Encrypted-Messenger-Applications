@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+    <PropertyGroup>
+        <TargetFrameworkIdentifier></TargetFrameworkIdentifier>
+        <TargetFrameworkVersion></TargetFrameworkVersion>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Configurations>Debug;Release;Debug x64</Configurations>
+        <Platforms>AnyCPU;x64</Platforms>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <OutputType>Library</OutputType>
+        <OpenTapPackageDefinitionPath>package.xml</OpenTapPackageDefinitionPath>
+        <CreateOpenTapPackage>false</CreateOpenTapPackage>
+    </PropertyGroup>
+
+    <ItemGroup Condition="'$(IsWindows)'=='True'">
+        <AdditionalOpenTapPackage Include="Developer's System CE" />
+    </ItemGroup>
+
+    <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+        <CreateOpenTapPackage>true</CreateOpenTapPackage>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug x64|x64' ">
+      <DebugSymbols Condition=" '$(DebugSymbols)' == '' ">true</DebugSymbols>
+      <Optimize Condition=" '$(Optimize)' == '' ">false</Optimize>
+      <DebugSymbols>true</DebugSymbols>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="OpenTAP" Version="9.21.0" />
+        <PackageReference Include="tdlib.native" Version="1.8.12" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Examples" />
+    </ItemGroup>
+
+    <ItemGroup>
+<!--      <ProjectReference Include="..\..\..\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\TelegramAPIPlugin\TelegramAPIPlugin.csproj" />-->
+      <ProjectReference Include="..\ProjectCommons\ProjectCommons.csproj" />
+    </ItemGroup>
+</Project>

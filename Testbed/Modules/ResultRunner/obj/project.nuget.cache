@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ovRu6itesvDde51xvXKP9aZ3LfPE/je3HlK3Lx7Jx4EhQ6o0X0YwWCqG6U4xUycI5wx+dTVae0SNdJbAsNKIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linus\\git\\cryptCorr\\Plugins\\ResultRunner\\ResultRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linus\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\nlog\\5.1.3\\nlog.5.1.3.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\opentap\\9.21.0\\opentap.9.21.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\packetdotnet\\1.4.6\\packetdotnet.1.4.6.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\scottplot\\4.1.64\\scottplot.4.1.64.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\sharppcap\\6.2.5\\sharppcap.6.2.5.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Linus\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

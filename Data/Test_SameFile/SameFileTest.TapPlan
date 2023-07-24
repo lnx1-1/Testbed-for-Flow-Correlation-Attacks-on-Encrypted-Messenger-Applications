@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="IMAppConnection.SetupMessageChannels" Id="5717093c-24f0-411f-9040-90b76dbc1e20">
+      <UseChannelNameFile>true</UseChannelNameFile>
+      <leaveAllOtherChannels>true</leaveAllOtherChannels>
+      <MessageChannels>
+        <String>IMTestGroup</String>
+      </MessageChannels>
+      <ChannelNameFilePath>..\..\TestData\TestGroupName.csv</ChannelNameFilePath>
+      <IMApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</IMApp>
+      <Name Metadata="Step Name">SetupMessageChannels</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.StartIMMessageLogging_Step" Id="39b58a95-1943-4c90-b856-9e55776a2db3">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+      <Name Metadata="Step Name">Start LoggingIM-App-Messages</Name>
+    </TestStep>
+    <TestStep type="packageSniffer.StartPacketCapture" Id="5d8b4fc3-389d-4ce8-b72e-4357dfe3b11a">
+      <_iface>br0</_iface>
+      <_CaptureFilter>net 91.105.192.0/23 or net 91.108.4.0/22 or net 91.108.8.0/22 or net 91.108.12.0/22 or net 91.108.16.0/22 or net 91.108.20.0/22 or net 91.108.56.0/22 or net 149.154.160.0/20 or net 185.76.151.0/24</_CaptureFilter>
+      <_RemoteSniffer type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_RemoteSniffer>
+      <Name Metadata="Step Name">Start PacketCapture</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.SendMessages_Step" Id="3639b9f5-d08f-4341-bdec-e091b6a32b5a">
+      <messageScriptJSONPath>Results\Test_SameFile\messageTraces-2023-06-14-12-26-00_modded.json</messageScriptJSONPath>
+      <ImApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</ImApp>
+      <MessageChannelName>IMTestGroup</MessageChannelName>
+      <Name Metadata="Step Name">MessageSender</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.SendMessages_Step" Id="f8076c02-314f-4d90-bf6f-23e654dfd314">
+      <messageScriptJSONPath>Results\Test_SameFile\messageTraces-2023-06-14-12-26-00_modded.json</messageScriptJSONPath>
+      <ImApp type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</ImApp>
+      <MessageChannelName>IMTestGroup</MessageChannelName>
+      <Name Metadata="Step Name">MessageSender (1)</Name>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Id="6f09aeff-6948-494d-918e-ff09b40bea5b">
+      <DelaySecs>10</DelaySecs>
+      <Name Metadata="Step Name">Delay</Name>
+    </TestStep>
+    <TestStep type="IMAppConnection.TestSteps.StopIMMessageLogging_Step" Id="71b0e222-02b0-4a7f-859d-537cf609d586">
+      <_Logger type="IMAppConnection.Instruments.TelegramClientConnector" Source="OpenTap.InstrumentSettings">TelegramApp: Lycamobile</_Logger>
+      <_outputToMessageTraceFile>false</_outputToMessageTraceFile>
+      <_outputToMessageScriptJSON>true</_outputToMessageScriptJSON>
+      <_outputFolderPath>Results\Test_SameFile</_outputFolderPath>
+      <_msgTraces />
+      <recordedGroups>
+        <PropertyName>IMAppConnection.SetupMessageChannels|MessageChannels</PropertyName>
+        <Step>5717093c-24f0-411f-9040-90b76dbc1e20</Step>
+      </recordedGroups>
+      <Name Metadata="Step Name">Stop LoggingIM-App-Messages</Name>
+    </TestStep>
+    <TestStep type="packageSniffer.StopPacketCapture" Id="0b02c6ee-c829-4727-8488-99fa0b1293c4">
+      <_RemoteSniffer type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_RemoteSniffer>
+      <Name Metadata="Step Name">Stop PacketCapture</Name>
+    </TestStep>
+    <TestStep type="packageSniffer.Teststeps.StorePacketCapture" Id="0805a47f-ebf0-4c24-9c5b-74e732ca73a1">
+      <_captureFolderPath>Results\Test_SameFile</_captureFolderPath>
+      <_overwriteExistingFile>false</_overwriteExistingFile>
+      <_captureFileName>capture-.pcap</_captureFileName>
+      <_captureDevice type="packageSniffer.RemoteSniffer.RemoteSnifferInstrument" Source="OpenTap.InstrumentSettings">Remote Sniffer</_captureDevice>
+      <Name Metadata="Step Name">Store PacketCapture</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

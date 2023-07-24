@@ -1,0 +1,11 @@
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.csproj.AssemblyReference.cache
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.csproj.CoreCompileInputs.cache
+C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\MessageInjectorProj.deps.json
+C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\MessageInjectorProj.dll
+C:\Users\Linus\git\cryptCorr\MainProject\IMSniff_Testbed_OpenTAP\bin\Debug\MessageInjectorProj.pdb
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.csproj.CopyComplete
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.dll
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\refint\MessageInjectorProj.dll
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\MessageInjectorProj.pdb
+C:\Users\Linus\git\cryptCorr\Plugins\TelegramAPI TDlib\TelegramAPIPlugin\MessageInjectorProj\obj\Debug\ref\MessageInjectorProj.dll

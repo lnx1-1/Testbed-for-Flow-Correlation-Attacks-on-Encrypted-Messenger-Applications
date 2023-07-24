@@ -1,0 +1,23 @@
+[
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\PC_Windows_Ethernet\\Raw_data\\capture-PC_Ether-.pcap",
+    "totalSize": 68128047,
+    "totalCount": 75061,
+    "avgSize": 907.6357495903331,
+    "captureDuration": 14309.084038972855
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\PC_Windows_Ethernet\\Raw_data\\capture-PC_Ether-1.pcap",
+    "totalSize": 60304539,
+    "totalCount": 68151,
+    "avgSize": 884.8665316723159,
+    "captureDuration": 14301.859646081924
+  },
+  {
+    "filePath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\bin\\Debug x64\\Results\\Sammlung\\PC_Windows_Ethernet\\Raw_data\\capture-PC_Ether-2.pcap",
+    "totalSize": 60285178,
+    "totalCount": 67626,
+    "avgSize": 891.4497086919232,
+    "captureDuration": 14302.044934034348
+  }
+]

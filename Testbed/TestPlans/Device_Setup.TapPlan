@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="packageSniffer.setupRemoteSniffer" Id="c9ffd0f2-4d48-4240-b9d4-6c32cad0c52b">
+      <scriptPath>C:\Users\Linus\git\cryptCorr\Scripts\setupRaspiSniffer.bash</scriptPath>
+      <_RemoteSniffer Source="OpenTap.InstrumentSettings">Remote Sniffer</_RemoteSniffer>
+      <Name Metadata="Step Name">Setup Remote Gateway and Sniffing Device</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

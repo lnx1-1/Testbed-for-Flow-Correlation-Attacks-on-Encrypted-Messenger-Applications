@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+    <PropertyGroup>
+        <TargetFrameworkIdentifier></TargetFrameworkIdentifier>
+        <TargetFrameworkVersion></TargetFrameworkVersion>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Configurations>Debug;Release;Debug x64</Configurations>
+        <Platforms>AnyCPU;x64</Platforms>
+    </PropertyGroup>
+    
+  <PropertyGroup>
+    <OpenTapPackageDefinitionPath>package.xml</OpenTapPackageDefinitionPath>
+    <CreateOpenTapPackage>false</CreateOpenTapPackage>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <CreateOpenTapPackage>true</CreateOpenTapPackage>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug x64|x64' ">
+    <DebugSymbols Condition=" '$(DebugSymbols)' == '' ">true</DebugSymbols>
+    <Optimize Condition=" '$(Optimize)' == '' ">false</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTAP" Version="9.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+<!--    <ProjectReference Include="..\..\..\attack algorithms\C# Implementation\Event-Based-Impl\Detection_Impl\Detection_Impl.csproj" />-->
+        <ProjectReference Include="..\MessageInjector\MessageInjector.csproj" />
+    <ProjectReference Include="..\TelegramAPI TDlib\TelegramAPIPlugin\TelegramAPIPlugin\TelegramAPIPlugin.csproj" />
+  </ItemGroup>
+</Project>

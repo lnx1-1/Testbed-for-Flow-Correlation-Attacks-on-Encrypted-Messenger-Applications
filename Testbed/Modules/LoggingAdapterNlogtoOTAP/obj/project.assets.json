@@ -1,0 +1,210 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "NLog/5.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "OpenTAP/9.21.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "related": ".Package.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "related": ".Package.xml;.xml"
+          }
+        },
+        "build": {
+          "build/OpenTap.props": {},
+          "build/OpenTap.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NLog/5.1.3": {
+      "sha512": "rB8hwjBf1EZCfG5iPfsv3gPksLoJLr1cOrt7PBbJu6VpJgwYJchDzTUT1dhNDdPv0QakXJQJOhE59ErupcznQQ==",
+      "type": "package",
+      "path": "nlog/5.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/net46/NLog.dll",
+        "lib/net46/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "nlog.5.1.3.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    },
+    "OpenTAP/9.21.0": {
+      "sha512": "A2Xk/OMC86QGxkqKt86HBmV9DWdRx3/YkaOaXI1iX95elHJ6n7l0jt8Rg4f2prCek+uwQWUKkZv5Q/0iKTs7hA==",
+      "type": "package",
+      "path": "opentap/9.21.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DotNet.Glob.dll",
+        "build/Keysight.OpenTap.Sdk.MSBuild.dll",
+        "build/OpenTap.props",
+        "build/OpenTap.targets",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/DotNet.Glob.dll",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/LibGit2Sharp.dll",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x64",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.source",
+        "build/payload/Dependencies/Microsoft.Bcl.AsyncInterfaces.1.0.0.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "build/payload/Dependencies/Microsoft.CSharp.4.0.4.0/LICENSE.txt",
+        "build/payload/Dependencies/Microsoft.CSharp.4.0.4.0/Microsoft.CSharp.dll",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/LICENSE.txt",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/Mono.Cecil.dll",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/LICENSE.txt",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/Newtonsoft.Json.dll",
+        "build/payload/Dependencies/OpenTap.Repository.Client.4.17.0.0/OpenTap.Repository.Client.dll",
+        "build/payload/Dependencies/System.4.0.0.0/System.dll",
+        "build/payload/Dependencies/System.Buffers.4.0.3.0/System.Buffers.dll",
+        "build/payload/Dependencies/System.CodeDom.4.0.1.0/System.CodeDom.dll",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/System.Collections.Immutable.dll",
+        "build/payload/Dependencies/System.Linq.4.1.0.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Linq.4.1.0.0/System.Linq.dll",
+        "build/payload/Dependencies/System.Memory.4.0.1.1/System.Memory.dll",
+        "build/payload/Dependencies/System.Numerics.Vectors.4.1.4.0/System.Numerics.Vectors.dll",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/System.Reflection.Metadata.dll",
+        "build/payload/Dependencies/System.Runtime.CompilerServices.Unsafe.4.0.6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "build/payload/Dependencies/System.Security.Principal.Windows.5.0.0.0/System.Security.Principal.Windows.dll",
+        "build/payload/Dependencies/System.Text.Encodings.Web.4.0.5.0/System.Text.Encodings.Web.dll",
+        "build/payload/Dependencies/System.Text.Json.4.0.1.0/System.Text.Json.dll",
+        "build/payload/Dependencies/System.Threading.Tasks.Extensions.4.2.0.1/System.Threading.Tasks.Extensions.dll",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/System.ValueTuple.dll",
+        "build/payload/LICENSE.txt",
+        "build/payload/OpenTap.Package.dll",
+        "build/payload/OpenTap.Package.xml",
+        "build/payload/OpenTap.dll",
+        "build/payload/OpenTap.xml",
+        "build/payload/OpenTapApiReference.chm",
+        "build/payload/Packages/OpenTAP/OpenTap.Cli.dll",
+        "build/payload/Packages/OpenTAP/OpenTap.Plugins.BasicSteps.dll",
+        "build/payload/Packages/OpenTAP/Tap.Upgrader.exe",
+        "build/payload/Packages/OpenTAP/tap.exe.new",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.dylib.arm64",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.dylib.x64",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.so",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.source",
+        "build/runtimes/linux-x64/Packages/OpenTAP/package.xml",
+        "build/runtimes/linux-x64/tap",
+        "build/runtimes/linux-x64/tap.dll",
+        "build/runtimes/linux-x64/tap.runtimeconfig.json",
+        "build/runtimes/win-x64/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x64",
+        "build/runtimes/win-x64/Packages/OpenTAP/package.xml",
+        "build/runtimes/win-x64/tap.exe",
+        "build/runtimes/win-x86/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x86",
+        "build/runtimes/win-x86/Packages/OpenTAP/package.xml",
+        "build/runtimes/win-x86/tap.exe",
+        "lib/netstandard2.0/OpenTap.Package.dll",
+        "lib/netstandard2.0/OpenTap.Package.xml",
+        "lib/netstandard2.0/OpenTap.dll",
+        "lib/netstandard2.0/OpenTap.xml",
+        "opentap.9.21.0.nupkg.sha512",
+        "opentap.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "NLog >= 5.1.3",
+      "OpenTAP >= 9.21.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Linus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Linus\\git\\cryptCorr\\CD_Content\\Anhang\\TestbedCode\\Modules\\LoggingAdapterNlogtoOTAP\\LoggingAdapterNlogtoOTAP.csproj",
+      "projectName": "LoggingAdapterNlogtoOTAP",
+      "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\CD_Content\\Anhang\\TestbedCode\\Modules\\LoggingAdapterNlogtoOTAP\\LoggingAdapterNlogtoOTAP.csproj",
+      "packagesPath": "C:\\Users\\Linus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Linus\\git\\cryptCorr\\CD_Content\\Anhang\\TestbedCode\\Modules\\LoggingAdapterNlogtoOTAP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Linus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "NLog": {
+            "target": "Package",
+            "version": "[5.1.3, )"
+          },
+          "OpenTAP": {
+            "target": "Package",
+            "version": "[9.21.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

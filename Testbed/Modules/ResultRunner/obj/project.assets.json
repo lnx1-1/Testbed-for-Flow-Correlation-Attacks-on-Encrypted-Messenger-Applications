@@ -1,0 +1,888 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.Win32.SystemEvents/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "NLog/5.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "OpenTAP/9.21.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "related": ".Package.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenTap.dll": {
+            "related": ".Package.xml;.xml"
+          }
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "OxyPlot.Core/2.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OxyPlot.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/OxyPlot.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "PacketDotNet/1.4.6": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/PacketDotNet.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/PacketDotNet.dll": {}
+        }
+      },
+      "ScottPlot/4.1.64": {
+        "type": "package",
+        "dependencies": {
+          "System.Drawing.Common": "4.7.2",
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/net6.0/ScottPlot.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ScottPlot.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "SharpPcap/6.2.5": {
+        "type": "package",
+        "dependencies": {
+          "PacketDotNet": "1.4.6",
+          "System.Memory": "4.5.5",
+          "System.Text.Encoding.CodePages": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/SharpPcap.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharpPcap.dll": {}
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/System.Drawing.Common.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/System.Drawing.Common.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Text.Encoding.CodePages/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/System.Text.Encoding.CodePages.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encoding.CodePages.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll": {
+            "assetType": "runtime",
+            "rid": "browser"
+          }
+        }
+      },
+      "System.Text.Json/7.0.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/System.Text.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/System.Text.Json.targets": {}
+        }
+      },
+      "Detection_Impl/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NLog": "5.1.3",
+          "ProjectCommons": "1.0.0",
+          "ScottPlot": "4.1.64",
+          "SharpPcap": "6.2.5",
+          "System.Drawing.Common": "7.0.0",
+          "System.Text.Json": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Detection_Impl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Detection_Impl.dll": {}
+        }
+      },
+      "Event-Based-Impl/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NLog": "5.1.3",
+          "ProjectCommons": "1.0.0",
+          "ScottPlot": "4.1.63",
+          "SharpPcap": "6.2.5",
+          "System.Drawing.Common": "7.0.0",
+          "System.Text.Json": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Event-Based-Impl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Event-Based-Impl.dll": {}
+        }
+      },
+      "ProjectCommons/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NLog": "5.1.3",
+          "OpenTAP": "9.21.0",
+          "System.Text.Json": "7.0.2"
+        },
+        "compile": {
+          "bin/placeholder/ProjectCommons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectCommons.dll": {}
+        }
+      },
+      "ResultAnalyser/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "OpenTAP": "9.21.0",
+          "OxyPlot.Core": "2.1.2",
+          "ProjectCommons": "1.0.0",
+          "ScottPlot": "4.1.64",
+          "System.Drawing.Common": "5.0.3"
+        },
+        "compile": {
+          "bin/placeholder/ResultAnalyser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResultAnalyser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "sha512": "2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "type": "package",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Win32.SystemEvents.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Win32.SystemEvents.targets",
+        "lib/net462/Microsoft.Win32.SystemEvents.dll",
+        "lib/net462/Microsoft.Win32.SystemEvents.xml",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/net7.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net7.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
+        "microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+        "microsoft.win32.systemevents.nuspec",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.xml",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "NLog/5.1.3": {
+      "sha512": "rB8hwjBf1EZCfG5iPfsv3gPksLoJLr1cOrt7PBbJu6VpJgwYJchDzTUT1dhNDdPv0QakXJQJOhE59ErupcznQQ==",
+      "type": "package",
+      "path": "nlog/5.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/net46/NLog.dll",
+        "lib/net46/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "nlog.5.1.3.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    },
+    "OpenTAP/9.21.0": {
+      "sha512": "A2Xk/OMC86QGxkqKt86HBmV9DWdRx3/YkaOaXI1iX95elHJ6n7l0jt8Rg4f2prCek+uwQWUKkZv5Q/0iKTs7hA==",
+      "type": "package",
+      "path": "opentap/9.21.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DotNet.Glob.dll",
+        "build/Keysight.OpenTap.Sdk.MSBuild.dll",
+        "build/OpenTap.props",
+        "build/OpenTap.targets",
+        "build/payload/.opentap_recent_logs",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/DotNet.Glob.dll",
+        "build/payload/Dependencies/DotNet.Glob.3.0.1.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/LICENSE.txt",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/LibGit2Sharp.dll",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x64",
+        "build/payload/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.source",
+        "build/payload/Dependencies/Microsoft.Bcl.AsyncInterfaces.1.0.0.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "build/payload/Dependencies/Microsoft.CSharp.4.0.4.0/LICENSE.txt",
+        "build/payload/Dependencies/Microsoft.CSharp.4.0.4.0/Microsoft.CSharp.dll",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/LICENSE.txt",
+        "build/payload/Dependencies/Mono.Cecil.0.10.1.0/Mono.Cecil.dll",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/LICENSE.txt",
+        "build/payload/Dependencies/Newtonsoft.Json.12.0.0.0/Newtonsoft.Json.dll",
+        "build/payload/Dependencies/OpenTap.Repository.Client.4.17.0.0/OpenTap.Repository.Client.dll",
+        "build/payload/Dependencies/System.4.0.0.0/System.dll",
+        "build/payload/Dependencies/System.Buffers.4.0.3.0/System.Buffers.dll",
+        "build/payload/Dependencies/System.CodeDom.4.0.1.0/System.CodeDom.dll",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Collections.Immutable.1.2.3.0/System.Collections.Immutable.dll",
+        "build/payload/Dependencies/System.Linq.4.1.0.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Linq.4.1.0.0/System.Linq.dll",
+        "build/payload/Dependencies/System.Memory.4.0.1.1/System.Memory.dll",
+        "build/payload/Dependencies/System.Numerics.Vectors.4.1.4.0/System.Numerics.Vectors.dll",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.Reflection.Metadata.1.4.3.0/System.Reflection.Metadata.dll",
+        "build/payload/Dependencies/System.Runtime.CompilerServices.Unsafe.4.0.6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "build/payload/Dependencies/System.Security.Principal.Windows.5.0.0.0/System.Security.Principal.Windows.dll",
+        "build/payload/Dependencies/System.Text.Encodings.Web.4.0.5.0/System.Text.Encodings.Web.dll",
+        "build/payload/Dependencies/System.Text.Json.4.0.1.0/System.Text.Json.dll",
+        "build/payload/Dependencies/System.Threading.Tasks.Extensions.4.2.0.1/System.Threading.Tasks.Extensions.dll",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/LICENSE.txt",
+        "build/payload/Dependencies/System.ValueTuple.4.0.3.0/System.ValueTuple.dll",
+        "build/payload/LICENSE.txt",
+        "build/payload/OpenTap.Package.dll",
+        "build/payload/OpenTap.Package.xml",
+        "build/payload/OpenTap.dll",
+        "build/payload/OpenTap.xml",
+        "build/payload/OpenTapApiReference.chm",
+        "build/payload/Packages/OpenTAP/OpenTap.Cli.dll",
+        "build/payload/Packages/OpenTAP/OpenTap.Plugins.BasicSteps.dll",
+        "build/payload/Packages/OpenTAP/Tap.Upgrader.exe",
+        "build/payload/Packages/OpenTAP/tap.exe.new",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.dylib.arm64",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.dylib.x64",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.so",
+        "build/runtimes/linux-x64/Dependencies/LibGit2Sharp.0.27.0.0/libgit2-b7bad55.source",
+        "build/runtimes/linux-x64/Packages/OpenTAP/package.xml",
+        "build/runtimes/linux-x64/tap",
+        "build/runtimes/linux-x64/tap.dll",
+        "build/runtimes/linux-x64/tap.runtimeconfig.json",
+        "build/runtimes/win-x64/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x64",
+        "build/runtimes/win-x64/Packages/OpenTAP/package.xml",
+        "build/runtimes/win-x64/tap.exe",
+        "build/runtimes/win-x86/Dependencies/LibGit2Sharp.0.27.0.0/git2-b7bad55.dll.x86",
+        "build/runtimes/win-x86/Packages/OpenTAP/package.xml",
+        "build/runtimes/win-x86/tap.exe",
+        "lib/netstandard2.0/OpenTap.Package.dll",
+        "lib/netstandard2.0/OpenTap.Package.xml",
+        "lib/netstandard2.0/OpenTap.dll",
+        "lib/netstandard2.0/OpenTap.xml",
+        "opentap.9.21.0.nupkg.sha512",
+        "opentap.nuspec"
+      ]
+    },
+    "OxyPlot.Core/2.1.2": {
+      "sha512": "/BuPL1Wa7ZhpKA2DBe72md+S8PgIHF+UP/NsKfO9BiheXnbns1/tqS7s2MWIR1xFy5i+PWVC67KziGPY48mNgA==",
+      "type": "package",
+      "path": "oxyplot.core/2.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "OxyPlot_128.png",
+        "lib/net40/OxyPlot.dll",
+        "lib/net40/OxyPlot.xml",
+        "lib/net45/OxyPlot.dll",
+        "lib/net45/OxyPlot.xml",
+        "lib/netstandard1.0/OxyPlot.dll",
+        "lib/netstandard1.0/OxyPlot.xml",
+        "lib/netstandard2.0/OxyPlot.dll",
+        "lib/netstandard2.0/OxyPlot.xml",
+        "oxyplot.core.2.1.2.nupkg.sha512",
+        "oxyplot.core.nuspec"
+      ]
+    },
+    "PacketDotNet/1.4.6": {
+      "sha512": "alTw0mrKv2wDbF3jnXl4yoNqSHu4atDrPC3SMlMI8UaaLI4QuULga99SAUg+9V9y9haYBLu5EbMLtOza4O7XnA==",
+      "type": "package",
+      "path": "packetdotnet/1.4.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net47/PacketDotNet.dll",
+        "lib/netstandard2.0/PacketDotNet.dll",
+        "lib/netstandard2.1/PacketDotNet.dll",
+        "packetdotnet.1.4.6.nupkg.sha512",
+        "packetdotnet.nuspec"
+      ]
+    },
+    "ScottPlot/4.1.64": {
+      "sha512": "xotFlb3hlYK/tt5B1gap8muBdn0OHhI9pq07KoLLOuugfOXRy3unuFulUGvVDT1Y/6bQsqz8Qap9mqTZmxjOJw==",
+      "type": "package",
+      "path": "scottplot/4.1.64",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.ico",
+        "icon.png",
+        "lib/net462/ScottPlot.dll",
+        "lib/net462/ScottPlot.xml",
+        "lib/net6.0/ScottPlot.dll",
+        "lib/net6.0/ScottPlot.xml",
+        "lib/netstandard2.0/ScottPlot.dll",
+        "lib/netstandard2.0/ScottPlot.xml",
+        "scottplot.4.1.64.nupkg.sha512",
+        "scottplot.nuspec"
+      ]
+    },
+    "SharpPcap/6.2.5": {
+      "sha512": "irLFbxr6Ks6T6UaWqTxlhGF1nyJstTc4pVUOj8mlkPlQdAdP34+1h0yekcyiCc3ewZ5P4sNrvpbkc4SwcIksiw==",
+      "type": "package",
+      "path": "sharppcap/6.2.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/SharpPcap.dll",
+        "sharppcap.6.2.5.nupkg.sha512",
+        "sharppcap.nuspec"
+      ]
+    },
+    "System.Drawing.Common/7.0.0": {
+      "sha512": "KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "type": "package",
+      "path": "system.drawing.common/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Drawing.Common.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net462/System.Drawing.Common.dll",
+        "lib/net462/System.Drawing.Common.xml",
+        "lib/net6.0/System.Drawing.Common.dll",
+        "lib/net6.0/System.Drawing.Common.xml",
+        "lib/net7.0/System.Drawing.Common.dll",
+        "lib/net7.0/System.Drawing.Common.xml",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net7.0/System.Drawing.Common.xml",
+        "system.drawing.common.7.0.0.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Memory/4.5.5": {
+      "sha512": "XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "type": "package",
+      "path": "system.memory/4.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Memory.dll",
+        "lib/net461/System.Memory.xml",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.5.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net461/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/net6.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Encoding.CodePages/6.0.0": {
+      "sha512": "ZFCILZuOvtKPauZ/j/swhvw68ZRi9ATCfvGbk1QfydmcXBkIWecWKn/250UH7rahZ5OoDBaiAudJtPvLwzw85A==",
+      "type": "package",
+      "path": "system.text.encoding.codepages/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Text.Encoding.CodePages.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Text.Encoding.CodePages.dll",
+        "lib/net461/System.Text.Encoding.CodePages.xml",
+        "lib/net6.0/System.Text.Encoding.CodePages.dll",
+        "lib/net6.0/System.Text.Encoding.CodePages.xml",
+        "lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll",
+        "lib/netcoreapp3.1/System.Text.Encoding.CodePages.xml",
+        "lib/netstandard2.0/System.Text.Encoding.CodePages.dll",
+        "lib/netstandard2.0/System.Text.Encoding.CodePages.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/win/lib/net461/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/net461/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/net6.0/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/netcoreapp3.1/System.Text.Encoding.CodePages.xml",
+        "runtimes/win/lib/netstandard2.0/System.Text.Encoding.CodePages.dll",
+        "runtimes/win/lib/netstandard2.0/System.Text.Encoding.CodePages.xml",
+        "system.text.encoding.codepages.6.0.0.nupkg.sha512",
+        "system.text.encoding.codepages.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "sha512": "OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "type": "package",
+      "path": "system.text.encodings.web/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.Text.Encodings.Web.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Text.Encodings.Web.targets",
+        "lib/net462/System.Text.Encodings.Web.dll",
+        "lib/net462/System.Text.Encodings.Web.xml",
+        "lib/net6.0/System.Text.Encodings.Web.dll",
+        "lib/net6.0/System.Text.Encodings.Web.xml",
+        "lib/net7.0/System.Text.Encodings.Web.dll",
+        "lib/net7.0/System.Text.Encodings.Web.xml",
+        "lib/netstandard2.0/System.Text.Encodings.Web.dll",
+        "lib/netstandard2.0/System.Text.Encodings.Web.xml",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll",
+        "runtimes/browser/lib/net6.0/System.Text.Encodings.Web.xml",
+        "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll",
+        "runtimes/browser/lib/net7.0/System.Text.Encodings.Web.xml",
+        "system.text.encodings.web.7.0.0.nupkg.sha512",
+        "system.text.encodings.web.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Text.Json/7.0.2": {
+      "sha512": "/LZf/JrGyilojqwpaywb+sSz8Tew7ij4K/Sk+UW8AKfAK7KRhR6mKpKtTm06cYA7bCpGTWfYksIW+mVsdxPegQ==",
+      "type": "package",
+      "path": "system.text.json/7.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "README.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "analyzers/dotnet/roslyn3.11/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn3.11/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn3.11/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn4.0/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.0/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/System.Text.Json.SourceGeneration.dll",
+        "analyzers/dotnet/roslyn4.4/cs/cs/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/de/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/es/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/fr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/it/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/ja/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/ko/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/pl/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/pt-BR/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/ru/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/tr/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/zh-Hans/System.Text.Json.SourceGeneration.resources.dll",
+        "analyzers/dotnet/roslyn4.4/cs/zh-Hant/System.Text.Json.SourceGeneration.resources.dll",
+        "buildTransitive/net461/System.Text.Json.targets",
+        "buildTransitive/net462/System.Text.Json.targets",
+        "buildTransitive/net6.0/System.Text.Json.targets",
+        "buildTransitive/netcoreapp2.0/System.Text.Json.targets",
+        "buildTransitive/netstandard2.0/System.Text.Json.targets",
+        "lib/net462/System.Text.Json.dll",
+        "lib/net462/System.Text.Json.xml",
+        "lib/net6.0/System.Text.Json.dll",
+        "lib/net6.0/System.Text.Json.xml",
+        "lib/net7.0/System.Text.Json.dll",
+        "lib/net7.0/System.Text.Json.xml",
+        "lib/netstandard2.0/System.Text.Json.dll",
+        "lib/netstandard2.0/System.Text.Json.xml",
+        "system.text.json.7.0.2.nupkg.sha512",
+        "system.text.json.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Detection_Impl/1.0.0": {
+      "type": "project",
+      "path": "../../attack algorithms/C# Implementation/Event-Based-Impl/Detection_Impl/Detection_Impl.csproj",
+      "msbuildProject": "../../attack algorithms/C# Implementation/Event-Based-Impl/Detection_Impl/Detection_Impl.csproj"
+    },
+    "Event-Based-Impl/1.0.0": {
+      "type": "project",
+      "path": "../../attack algorithms/C# Implementation/Event-Based-Impl/Event-Based-Impl/Event-Based-Impl.csproj",
+      "msbuildProject": "../../attack algorithms/C# Implementation/Event-Based-Impl/Event-Based-Impl/Event-Based-Impl.csproj"
+    },
+    "ProjectCommons/1.0.0": {
+      "type": "project",
+      "path": "../../MainProject/IMSniff_Testbed_OpenTAP/ProjectCommons/ProjectCommons.csproj",
+      "msbuildProject": "../../MainProject/IMSniff_Testbed_OpenTAP/ProjectCommons/ProjectCommons.csproj"
+    },
+    "ResultAnalyser/1.0.0": {
+      "type": "project",
+      "path": "../../MainProject/IMSniff_Testbed_OpenTAP/ResultAnalyser/ResultAnalyser.csproj",
+      "msbuildProject": "../../MainProject/IMSniff_Testbed_OpenTAP/ResultAnalyser/ResultAnalyser.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Detection_Impl >= 1.0.0",
+      "Event-Based-Impl >= 1.0.0",
+      "OxyPlot.Core >= 2.1.2",
+      "ProjectCommons >= 1.0.0",
+      "ResultAnalyser >= 1.0.0",
+      "ScottPlot >= 4.1.64"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Linus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Linus\\git\\cryptCorr\\Plugins\\ResultRunner\\ResultRunner.csproj",
+      "projectName": "ResultRunner",
+      "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\Plugins\\ResultRunner\\ResultRunner.csproj",
+      "packagesPath": "C:\\Users\\Linus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Linus\\git\\cryptCorr\\Plugins\\ResultRunner\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Linus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Linus\\git\\cryptCorr\\attack algorithms\\C# Implementation\\Event-Based-Impl\\Detection_Impl\\Detection_Impl.csproj": {
+              "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\attack algorithms\\C# Implementation\\Event-Based-Impl\\Detection_Impl\\Detection_Impl.csproj"
+            },
+            "C:\\Users\\Linus\\git\\cryptCorr\\attack algorithms\\C# Implementation\\Event-Based-Impl\\Event-Based-Impl\\Event-Based-Impl.csproj": {
+              "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\attack algorithms\\C# Implementation\\Event-Based-Impl\\Event-Based-Impl\\Event-Based-Impl.csproj"
+            },
+            "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\ProjectCommons\\ProjectCommons.csproj": {
+              "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\ProjectCommons\\ProjectCommons.csproj"
+            },
+            "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\ResultAnalyser\\ResultAnalyser.csproj": {
+              "projectPath": "C:\\Users\\Linus\\git\\cryptCorr\\MainProject\\IMSniff_Testbed_OpenTAP\\ResultAnalyser\\ResultAnalyser.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "OxyPlot.Core": {
+            "target": "Package",
+            "version": "[2.1.2, )"
+          },
+          "ScottPlot": {
+            "target": "Package",
+            "version": "[4.1.64, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

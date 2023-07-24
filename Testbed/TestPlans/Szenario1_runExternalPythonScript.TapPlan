@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="AlgorithmAdapter.Event_Based.PreProcessing.PreProcessStep" Id="db45bd08-c24c-4225-8196-1e9ec4f8e24a">
+      <_PcapINPath>D:\DataUni\telegram\normal\pcaps</_PcapINPath>
+      <_TracesINpath>D:\DataUni\telegram\normal\adversary_message_traces</_TracesINpath>
+      <AmountOfFiles>500</AmountOfFiles>
+      <_PcapOutPath>D:\DataUni\converted\telegram\packetsPre3</_PcapOutPath>
+      <_TracesOutPath>D:\DataUni\converted\telegram\TracesPre3</_TracesOutPath>
+      <Name Metadata="Step Name">PreProcessStep</Name>
+    </TestStep>
+    <TestStep type="AlgorithmAdapter.Event_Based.Detection.RunExternalPythonDetectionScript" Id="4ec3cf75-48c5-4404-9dd9-3396ea62b83b">
+      <_scriptPath>C:\Users\Linus\git\cryptCorr\attack algorithms/testCode/Event-Based-IM-V2/DetectionIM_v_2.py</_scriptPath>
+      <_PcapINPath>D:\DataUni\converted\telegram\packetsPre3</_PcapINPath>
+      <_TracesINpath>D:\DataUni\converted\telegram\TracesPre3</_TracesINpath>
+      <_resultsPath>C:\Users\Linus\git\cryptCorr\Results</_resultsPath>
+      <appendTimeSuffix>true</appendTimeSuffix>
+      <Name Metadata="Step Name">RunExternalPythonDetectionScript</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan">
+  <Steps>
+    <TestStep type="AlgorithmAdapter.EventBasedV2" Id="1a33f8d8-08bc-4472-9447-c351300ca9b2">
+      <NumberOfFiles>100</NumberOfFiles>
+      <IntervalDurationInSeconds>1800</IntervalDurationInSeconds>
+      <IntervalList>300, 600, 900, 1800, 3600</IntervalList>
+      <_msgEventsFolderPath>D:\DataUni\telegram\normal\adversary_message_traces</_msgEventsFolderPath>
+      <_PcapFolderPath>D:\DataUni\telegram\normal\pcaps</_PcapFolderPath>
+      <Name Metadata="Step Name">Event-Based Batch Detection</Name>
+    </TestStep>
+  </Steps>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.21.0+795ccc10" />
+  </Package.Dependencies>
+</TestPlan>

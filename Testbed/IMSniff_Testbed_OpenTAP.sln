@@ -1,0 +1,102 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMSniff_Testbed_OpenTAP", "Modules\IMSniff_Testbed_OpenTAP/IMSniff_Testbed_OpenTAP.csproj", "{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networkScanner", "Modules\networkScanner\networkScanner.csproj", "{EC62952D-5E8A-47EC-9E2E-75E05F150D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAppConnection", "Modules\IMAppConnection/IMAppConnection.csproj", "{4163BC7B-2915-46A9-BD59-EB960B6CF94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramAPIPlugin", Modules\TelegramAPI TDlib\TelegramAPIPlugin\TelegramAPIPlugin\TelegramAPIPlugin.csproj", "{99347D25-B5B9-47D5-ACA4-CE9217162B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detection_Impl", "Modules\Attack_Algorithm\C# Implementation\Event-Based-Impl\Detection_Impl\Detection_Impl.csproj", "{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectCommons", "Modules\ProjectCommons\ProjectCommons.csproj", "{81E54D2D-022C-41FA-AE83-852DDE867D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmAdapter", "Modules\AlgorithmAdapter/AlgorithmAdapter.csproj", "{FF1FC3E7-ACF1-4BE7-8C05-6C8AB5BB07BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAdapterNlogtoOTAP", "Modules\LoggingAdapterNlogtoOTAP\LoggingAdapterNlogtoOTAP.csproj", "{E88DBF43-4808-4806-9744-1653BEBB9C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "packageSniffer", "Modules\packageSniffer/packageSniffer.csproj", "{062C3345-2CB0-4D8A-B499-6A2F8D1B8D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageInjector", "Modules\MessageInjector\MessageInjector.csproj", "{E6D3B5C2-42B7-498B-80C6-F19167990280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResultAnalyser", "Modules\ResultAnalyser/ResultAnalyser.csproj", "{2B5A156B-56B6-4A0D-915C-91DD2DE33B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramAPIPlugin", "Modules\TelegramAPI TDlib\TelegramAPIPlugin\TelegramAPIPlugin\TelegramAPIPlugin.csproj", "{2635F5CD-77C9-49F7-A9A6-381D51268A38}"
+EndProject
+Global
+				GlobalSection(SolutionConfigurationPlatforms) = preSolution
+								Debug|Any CPU = Debug|Any CPU
+								Release|Any CPU = Release|Any CPU
+					Debug x64|x64 = Debug x64|x64
+				EndGlobalSection
+				GlobalSection(ProjectConfigurationPlatforms) = postSolution
+								{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+								{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Release|Any CPU.Build.0 = Release|Any CPU
+					{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Debug|Any CPU.Build.0 = Debug|x64
+					{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{FB99CA79-BE47-4405-BF3B-D0AAEDC598DE}.Debug x64|x64.Build.0 = Debug x64|x64
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Release|Any CPU.Build.0 = Release|Any CPU
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Debug|Any CPU.Build.0 = Debug|x64
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{EC62952D-5E8A-47EC-9E2E-75E05F150D59}.Debug x64|x64.Build.0 = Debug x64|x64
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Release|Any CPU.Build.0 = Release|Any CPU
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Debug|Any CPU.Build.0 = Debug|x64
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{E3D9BFD1-FA9E-42FC-B75C-A3F224DF1D01}.Debug x64|x64.Build.0 = Debug x64|x64
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Debug|Any CPU.Build.0 = Debug|x64
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{81E54D2D-022C-41FA-AE83-852DDE867D5C}.Debug x64|x64.Build.0 = Debug x64|x64
+					{4163BC7B-2915-46A9-BD59-EB960B6CF94D}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{4163BC7B-2915-46A9-BD59-EB960B6CF94D}.Debug|Any CPU.Build.0 = Debug|x64
+					{4163BC7B-2915-46A9-BD59-EB960B6CF94D}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{4163BC7B-2915-46A9-BD59-EB960B6CF94D}.Debug x64|x64.Build.0 = Debug x64|x64
+					{FF1FC3E7-ACF1-4BE7-8C05-6C8AB5BB07BC}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{FF1FC3E7-ACF1-4BE7-8C05-6C8AB5BB07BC}.Debug x64|x64.Build.0 = Debug x64|x64
+					{FF1FC3E7-ACF1-4BE7-8C05-6C8AB5BB07BC}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{FF1FC3E7-ACF1-4BE7-8C05-6C8AB5BB07BC}.Debug|Any CPU.Build.0 = Debug|x64
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Debug x64|x64.Build.0 = Debug x64|x64
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{E88DBF43-4808-4806-9744-1653BEBB9C2B}.Debug|Any CPU.Build.0 = Debug|x64
+					{062C3345-2CB0-4D8A-B499-6A2F8D1B8D2D}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{062C3345-2CB0-4D8A-B499-6A2F8D1B8D2D}.Debug x64|x64.Build.0 = Debug x64|x64
+					{062C3345-2CB0-4D8A-B499-6A2F8D1B8D2D}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{062C3345-2CB0-4D8A-B499-6A2F8D1B8D2D}.Debug|Any CPU.Build.0 = Debug|x64
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Release|Any CPU.Build.0 = Release|Any CPU
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Debug x64|x64.Build.0 = Debug x64|x64
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Debug|Any CPU.ActiveCfg = Debug|x64
+					{E6D3B5C2-42B7-498B-80C6-F19167990280}.Debug|Any CPU.Build.0 = Debug|x64
+					{2B5A156B-56B6-4A0D-915C-91DD2DE33B35}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{2B5A156B-56B6-4A0D-915C-91DD2DE33B35}.Debug x64|x64.Build.0 = Debug x64|x64
+					{2B5A156B-56B6-4A0D-915C-91DD2DE33B35}.Debug|Any CPU.ActiveCfg = Debug x64|x64
+					{2B5A156B-56B6-4A0D-915C-91DD2DE33B35}.Debug|Any CPU.Build.0 = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Debug|Any CPU.ActiveCfg = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Debug|Any CPU.Build.0 = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Release|Any CPU.ActiveCfg = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Release|Any CPU.Build.0 = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Debug x64|x64.ActiveCfg = Debug x64|x64
+					{2635F5CD-77C9-49F7-A9A6-381D51268A38}.Debug x64|x64.Build.0 = Debug x64|x64
+				EndGlobalSection
+				GlobalSection(SolutionProperties) = preSolution
+								HideSolutionNode = FALSE
+				EndGlobalSection
+				GlobalSection(ExtensibilityGlobals) = postSolution
+								SolutionGuid = {6BD0D041-7D12-434E-8482-B975FADE1CED}
+				EndGlobalSection
+EndGlobal

@@ -24,3 +24,4 @@ The modular structure of the testbed also facilitated the analysis of published 
 
 The development of this testbed aims to further investigate such attacks — not only to raise greater awareness of such threats but also to advance research in the field of countermeasures.
  
+Author: Linus Kurz

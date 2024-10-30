@@ -2,8 +2,9 @@
 
  This Repository contains the sourcode and generated data of a IT-Securtiy Testbed for "Flow-Correlation Attacks".
 
- It is part of the Bachelorthesis ["Testbed-for-Flow-Correlation-Attacks-on-Encrypted-Messenger-Applications"](/Thesis/Testbed-for-Flow-Correlation-Attacks-on-Encrypted-Messenger-Applications.pdf) 
-
+ It is part of the Bachelorthesis ["Testbed-for-Flow-Correlation-Attacks-on-Encrypted-Messenger-Applications"](/Thesis/Testbed-for-Flow-Correlation-Attacks-on-Encrypted-Messenger-Applications.pdf)
+ 
+ **DOI: [10.13140/RG.2.2.24052.36482](http://dx.doi.org/10.13140/RG.2.2.24052.36482)**
 ## Abstract
 
 Current political developments highlight the importance of encrypted and anonymous communication for safeguarding our human rights. Therefore, attacks on applications that provide such services are extremely concerning.
